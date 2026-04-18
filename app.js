@@ -1,5 +1,5 @@
 let mode = "guided";
-let currentRow = 0;
+let currentStep = 0;
 let stitchMode = "SC";
 
 const urlParams = new URLSearchParams(window.location.search);
@@ -7,6 +7,8 @@ const defaultPatternSlug = Object.keys(patterns)[0];
 const requestedPatternSlug = urlParams.get("pattern");
 const patternSlug = patterns[requestedPatternSlug] ? requestedPatternSlug : defaultPatternSlug;
 const pattern = patterns[patternSlug];
+const patternType = pattern.patternType || "row";
+const patternSteps = pattern.steps || pattern.rows || [];
 const storageKey = `crochet-pattern-progress:${pattern.slug}`;
 
 const colorMap = pattern.colors || {};
@@ -15,9 +17,40 @@ const legendItems = Object.entries(colorMap).map(([name, color]) => ({
   color
 }));
 
-let completedRows = [];
+let completedSteps = [];
+
+function getUnitLabel(plural = false) {
+  if (plural) {
+    return pattern.stepLabelPlural || (patternType === "c2c" ? "Diagonals" : "Rows");
+  }
+
+  return pattern.stepLabelSingular || (patternType === "c2c" ? "Diagonal" : "Row");
+}
 
 function getPatternCopy() {
+  if (patternType === "c2c") {
+    return {
+      intro:
+        pattern.intro ||
+        "Follow the C2C pattern step by step online and track your progress as you crochet.",
+      howToUseNote:
+        pattern.howToUseNote ||
+        "Guided Mode shows one diagonal at a time. Full Pattern shows every diagonal as a reference.",
+      currentRowHelper:
+        pattern.currentRowHelper ||
+        "Use Guided Mode to focus on one diagonal at a time while you crochet.",
+      graphNoteTitle: pattern.graphNoteTitle || "Graph View",
+      graphNoteBody:
+        pattern.graphNoteBody ||
+        "Use the Open Full Graph button to see the complete chart with your current diagonal highlighted.",
+      graphModalLabel: pattern.graphModalLabel || "Full Graph",
+      graphModalTitle: pattern.graphModalTitle || "Pattern Chart",
+      graphModalCopy:
+        pattern.graphModalCopy ||
+        "The highlighted band shows your current diagonal in the graph."
+    };
+  }
+
   return {
     intro:
       pattern.intro ||
@@ -40,6 +73,80 @@ function getPatternCopy() {
   };
 }
 
+function getStepNumber(step, index) {
+  return step.number ?? index + 1;
+}
+
+function getStepTitle(step, index) {
+  if (step.title) {
+    return step.title;
+  }
+
+  const sideText = step.side ? ` (${step.side})` : "";
+  return `${getUnitLabel()} ${getStepNumber(step, index)}${sideText}`;
+}
+
+function getStepVisualBlocks(step) {
+  const sourceBlocks = Array.isArray(step.chartBlocks)
+    ? step.chartBlocks
+    : parseInstructionBlocks(step.instructions || "");
+
+  const blocks = [];
+
+  sourceBlocks.forEach((block) => {
+    for (let i = 0; i < block.count; i += 1) {
+      blocks.push({
+        colorName: block.colorName,
+        colorValue: colorMap[block.colorName] || "#cccccc"
+      });
+    }
+  });
+
+  return blocks;
+}
+
+function getStepTotalValue(step) {
+  if (typeof step.totalBlocks === "number") {
+    return step.totalBlocks;
+  }
+
+  if (typeof step.totalStitches === "number") {
+    return step.totalStitches;
+  }
+
+  return getStepVisualBlocks(step).length;
+}
+
+function getTotalLabel() {
+  return pattern.totalLabel || (patternType === "c2c" ? "Total blocks" : "Total stitches");
+}
+
+function getDirectionLabel() {
+  return pattern.directionLabel || (patternType === "c2c" ? "Step note" : "Turning instruction");
+}
+
+function getVisualLabel() {
+  return pattern.visualLabel || (patternType === "c2c" ? "Visual block chart" : "Visual row chart");
+}
+
+function getVisualSummary(count) {
+  return patternType === "c2c"
+    ? `${count} blocks shown in this step`
+    : `${count} stitches shown in this row`;
+}
+
+function getTurnText(step) {
+  if (step.turnText) {
+    return step.turnText;
+  }
+
+  if (patternType === "c2c") {
+    return "Follow the C2C increase, even, or decrease instructions for this diagonal.";
+  }
+
+  return stitchMode === "HDC" ? "Chain 2 and turn." : "Chain 1 and turn.";
+}
+
 function loadProgress() {
   const saved = localStorage.getItem(storageKey);
 
@@ -49,14 +156,14 @@ function loadProgress() {
 
   try {
     const progress = JSON.parse(saved);
-    currentRow = Math.min(progress.currentRow ?? 0, pattern.rows.length - 1);
-    completedRows = (progress.completedRows ?? []).filter(
-      (rowIndex) => rowIndex < pattern.rows.length
+    currentStep = Math.min(progress.currentStep ?? progress.currentRow ?? 0, patternSteps.length - 1);
+    completedSteps = (progress.completedSteps ?? progress.completedRows ?? []).filter(
+      (stepIndex) => stepIndex < patternSteps.length
     );
     stitchMode = progress.stitchMode ?? "SC";
   } catch (error) {
-    currentRow = 0;
-    completedRows = [];
+    currentStep = 0;
+    completedSteps = [];
     stitchMode = "SC";
   }
 }
@@ -65,8 +172,8 @@ function saveProgress() {
   localStorage.setItem(
     storageKey,
     JSON.stringify({
-      currentRow,
-      completedRows,
+      currentStep,
+      completedSteps,
       stitchMode
     })
   );
@@ -84,6 +191,10 @@ function initializePatternContent() {
   const graphModalLabel = document.getElementById("graphModalLabel");
   const graphModalTitle = document.getElementById("graphModalTitle");
   const graphModalCopy = document.getElementById("graphModalCopy");
+  const rowSelectLabel = document.getElementById("rowSelectLabel");
+  const currentStepLabel = document.getElementById("currentStepLabel");
+  const patternSectionTitle = document.getElementById("patternSectionTitle");
+  const patternSectionCopy = document.getElementById("patternSectionCopy");
 
   document.title = `${pattern.title} | Interactive Crochet Pattern`;
 
@@ -127,6 +238,25 @@ function initializePatternContent() {
   if (graphModalCopy) {
     graphModalCopy.textContent = copy.graphModalCopy;
   }
+
+  if (rowSelectLabel) {
+    rowSelectLabel.textContent = `Jump to ${getUnitLabel().toLowerCase()}:`;
+  }
+
+  if (currentStepLabel) {
+    currentStepLabel.textContent = `Current ${getUnitLabel()}`;
+  }
+
+  if (patternSectionTitle) {
+    patternSectionTitle.textContent = `Pattern ${getUnitLabel(true)}`;
+  }
+
+  if (patternSectionCopy) {
+    patternSectionCopy.textContent =
+      patternType === "c2c"
+        ? "Use this as your full diagonal-by-diagonal reference below."
+        : "Use this as your full reference view below.";
+  }
 }
 
 function populateRowSelect() {
@@ -135,10 +265,10 @@ function populateRowSelect() {
 
   rowSelect.innerHTML = "";
 
-  pattern.rows.forEach((row, index) => {
+  patternSteps.forEach((step, index) => {
     const option = document.createElement("option");
     option.value = index;
-    option.textContent = `Row ${row.number} (${row.side})`;
+    option.textContent = getStepTitle(step, index);
     rowSelect.appendChild(option);
   });
 }
@@ -197,52 +327,47 @@ function parseInstructionBlocks(instructions) {
     .filter(Boolean);
 }
 
-function buildStitchBlocks(row) {
-  const blocks = parseInstructionBlocks(row.instructions);
-  const stitches = [];
-
-  blocks.forEach((block) => {
-    for (let i = 0; i < block.count; i += 1) {
-      stitches.push({
-        colorName: block.colorName,
-        colorValue: colorMap[block.colorName] || "#cccccc"
-      });
-    }
-  });
-
-  return stitches;
-}
-
-function createChart(row) {
-  const stitches = buildStitchBlocks(row);
+function createChart(step) {
+  const blocks = getStepVisualBlocks(step);
   const chart = document.createElement("div");
-  chart.className = "stitch-chart";
+  chart.className = patternType === "c2c" ? "stitch-chart c2c-chart" : "stitch-chart";
 
-  stitches.forEach((stitch, index) => {
+  blocks.forEach((block, index) => {
     const cell = document.createElement("div");
-    cell.className = "stitch-cell";
-    cell.style.backgroundColor = stitch.colorValue;
-    cell.title = `Stitch ${index + 1}: ${stitch.colorName}`;
+    cell.className = patternType === "c2c" ? "stitch-cell c2c-cell" : "stitch-cell";
+    cell.style.backgroundColor = block.colorValue;
+    cell.title = `${patternType === "c2c" ? "Block" : "Stitch"} ${index + 1}: ${block.colorName}`;
     chart.appendChild(cell);
   });
 
   return chart;
 }
 
-function getTurnText() {
-  return stitchMode === "HDC" ? "Chain 2 and turn." : "Chain 1 and turn.";
-}
-
 function renderNotes() {
   const turnInstructionNote = document.getElementById("turnInstructionNote");
-  if (!turnInstructionNote) return;
+  const stitchModeLabel = document.getElementById("stitchModeLabel");
+  const stitchModeSelect = document.getElementById("stitchModeSelect");
 
-  turnInstructionNote.textContent =
-    stitchMode === "HDC" ? "For HDC, chain 2 and turn." : "For SC, chain 1 and turn.";
+  if (turnInstructionNote) {
+    turnInstructionNote.textContent =
+      patternType === "c2c"
+        ? "C2C patterns use diagonal block steps, so each step note can cover increasing, even work, or decreasing."
+        : stitchMode === "HDC"
+          ? "For HDC, chain 2 and turn."
+          : "For SC, chain 1 and turn.";
+  }
+
+  if (stitchModeLabel) {
+    stitchModeLabel.hidden = patternType === "c2c";
+  }
+
+  if (stitchModeSelect) {
+    stitchModeSelect.hidden = patternType === "c2c";
+  }
 }
 
 function renderCurrentRow() {
-  const row = pattern.rows[currentRow];
+  const step = patternSteps[currentStep];
   const title = document.getElementById("currentRowTitle");
   const instructions = document.getElementById("currentRowInstructions");
   const total = document.getElementById("currentRowTotal");
@@ -250,9 +375,10 @@ function renderCurrentRow() {
   const chartContainer = document.getElementById("currentRowChart");
   const badge = document.getElementById("currentRowBadge");
   const stitchSummary = document.getElementById("currentRowStitchSummary");
+  const chartLabels = document.querySelectorAll(".chart-label strong");
 
   if (
-    !row ||
+    !step ||
     !title ||
     !instructions ||
     !total ||
@@ -264,25 +390,29 @@ function renderCurrentRow() {
     return;
   }
 
-  const isCompleted = completedRows.includes(currentRow);
-  const stitches = buildStitchBlocks(row);
+  const isCompleted = completedSteps.includes(currentStep);
+  const blocks = getStepVisualBlocks(step);
 
-  title.textContent = `Row ${row.number} (${row.side})`;
-  instructions.innerHTML = `<strong>Instructions:</strong> ${row.instructions}`;
-  total.innerHTML = `<strong>Total stitches:</strong> ${row.totalStitches}`;
-  direction.innerHTML = `<strong>Turning instruction:</strong> ${getTurnText()}`;
+  title.textContent = getStepTitle(step, currentStep);
+  instructions.innerHTML = `<strong>Instructions:</strong> ${step.instructions || "No instructions added yet."}`;
+  total.innerHTML = `<strong>${getTotalLabel()}:</strong> ${getStepTotalValue(step)}`;
+  direction.innerHTML = `<strong>${getDirectionLabel()}:</strong> ${getTurnText(step)}`;
 
   badge.textContent = isCompleted ? "Completed" : "In Progress";
   badge.className = isCompleted ? "current-row-badge completed" : "current-row-badge";
 
-  stitchSummary.textContent = `${stitches.length} stitches shown in this row`;
+  stitchSummary.textContent = getVisualSummary(blocks.length);
+
+  chartLabels.forEach((label) => {
+    label.textContent = `${getVisualLabel()}:`;
+  });
 
   chartContainer.innerHTML = "";
-  chartContainer.appendChild(createChart(row));
+  chartContainer.appendChild(createChart(step));
 }
 
-function goToRow(rowIndex) {
-  currentRow = rowIndex;
+function goToStep(stepIndex) {
+  currentStep = stepIndex;
   mode = "guided";
   render();
 }
@@ -304,39 +434,39 @@ function renderPatternList() {
   patternSection.style.display = "block";
   container.innerHTML = "";
 
-  pattern.rows.forEach((row, index) => {
+  patternSteps.forEach((step, index) => {
     const div = document.createElement("div");
     div.className = "row";
     div.style.cursor = "pointer";
-    div.onclick = () => goToRow(index);
+    div.onclick = () => goToStep(index);
 
-    if (index === currentRow) {
+    if (index === currentStep) {
       div.classList.add("active");
     }
 
-    if (completedRows.includes(index)) {
+    if (completedSteps.includes(index)) {
       div.classList.add("completed");
     }
 
     const title = document.createElement("h3");
-    title.textContent = `Row ${row.number} (${row.side})`;
+    title.textContent = getStepTitle(step, index);
 
     const instructions = document.createElement("p");
-    instructions.innerHTML = `<strong>Instructions:</strong> ${row.instructions}`;
+    instructions.innerHTML = `<strong>Instructions:</strong> ${step.instructions || "No instructions added yet."}`;
 
     const total = document.createElement("p");
-    total.innerHTML = `<strong>Total stitches:</strong> ${row.totalStitches}`;
+    total.innerHTML = `<strong>${getTotalLabel()}:</strong> ${getStepTotalValue(step)}`;
 
     const direction = document.createElement("p");
-    direction.innerHTML = `<strong>Turning instruction:</strong> ${getTurnText()}`;
+    direction.innerHTML = `<strong>${getDirectionLabel()}:</strong> ${getTurnText(step)}`;
 
     const chartLabel = document.createElement("div");
     chartLabel.className = "chart-label";
-    chartLabel.innerHTML = "<strong>Visual row chart:</strong>";
+    chartLabel.innerHTML = `<strong>${getVisualLabel()}:</strong>`;
 
     const stitchSummary = document.createElement("p");
     stitchSummary.className = "stitch-summary";
-    stitchSummary.textContent = `${buildStitchBlocks(row).length} stitches shown in this row`;
+    stitchSummary.textContent = getVisualSummary(getStepVisualBlocks(step).length);
 
     div.appendChild(title);
     div.appendChild(instructions);
@@ -344,7 +474,7 @@ function renderPatternList() {
     div.appendChild(direction);
     div.appendChild(chartLabel);
     div.appendChild(stitchSummary);
-    div.appendChild(createChart(row));
+    div.appendChild(createChart(step));
 
     container.appendChild(div);
   });
@@ -361,13 +491,13 @@ function updateGraphHighlight() {
     return;
   }
 
-  const totalRows = pattern.rows.length;
+  const totalSteps = patternSteps.length;
   const imageHeight = graphImage.clientHeight;
-  const rowHeight = imageHeight / totalRows;
-  const highlightTop = imageHeight - rowHeight * (currentRow + 1) + rowHeight / 2;
+  const stepHeight = imageHeight / totalSteps;
+  const highlightTop = imageHeight - stepHeight * (currentStep + 1) + stepHeight / 2;
 
   graphHighlight.style.top = `${highlightTop}px`;
-  graphHighlight.style.height = `${rowHeight}px`;
+  graphHighlight.style.height = `${stepHeight}px`;
   graphHighlight.style.display = "block";
 }
 
@@ -400,20 +530,23 @@ function render() {
     return;
   }
 
-  rowSelect.value = String(currentRow);
+  rowSelect.value = String(currentStep);
   syncStitchModeSelect();
 
-  const completedCount = completedRows.length;
-  progressText.textContent = `Row ${currentRow + 1} of ${pattern.rows.length} | ${completedCount} completed | ${stitchMode}`;
+  const completedCount = completedSteps.length;
+  progressText.textContent =
+    patternType === "c2c"
+      ? `${getUnitLabel()} ${currentStep + 1} of ${patternSteps.length} | ${completedCount} completed`
+      : `${getUnitLabel()} ${currentStep + 1} of ${patternSteps.length} | ${completedCount} completed | ${stitchMode}`;
 
   graphButtons.forEach((button) => {
     button.hidden = !pattern.graphImageUrl;
   });
 
   completeButtons.forEach((button) => {
-    button.textContent = completedRows.includes(currentRow)
-      ? "Mark Row Incomplete"
-      : "Mark Row Complete";
+    button.textContent = completedSteps.includes(currentStep)
+      ? `Mark ${getUnitLabel()} Incomplete`
+      : `Mark ${getUnitLabel()} Complete`;
   });
 
   renderNotes();
@@ -424,15 +557,15 @@ function render() {
 }
 
 function nextRow() {
-  if (currentRow < pattern.rows.length - 1) {
-    currentRow += 1;
+  if (currentStep < patternSteps.length - 1) {
+    currentStep += 1;
     render();
   }
 }
 
 function prevRow() {
-  if (currentRow > 0) {
-    currentRow -= 1;
+  if (currentStep > 0) {
+    currentStep -= 1;
     render();
   }
 }
@@ -444,7 +577,7 @@ function setMode(newMode) {
 
 function jumpToRow() {
   const rowSelect = document.getElementById("rowSelect");
-  currentRow = Number(rowSelect.value);
+  currentStep = Number(rowSelect.value);
   render();
 }
 
@@ -457,19 +590,19 @@ function changeStitchMode() {
 }
 
 function toggleCompleteRow() {
-  if (completedRows.includes(currentRow)) {
-    completedRows = completedRows.filter((rowIndex) => rowIndex !== currentRow);
+  if (completedSteps.includes(currentStep)) {
+    completedSteps = completedSteps.filter((stepIndex) => stepIndex !== currentStep);
   } else {
-    completedRows.push(currentRow);
-    completedRows.sort((a, b) => a - b);
+    completedSteps.push(currentStep);
+    completedSteps.sort((a, b) => a - b);
   }
 
   render();
 }
 
 function resetProgress() {
-  currentRow = 0;
-  completedRows = [];
+  currentStep = 0;
+  completedSteps = [];
   stitchMode = "SC";
   localStorage.removeItem(storageKey);
   render();
