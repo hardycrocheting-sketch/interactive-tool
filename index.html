@@ -37,6 +37,9 @@
       <label id="rowSelectLabel" for="rowSelect">Jump to row:</label>
       <select id="rowSelect" onchange="jumpToRow()"></select>
 
+      <label id="variantSelectLabel" for="variantSelect" hidden>Size:</label>
+      <select id="variantSelect" onchange="changeVariant()" hidden></select>
+
       <label id="stitchModeLabel" for="stitchModeSelect">Stitch type:</label>
       <select id="stitchModeSelect" onchange="changeStitchMode()">
         <option value="SC">Single Crochet (SC)</option>
