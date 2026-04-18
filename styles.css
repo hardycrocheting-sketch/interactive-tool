@@ -306,6 +306,18 @@ body {
   height: 14px;
 }
 
+.c2c-chart {
+  gap: 6px;
+}
+
+.c2c-cell {
+  flex: 0 0 22px;
+  width: 22px;
+  height: 22px;
+  border-radius: 6px;
+  border: 1px solid rgba(47, 36, 31, 0.14);
+}
+
 .current-row-actions {
   margin-top: 20px;
 }
@@ -321,6 +333,55 @@ body {
 
 .pattern-list {
   padding: 0;
+}
+
+.shop-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 18px;
+}
+
+.shop-card {
+  background: var(--surface-strong);
+  border: 1px solid var(--border);
+  border-radius: 22px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.shop-card-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  background: linear-gradient(135deg, #f3e4d5 0%, #ead7c4 100%);
+}
+
+.shop-card-body {
+  padding: 18px;
+}
+
+.shop-card-tag {
+  margin: 0 0 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+.shop-card-body h3 {
+  margin: 0 0 10px;
+}
+
+.shop-card-body p {
+  line-height: 1.6;
+}
+
+.shop-card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 16px;
 }
 
 .row {
