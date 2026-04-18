@@ -11,9 +11,11 @@
     <header class="hero">
       <p class="eyebrow">Interactive Pattern</p>
       <h1 id="patternTitle">Interactive Crochet Pattern</h1>
-    <p id="patternIntro" class="intro">
-  Follow the pattern row by row online and track your progress as you crochet.
-</p>
+      <p id="patternIntro" class="intro">
+        Follow the pattern row by row online, or open the PDF if you prefer to
+        print it.
+      </p>
+
       <div class="hero-actions">
         <button type="button" class="mode-button" onclick="setMode('guided')">
           Guided Mode
@@ -32,10 +34,10 @@
     </section>
 
     <section class="tools-panel">
-      <label for="rowSelect">Jump to row:</label>
+      <label id="rowSelectLabel" for="rowSelect">Jump to row:</label>
       <select id="rowSelect" onchange="jumpToRow()"></select>
 
-      <label for="stitchModeSelect">Stitch type:</label>
+      <label id="stitchModeLabel" for="stitchModeSelect">Stitch type:</label>
       <select id="stitchModeSelect" onchange="changeStitchMode()">
         <option value="SC">Single Crochet (SC)</option>
         <option value="HDC">Half Double Crochet (HDC)</option>
@@ -76,7 +78,7 @@
     <section class="current-row-panel">
       <div class="current-row-header">
         <div>
-          <p class="current-row-label">Current Row</p>
+          <p id="currentStepLabel" class="current-row-label">Current Row</p>
           <h2 id="currentRowTitle">Row 1</h2>
           <p class="current-row-helper">
             Use Guided Mode to focus on one row at a time while you crochet.
@@ -105,8 +107,8 @@
 
     <section class="pattern-section">
       <div class="pattern-section-header">
-        <h2>Pattern Rows</h2>
-        <p>Use this as your full reference view below.</p>
+        <h2 id="patternSectionTitle">Pattern Rows</h2>
+        <p id="patternSectionCopy">Use this as your full reference view below.</p>
       </div>
       <section id="pattern" class="pattern-list"></section>
     </section>
