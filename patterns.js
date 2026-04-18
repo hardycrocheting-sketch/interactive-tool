@@ -2,6 +2,7 @@ const patterns = {
   "stitch-colorwork": {
     title: "Stitch Colorwork Pattern",
     slug: "stitch-colorwork",
+    patternType: "row",
     pdfUrl: "pattern.pdf",
     graphImageUrl: "Stitch Pattern graph.png",
     graphImageAlt: "Stitch Colorwork Pattern graph",
@@ -171,5 +172,87 @@ const patterns = {
     { number: 146, side: "WS", instructions: "Gray x 98, Black x 6, Gray x 18", totalStitches: 122 },
     { number: 147, side: "RS", instructions: "Gray x 122", totalStitches: 122 }
    ]
+  },
+  "c2c-sunrise-swatch": {
+    title: "C2C Sunrise Swatch",
+    slug: "c2c-sunrise-swatch",
+    patternType: "c2c",
+    intro: "Follow this C2C swatch diagonal by diagonal online and track your progress as you go.",
+    howToUseNote:
+      "Guided Mode shows one diagonal at a time. Full Pattern shows every diagonal as a reference.",
+    currentRowHelper: "Use Guided Mode to focus on one diagonal at a time while you crochet.",
+    graphNoteTitle: "Graph View",
+    graphNoteBody: "This sample C2C pattern does not include a graph image yet.",
+    graphModalLabel: "Full Graph",
+    graphModalTitle: "C2C Chart",
+    graphModalCopy: "Add a graph image to this pattern later if you want highlighted progress here.",
+    stepLabelSingular: "Diagonal",
+    stepLabelPlural: "Diagonals",
+    totalLabel: "Total blocks",
+    directionLabel: "Step note",
+    visualLabel: "Visual block chart",
+    colors: {
+      Cream: "#f5e8d4",
+      Peach: "#f2b98e",
+      Coral: "#df7c67",
+      Rose: "#c85d73",
+      Plum: "#7b4c6c"
+    },
+    steps: [
+      {
+        number: 1,
+        instructions: "Cream x 1",
+        totalBlocks: 1,
+        turnText: "Increase: make the first C2C block."
+      },
+      {
+        number: 2,
+        instructions: "Cream x 1, Peach x 1",
+        totalBlocks: 2,
+        turnText: "Increase: add one block at the start of the diagonal."
+      },
+      {
+        number: 3,
+        instructions: "Cream x 1, Peach x 1, Coral x 1",
+        totalBlocks: 3,
+        turnText: "Increase: keep building outward."
+      },
+      {
+        number: 4,
+        instructions: "Peach x 1, Coral x 2, Rose x 1",
+        totalBlocks: 4,
+        turnText: "Increase: add one more block and follow the color changes."
+      },
+      {
+        number: 5,
+        instructions: "Coral x 1, Rose x 2, Plum x 2",
+        totalBlocks: 5,
+        turnText: "Even section: maintain the same number of blocks across the diagonal."
+      },
+      {
+        number: 6,
+        instructions: "Rose x 1, Plum x 2, Rose x 1",
+        totalBlocks: 4,
+        turnText: "Decrease: slip stitch into the next block before starting the diagonal."
+      },
+      {
+        number: 7,
+        instructions: "Plum x 1, Rose x 1, Coral x 1",
+        totalBlocks: 3,
+        turnText: "Decrease again and continue matching the color chart."
+      },
+      {
+        number: 8,
+        instructions: "Rose x 1, Peach x 1",
+        totalBlocks: 2,
+        turnText: "Decrease: work two blocks in this diagonal."
+      },
+      {
+        number: 9,
+        instructions: "Cream x 1",
+        totalBlocks: 1,
+        turnText: "Final decrease: finish with the last C2C block."
+      }
+    ]
   }
 };
