@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title id="pageTitle">Interactive Crochet Pattern</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="page">
+    <header class="hero">
+      <p class="eyebrow">Interactive Pattern</p>
+      <h1 id="patternTitle">Interactive Crochet Pattern</h1>
+      <p id="patternIntro" class="intro">
+        Follow the pattern row by row online, or open the PDF if you prefer to
+        print it.
+      </p>
+
+      <div class="hero-actions">
+        <button type="button" class="mode-button" onclick="setMode('guided')">
+          Guided Mode
+        </button>
+        <button type="button" class="mode-button" onclick="setMode('full')">
+          Full Pattern
+        </button>
+        <button type="button" class="mode-button" onclick="openGraphModal()">
+          Open Full Graph
+        </button>
+      </div>
+    </header>
+
+    <section class="status-bar">
+      <p id="progressText">Row 1 of 147</p>
+    </section>
+
+    <section class="tools-panel">
+      <label for="rowSelect">Jump to row:</label>
+      <select id="rowSelect" onchange="jumpToRow()"></select>
+
+      <label for="stitchModeSelect">Stitch type:</label>
+      <select id="stitchModeSelect" onchange="changeStitchMode()">
+        <option value="SC">Single Crochet (SC)</option>
+        <option value="HDC">Half Double Crochet (HDC)</option>
+      </select>
+
+      <button type="button" class="complete-button" onclick="toggleCompleteRow()">
+        Mark Row Complete
+      </button>
+
+      <button type="button" class="reset-button" onclick="resetProgress()">
+        Reset Progress
+      </button>
+    </section>
+
+    <section class="legend-panel">
+      <h2>Color Legend</h2>
+      <div id="legend" class="legend-list"></div>
+    </section>
+
+    <section class="notes-panel">
+      <h2>Pattern Notes</h2>
+      <div class="notes-grid">
+        <div class="note-card">
+          <h3>How To Use This Pattern</h3>
+          <p id="howToUseNote">Guided Mode shows one row at a time. Full Pattern shows every row as a reference.</p>
+        </div>
+        <div class="note-card">
+          <h3>Turning Instructions</h3>
+          <p id="turnInstructionNote">For SC, chain 1 and turn.</p>
+        </div>
+        <div class="note-card">
+          <h3 id="graphNoteTitle">Graph View</h3>
+          <p id="graphNoteBody">Use the Open Full Graph button to see the complete chart with your current row highlighted.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="current-row-panel">
+      <div class="current-row-header">
+        <div>
+          <p class="current-row-label">Current Row</p>
+          <h2 id="currentRowTitle">Row 1</h2>
+          <p class="current-row-helper">
+            Use Guided Mode to focus on one row at a time while you crochet.
+          </p>
+        </div>
+
+        <span id="currentRowBadge" class="current-row-badge">In Progress</span>
+      </div>
+
+      <p id="currentRowInstructions"></p>
+      <p id="currentRowTotal"></p>
+      <p id="currentRowDirection"></p>
+
+      <div class="chart-label"><strong>Visual row chart:</strong></div>
+      <p id="currentRowStitchSummary" class="stitch-summary"></p>
+      <div id="currentRowChart"></div>
+
+      <div class="current-row-actions">
+        <button type="button" class="nav-button" onclick="prevRow()">Previous</button>
+        <button type="button" class="complete-button" onclick="toggleCompleteRow()">
+          Mark Row Complete
+        </button>
+        <button type="button" class="nav-button" onclick="nextRow()">Next</button>
+      </div>
+    </section>
+
+    <section class="pattern-section">
+      <div class="pattern-section-header">
+        <h2>Pattern Rows</h2>
+        <p>Use this as your full reference view below.</p>
+      </div>
+      <section id="pattern" class="pattern-list"></section>
+    </section>
+  </main>
+
+  <div id="graphModal" class="graph-modal hidden" aria-hidden="true">
+    <div class="graph-modal-backdrop" onclick="closeGraphModal()"></div>
+    <div class="graph-modal-content">
+      <div class="graph-modal-header">
+        <div>
+          <p class="current-row-label" id="graphModalLabel">Full Graph</p>
+          <h2 id="graphModalTitle">Pattern Chart</h2>
+        </div>
+        <button type="button" class="graph-close-button" onclick="closeGraphModal()">
+          Close
+        </button>
+      </div>
+
+      <p id="graphModalCopy" class="graph-modal-copy">
+        The highlighted band shows your current row in the graph.
+      </p>
+
+      <div id="graphWrapper" class="graph-wrapper">
+        <img
+          id="graphImage"
+          class="graph-image"
+          src="Stitch Pattern graph.png"
+          alt="Full crochet graph"
+          onload="updateGraphHighlight()"
+        />
+        <div id="graphHighlight" class="graph-highlight"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="patterns.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
