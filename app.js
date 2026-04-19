@@ -862,7 +862,7 @@ async function startApp() {
       ? requestedVariantKey
       : defaultVariantKey;
 
-    initializePatternContent();
+  initializePatternContent();
     loadProgress();
     populateRowSelect();
     renderLegend();
@@ -870,9 +870,11 @@ async function startApp() {
   } catch (error) {
     console.error(error);
     const message =
-      error && error.message ? error.message : "Unknown loading error.";
+      error && error.message ? error.message : String(error || "Unknown loading error.");
+    const stack =
+      error && error.stack ? error.stack : "No stack available.";
     document.body.innerHTML =
-      `<main class="page"><p>Sorry, this pattern could not be loaded.</p><p>${message}</p></main>`;
+      `<main class="page"><p>Sorry, this pattern could not be loaded.</p><p>${message}</p><pre style="white-space: pre-wrap; word-break: break-word;">pattern=${requestedPatternSlug || "(none)"}\nvariant=${requestedVariantKey || "(none)"}\nsheet=${SHEET_CSV_URL}\n\n${stack}</pre></main>`;
   }
 }
 
