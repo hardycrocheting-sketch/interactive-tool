@@ -869,8 +869,10 @@ async function startApp() {
     render();
   } catch (error) {
     console.error(error);
+    const message =
+      error && error.message ? error.message : "Unknown loading error.";
     document.body.innerHTML =
-      "<main class='page'><p>Sorry, this pattern could not be loaded.</p></main>";
+      `<main class="page"><p>Sorry, this pattern could not be loaded.</p><p>${message}</p></main>`;
   }
 }
 
