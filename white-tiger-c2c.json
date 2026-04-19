@@ -16,7 +16,7 @@
     "queen": {
       "label": "Queen",
       "approxSize": "91 x 91 in"
-      "graphImageUrl": "white-tiger-c2c-queen-graph.png",
+      "graphImageUrl": "graphImages/white-tiger-c2c-queen-graph.png",
       "graphImageAlt": "White Tiger C2C Pattern Queen graph",
       "steps": [
            {
