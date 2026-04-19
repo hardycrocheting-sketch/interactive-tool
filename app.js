@@ -747,15 +747,27 @@ function updateGraphHighlight() {
     const bandEnd = Math.min(100, bandCenterPercent + bandThicknessPercent / 2);
 
     graphHighlight.classList.add("c2c-highlight");
-    graphHighlight.style.setProperty("--graph-band-start", `${bandStart}%`);
-    graphHighlight.style.setProperty("--graph-band-end", `${bandEnd}%`);
+    graphHighlight.style.border = "none";
+    graphHighlight.style.boxShadow = "none";
+    graphHighlight.style.borderRadius = "0";
+    graphHighlight.style.background = `linear-gradient(
+      to top left,
+      transparent ${bandStart}%,
+      rgba(184, 92, 56, 0.18) ${bandStart}%,
+      rgba(184, 92, 56, 0.42) ${(bandStart + bandEnd) / 2}%,
+      rgba(184, 92, 56, 0.18) ${bandEnd}%,
+      transparent ${bandEnd}%
+    )`;
   } else {
     const stepHeight = imageHeight / totalSteps;
     const highlightTop = imageTop + imageHeight - stepHeight * (currentStep + 1);
 
     graphHighlight.classList.remove("c2c-highlight");
-    graphHighlight.style.removeProperty("--graph-band-start");
-    graphHighlight.style.removeProperty("--graph-band-end");
+    graphHighlight.style.background = "rgba(184, 92, 56, 0.16)";
+    graphHighlight.style.border = "2px solid rgba(184, 92, 56, 0.95)";
+    graphHighlight.style.boxShadow =
+      "inset 0 0 0 1px rgba(255, 255, 255, 0.6)";
+    graphHighlight.style.borderRadius = "6px";
     graphHighlight.style.top = `${highlightTop}px`;
     graphHighlight.style.height = `${stepHeight}px`;
   }
