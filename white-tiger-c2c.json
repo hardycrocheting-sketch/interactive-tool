@@ -7,15 +7,15 @@
   "colors": {
     "Black": "#000000",
     "White": "#fdfdfd",
-    "Light Gray": "#dddddd"
-    "Gray": "#afafaf"
-    "Dark Gray": "#8d8d8d"
-    "Light Blue": "#72bbff"
+    "Light Gray": "#dddddd",
+    "Gray": "#afafaf",
+    "Dark Gray": "#8d8d8d",
+    "Light Blue": "#72bbff",
   },
   "variants": {
     "queen": {
       "label": "Queen",
-      "approxSize": "91 x 91 in"
+      "approxSize": "91 x 91 in",
       "graphImageUrl": "graphImages/white-tiger-c2c-queen-graph.png",
       "graphImageAlt": "White Tiger C2C Pattern Queen graph",
       "steps": [
@@ -1469,7 +1469,7 @@
     },
     "king": {
       "label": "King",
-      "approxSize": "113 x 94 in"
+      "approxSize": "113 x 94 in",
       "graphImageUrl": "graphImages/white-tiger-c2c-king-graph.png",
       "graphImageAlt": "White Tiger C2C Pattern King graph",
       "steps": [
