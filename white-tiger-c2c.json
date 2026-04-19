@@ -1,0 +1,3129 @@
+{
+  "slug": "white-tiger-c2c",
+  "title": "White Tiger C2C Pattern",
+  "patternType": "c2c",
+  "defaultVariant": "queen",
+  "intro": "Follow the C2C pattern step by step online and track your progress as you crochet.",
+  "colors": {
+    "Black": "#000000",
+    "White": "#fdfdfd",
+    "Light Gray": "#dddddd"
+    "Gray": "#afafaf"
+    "Dark Gray": "#8d8d8d"
+    "Light Blue": "#72bbff"
+  },
+  "variants": {
+    "queen": {
+      "label": "Queen",
+      "approxSize": "91 x 91 in"
+      "graphImageUrl": "white-tiger-c2c-queen-graph.png",
+      "graphImageAlt": "White Tiger C2C Pattern Queen graph",
+      "steps": [
+           {
+  "number": 1,
+  "instructions": "Gray x 1",
+  "totalBlocks": 1,
+  "turnText": "Increase"
+},
+{
+  "number": 2,
+  "instructions": "Dark Gray x 1, Black x 1",
+  "totalBlocks": 2,
+  "turnText": "Increase"
+},
+{
+  "number": 3,
+  "instructions": "Black x 1, Dark Gray x 1, Gray x 1",
+  "totalBlocks": 3,
+  "turnText": "Increase"
+},
+{
+  "number": 4,
+  "instructions": "Gray x 1, Dark Gray x 3",
+  "totalBlocks": 4,
+  "turnText": "Increase"
+},
+{
+  "number": 5,
+  "instructions": "Light Gray x 1, Black x 1, Dark Gray x 1, Light Gray x 2",
+  "totalBlocks": 5,
+  "turnText": "Increase"
+},
+{
+  "number": 6,
+  "instructions": "Black x 1, Light Gray x 1, Dark Gray x 1, Black x 3",
+  "totalBlocks": 6,
+  "turnText": "Increase"
+},
+{
+  "number": 7,
+  "instructions": "Black x 3, Dark Gray x 1, Light Gray x 1, Black x 2",
+  "totalBlocks": 7,
+  "turnText": "Increase"
+},
+{
+  "number": 8,
+  "instructions": "Black x 2, Gray x 1, Light Gray x 1, Black x 4",
+  "totalBlocks": 8,
+  "turnText": "Increase"
+},
+{
+  "number": 9,
+  "instructions": "Black x 5, Light Gray x 1, Black x 3",
+  "totalBlocks": 9,
+  "turnText": "Increase"
+},
+{
+  "number": 10,
+  "instructions": "Black x 3, Dark Gray x 1, Gray x 1, Black x 5",
+  "totalBlocks": 10,
+  "turnText": "Increase"
+},
+{
+  "number": 11,
+  "instructions": "Black x 5, Gray x 1, Dark Gray x 1, Black x 4",
+  "totalBlocks": 11,
+  "turnText": "Increase"
+},
+{
+  "number": 12,
+  "instructions": "Black x 4, White x 1, Dark Gray x 1, Gray x 1, Black x 4, Light Gray x 1",
+  "totalBlocks": 12,
+  "turnText": "Increase"
+},
+{
+  "number": 13,
+  "instructions": "Light Gray x 3, Black x 2, Light Gray x 3, White x 1, Black x 1, Light Gray x 1, Black x 2",
+  "totalBlocks": 13,
+  "turnText": "Increase"
+},
+{
+  "number": 14,
+  "instructions": "White x 1, Black x 2, White x 1, Gray x 1, White x 1, Gray x 1, Light Gray x 1, Black x 3, Dark Gray x 1, Light Gray x 2",
+  "totalBlocks": 14,
+  "turnText": "Increase"
+},
+{
+  "number": 15,
+  "instructions": "Light Gray x 2, Gray x 1, Black x 3, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, White x 1, Light Gray x 1, Black x 1, Light Gray x 2",
+  "totalBlocks": 15,
+  "turnText": "Increase"
+},
+{
+  "number": 16,
+  "instructions": "White x 1, Light Gray x 1, Dark Gray x 1, Black x 1, White x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Dark Gray x 1, Black x 4, Light Gray x 3",
+  "totalBlocks": 16,
+  "turnText": "Increase"
+},
+{
+  "number": 17,
+  "instructions": "Light Gray x 3, Black x 2, White x 1, Black x 1, Dark Gray x 2, Light Gray x 1, Gray x 1, White x 1, Gray x 1, Black x 1, Light Gray x 1, White x 2",
+  "totalBlocks": 17,
+  "turnText": "Increase"
+},
+{
+  "number": 18,
+  "instructions": "Gray x 1, White x 2, Light Gray x 1, Dark Gray x 1, Gray x 1, White x 1, Gray x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Black x 1, White x 1, Black x 1, Gray x 1, Light Gray x 2, White x 1",
+  "totalBlocks": 18,
+  "turnText": "Increase"
+},
+{
+  "number": 19,
+  "instructions": "White x 1, Light Gray x 3, Black x 1, Light Gray x 1, Black x 3, Dark Gray x 1, Light Gray x 1, Gray x 2, Light Gray x 1, Gray x 1, White x 3, Black x 1",
+  "totalBlocks": 19,
+  "turnText": "Increase"
+},
+{
+  "number": 20,
+  "instructions": "Black x 2, White x 2, Light Gray x 4, Dark Gray x 1, Light Gray x 1, Black x 1, Dark Gray x 2, Black x 1, White x 1, Black x 1, Light Gray x 2, White x 2",
+  "totalBlocks": 20,
+  "turnText": "Increase"
+},
+{
+  "number": 21,
+  "instructions": "White x 2, Light Gray x 2, Black x 1, Light Gray x 1, Black x 1, Gray x 1, Dark Gray x 1, Gray x 1, Dark Gray x 1, Light Gray x 1, Dark Gray x 1, Light Gray x 4, White x 1, Black x 2, Gray x 1",
+  "totalBlocks": 21,
+  "turnText": "Increase"
+},
+{
+  "number": 22,
+  "instructions": "White x 1, Dark Gray x 1, Black x 2, Dark Gray x 1, Light Gray x 5, Gray x 1, Dark Gray x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Black x 1, Gray x 1, Light Gray x 3, White x 2",
+  "totalBlocks": 22,
+  "turnText": "Increase"
+},
+{
+  "number": 23,
+  "instructions": "White x 3, Light Gray x 2, Dark Gray x 1, Gray x 2, Light Gray x 2, Dark Gray x 1, Light Gray x 1, Gray x 1, Black x 1, Light Gray x 3, Dark Gray x 1, Black x 3, Light Gray x 1, White x 1",
+  "totalBlocks": 23,
+  "turnText": "Increase"
+},
+{
+  "number": 24,
+  "instructions": "White x 2, Light Gray x 1, Black x 3, Dark Gray x 1, Light Gray x 2, Dark Gray x 1, Black x 1, Light Gray x 1, White x 1, Light Gray x 2, Gray x 1, Black x 1, Gray x 1, Black x 1, Light Gray x 2, White x 2, Light Gray x 1",
+  "totalBlocks": 24,
+  "turnText": "Increase"
+},
+{
+  "number": 25,
+  "instructions": "Light Gray x 1, White x 2, Light Gray x 2, Black x 1, Light Gray x 1, Black x 1, Light Gray x 3, White x 1, Light Gray x 2, Black x 1, Light Gray x 2, Dark Gray x 2, Black x 2, Dark Gray x 1, Light Gray x 1, White x 2",
+  "totalBlocks": 25,
+  "turnText": "Increase"
+},
+{
+  "number": 26,
+  "instructions": "Gray x 1, White x 2, Light Gray x 1, Black x 3, Dark Gray x 1, Gray x 2, Light Gray x 1, Gray x 1, Light Gray x 2, White x 1, Gray x 1, Light Gray x 2, Black x 1, Gray x 1, Dark Gray x 1, Light Gray x 2, White x 2, Light Gray x 1",
+  "totalBlocks": 26,
+  "turnText": "Increase"
+},
+{
+  "number": 27,
+  "instructions": "Light Gray x 1, White x 2, Light Gray x 2, Gray x 1, Dark Gray x 1, Black x 1, Light Gray x 3, Gray x 1, Light Gray x 2, Black x 1, Light Gray x 1, Gray x 2, Dark Gray x 1, Black x 4, Light Gray x 3, Gray x 1",
+  "totalBlocks": 27,
+  "turnText": "Increase"
+},
+{
+  "number": 28,
+  "instructions": "Dark Gray x 1, Light Gray x 1, Dark Gray x 1, Light Gray x 1, Black x 4, Dark Gray x 2, Light Gray x 1, Gray x 1, Light Gray x 1, Dark Gray x 1, Light Gray x 1, White x 1, Dark Gray x 1, Light Gray x 3, Dark Gray x 1, Gray x 2, Light Gray x 2, White x 1, Light Gray x 2",
+  "totalBlocks": 28,
+  "turnText": "Increase"
+},
+{
+  "number": 29,
+  "instructions": "White x 1, Light Gray x 1, White x 1, Light Gray x 3, Black x 1, Light Gray x 1, Gray x 1, Light Gray x 2, Dark Gray x 1, White x 1, Light Gray x 2, Gray x 1, Light Gray x 2, Gray x 2, Black x 5, Gray x 1, Dark Gray x 1, Black x 2",
+  "totalBlocks": 29,
+  "turnText": "Increase"
+},
+{
+  "number": 30,
+  "instructions": "Black x 3, Gray x 1, Black x 5, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 2, Gray x 1, Light Gray x 2, White x 1, Gray x 1, Light Gray x 2, Dark Gray x 1, White x 1, Black x 1, Light Gray x 3, White x 1, Light Gray x 2",
+  "totalBlocks": 30,
+  "turnText": "Increase"
+},
+{
+  "number": 31,
+  "instructions": "Gray x 1, Light Gray x 1, White x 1, Light Gray x 3, Black x 1, White x 1, Gray x 1, White x 1, Light Gray x 3, White x 1, Light Gray x 7, Black x 9, Dark Gray x 1",
+  "totalBlocks": 31,
+  "turnText": "Increase"
+},
+{
+  "number": 32,
+  "instructions": "Black x 10, Light Gray x 1, Gray x 2, Light Gray x 2, Gray x 1, Light Gray x 2, White x 1, Gray x 1, Light Gray x 1, Gray x 1, White x 3, Black x 1, Light Gray x 3, Gray x 1, White x 1, Black x 1",
+  "totalBlocks": 32,
+  "turnText": "Increase"
+},
+{
+  "number": 33,
+  "instructions": "Black x 1, White x 1, Gray x 1, Light Gray x 3, Black x 1, White x 3, Light Gray x 2, Gray x 1, White x 1, Light Gray x 2, Gray x 2, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 10",
+  "totalBlocks": 33,
+  "turnText": "Increase"
+},
+{
+  "number": 34,
+  "instructions": "Black x 10, Dark Gray x 1, White x 1, Black x 1, Light Gray x 3, Black x 1, Light Gray x 2, White x 2, Light Gray x 1, Gray x 1, White x 2, Light Gray x 1, White x 1, Black x 1, Light Gray x 2, Dark Gray x 1, White x 1, Dark Gray x 2",
+  "totalBlocks": 34,
+  "turnText": "Increase"
+},
+{
+  "number": 35,
+  "instructions": "White x 1, Black x 1, White x 1, Gray x 1, Light Gray x 2, Black x 1, Light Gray x 1, Gray x 1, White x 2, Light Gray x 1, White x 1, Light Gray x 1, White x 1, Light Gray x 2, Black x 2, Light Gray x 1, Gray x 1, Black x 1, Light Gray x 2, Gray x 1, Black x 10",
+  "totalBlocks": 35,
+  "turnText": "Increase"
+},
+{
+  "number": 36,
+  "instructions": "Black x 11, Gray x 1, Light Gray x 1, Black x 2, Light Gray x 2, Black x 1, Light Gray x 3, White x 1, Light Gray x 1, White x 1, Light Gray x 1, White x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Dark Gray x 1, Light Gray x 1, Dark Gray x 1, White x 1, Light Gray x 1, Black x 1, White x 1",
+  "totalBlocks": 36,
+  "turnText": "Increase"
+},
+{
+  "number": 37,
+  "instructions": "White x 1, Gray x 1, Dark Gray x 1, White x 1, Gray x 1, Light Gray x 2, Dark Gray x 1, Gray x 1, Dark Gray x 1, White x 2, Light Gray x 1, White x 2, Light Gray x 3, Black x 2, Light Gray x 2, Black x 2, White x 2, Black x 11",
+  "totalBlocks": 37,
+  "turnText": "Increase"
+},
+{
+  "number": 38,
+  "instructions": "Black x 12, White x 2, Black x 2, Light Gray x 1, Black x 2, Light Gray x 4, White x 2, Light Gray x 1, White x 2, Black x 1, Gray x 4, White x 2, Black x 1, White x 2",
+  "totalBlocks": 38,
+  "turnText": "Increase"
+},
+{
+  "number": 39,
+  "instructions": "Gray x 1, White x 1, Gray x 1, Light Gray x 1, White x 1, Dark Gray x 1, Light Gray x 1, Black x 1, Gray x 1, Dark Gray x 1, White x 2, Light Gray x 1, Gray x 1, White x 1, Gray x 1, Light Gray x 3, Gray x 1, Black x 1, Gray x 1, Light Gray x 1, Black x 2, White x 2, Black x 12",
+  "totalBlocks": 39,
+  "turnText": "Increase"
+},
+{
+  "number": 40,
+  "instructions": "Black x 9, White x 1, Black x 3, White x 2, Black x 1, White x 2, Black x 1, Gray x 1, Light Gray x 4, Dark Gray x 1, White x 1, Gray x 1, Light Gray x 1, White x 1, Dark Gray x 1, Gray x 2, Dark Gray x 1, Black x 1, White x 2, Gray x 2, White x 1, Dark Gray x 1",
+  "totalBlocks": 40,
+  "turnText": "Increase"
+},
+{
+  "number": 41,
+  "instructions": "Black x 1, White x 2, Light Gray x 1, White x 2, Light Gray x 1, Gray x 3, Black x 1, White x 2, Light Gray x 2, Black x 1, Light Gray x 2, Gray x 1, Light Gray x 2, Black x 2, White x 2, Black x 1, White x 2, Black x 1, White x 1, Black x 11",
+  "totalBlocks": 41,
+  "turnText": "Increase"
+},
+{
+  "number": 42,
+  "instructions": "Black x 10, White x 2, Black x 1, White x 2, Black x 2, White x 1, Black x 2, Gray x 1, Light Gray x 1, Gray x 1, Black x 1, Light Gray x 2, Dark Gray x 1, Light Gray x 2, White x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Light Gray x 1, Black x 1, White x 3, Light Gray x 1, White x 2, Black x 1",
+  "totalBlocks": 42,
+  "turnText": "Increase"
+},
+{
+  "number": 43,
+  "instructions": "Dark Gray x 1, Light Gray x 1, White x 1, Light Gray x 1, White x 3, Black x 1, White x 1, Gray x 2, Black x 1, White x 1, Light Gray x 1, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, Black x 1, Light Gray x 3, Black x 1, White x 2, Black x 2, White x 1, Black x 1, White x 1, Black x 2, White x 1, Black x 1, White x 1, Black x 7",
+  "totalBlocks": 43,
+  "turnText": "Increase"
+},
+{
+  "number": 44,
+  "instructions": "Black x 12, White x 1, Black x 1, White x 2, Black x 2, White x 1, Black x 2, White x 1, Gray x 1, Black x 2, Light Gray x 1, White x 1, Dark Gray x 1, Light Gray x 4, Dark Gray x 2, Light Gray x 1, Gray x 1, Light Gray x 1, White x 2, Light Gray x 1, White x 2, Dark Gray x 1, White x 1",
+  "totalBlocks": 44,
+  "turnText": "Increase"
+},
+{
+  "number": 45,
+  "instructions": "Light Gray x 1, Black x 1, White x 2, Gray x 1, White x 3, Black x 1, White x 1, Gray x 1, Black x 2, Light Gray x 3, Black x 1, White x 1, Light Gray x 2, Black x 2, White x 2, Black x 2, White x 1, Black x 2, White x 2, Black x 1, White x 1, Black x 1, White x 1, Black x 1, White x 1, Black x 8",
+  "totalBlocks": 45,
+  "turnText": "Increase"
+},
+{
+  "number": 46,
+  "instructions": "Black x 13, White x 1, Black x 1, White x 1, Black x 2, White x 1, Black x 2, White x 2, Black x 3, Gray x 1, Light Gray x 1, White x 1, Gray x 1, Light Gray x 3, Gray x 1, Black x 1, White x 2, Gray x 1, White x 2, Light Gray x 1, White x 3, Dark Gray x 2",
+  "totalBlocks": 46,
+  "turnText": "Increase"
+},
+{
+  "number": 47,
+  "instructions": "Dark Gray x 1, Light Gray x 1, White x 3, Gray x 1, White x 2, Dark Gray x 1, White x 2, Black x 1, Dark Gray x 1, Black x 1, Light Gray x 2, Gray x 1, Dark Gray x 1, Light Gray x 3, Black x 2, Dark Gray x 1, White x 1, Black x 2, White x 2, Black x 2, White x 1, Black x 3, White x 1, Black x 1, White x 1, Black x 4, Gray x 1, Black x 1, Dark Gray x 1, Light Gray x 2",
+  "totalBlocks": 47,
+  "turnText": "Increase"
+},
+{
+  "number": 48,
+  "instructions": "Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, Black x 1, Gray x 1, Black x 8, White x 1, Black x 1, White x 1, Black x 2, White x 1, Black x 3, White x 1, Black x 2, Dark Gray x 1, Gray x 1, Light Gray x 1, White x 1, Black x 1, Light Gray x 1, Black x 1, Gray x 2, Dark Gray x 1, Black x 1, White x 1, Gray x 1, Light Gray x 1, White x 2, Gray x 1, White x 2, Dark Gray x 1, Light Gray x 1, White x 1",
+  "totalBlocks": 48,
+  "turnText": "Increase"
+},
+{
+  "number": 49,
+  "instructions": "White x 1, Light Gray x 1, Gray x 1, White x 3, Light Gray x 1, White x 2, Dark Gray x 1, White x 1, Black x 1, White x 1, Light Gray x 1, Black x 2, Light Gray x 1, Dark Gray x 1, Light Gray x 2, Gray x 2, Black x 3, White x 1, Black x 3, White x 1, Black x 2, White x 1, Black x 1, White x 1, Black x 1, White x 1, Black x 1, White x 1, Black x 3, Gray x 1, Black x 1, Gray x 2, Light Gray x 2, Gray x 1",
+  "totalBlocks": 49,
+  "turnText": "Increase"
+},
+{
+  "number": 50,
+  "instructions": "Gray x 1, Light Gray x 3, Gray x 2, Dark Gray x 2, Black x 1, White x 1, Black x 5, White x 2, Black x 2, White x 1, Black x 3, White x 2, Black x 2, Light Gray x 1, Gray x 2, Light Gray x 1, Dark Gray x 1, Light Gray x 1, Black x 2, Gray x 1, White x 2, Black x 1, White x 1, Black x 1, White x 2, Dark Gray x 1, White x 2, Gray x 1, White x 1, Gray x 1, Light Gray x 1",
+  "totalBlocks": 50,
+  "turnText": "Increase"
+},
+{
+  "number": 51,
+  "instructions": "Black x 1, White x 2, Light Gray x 1, White x 2, Gray x 1, White x 2, Black x 1, White x 1, Black x 1, White x 3, Black x 3, Gray x 1, Light Gray x 2, Dark Gray x 1, Gray x 1, Dark Gray x 1, Black x 2, White x 2, Black x 2, White x 1, Black x 2, White x 3, Black x 1, White x 1, Black x 5, Gray x 1, Dark Gray x 1, Light Gray x 4, Gray x 2",
+  "totalBlocks": 51,
+  "turnText": "Increase"
+},
+{
+  "number": 52,
+  "instructions": "Black x 1, Dark Gray x 1, Gray x 1, Light Gray x 4, Dark Gray x 2, Black x 1, White x 1, Black x 4, White x 3, Black x 2, White x 1, Black x 2, White x 2, Black x 2, Dark Gray x 2, Black x 1, Dark Gray x 1, Light Gray x 1, Gray x 1, Black x 4, White x 3, Gray x 1, Light Gray x 1, Gray x 1, White x 1, Light Gray x 1, White x 3, Gray x 2, Light Gray x 1, Black x 1",
+  "totalBlocks": 52,
+  "turnText": "Increase"
+},
+{
+  "number": 53,
+  "instructions": "Black x 1, Dark Gray x 1, Light Gray x 1, White x 1, Light Gray x 1, White x 2, Light Gray x 1, White x 2, Light Gray x 1, Dark Gray x 1, White x 3, Black x 5, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 5, White x 2, Black x 2, White x 1, Black x 2, White x 2, Black x 4, White x 1, Black x 2, Dark Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 2, Dark Gray x 1, Black x 1, Gray x 1",
+  "totalBlocks": 53,
+  "turnText": "Increase"
+},
+{
+  "number": 54,
+  "instructions": "Gray x 2, Black x 1, Gray x 1, White x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 1, White x 1, Black x 5, White x 2, Black x 5, White x 2, Black x 3, White x 1, Black x 2, Dark Gray x 1, Gray x 1, Black x 7, White x 2, Dark Gray x 1, Gray x 1, White x 2, Gray x 1, Light Gray x 2, Black x 1, Light Gray x 1, Gray x 1, Black x 1, Dark Gray x 1",
+  "totalBlocks": 54,
+  "turnText": "Increase"
+},
+{
+  "number": 55,
+  "instructions": "Gray x 1, Black x 1, Gray x 1, Light Gray x 1, Gray x 1, Black x 6, Gray x 1, Black x 10, Dark Gray x 1, Black x 2, White x 2, Black x 2, White x 3, Black x 5, White x 1, Black x 4, White x 1, Black x 3, Gray x 2, Light Gray x 2, White x 1, Black x 1, Gray x 3",
+  "totalBlocks": 55,
+  "turnText": "Increase"
+},
+{
+  "number": 56,
+  "instructions": "Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, White x 2, Light Gray x 3, Dark Gray x 1, Black x 1, White x 1, Black x 5, White x 1, Black x 5, White x 3, Black x 2, White x 2, Black x 2, Gray x 1, Black x 18, White x 1, Gray x 1, Dark Gray x 2, Gray x 1",
+  "totalBlocks": 56,
+  "turnText": "Increase"
+},
+{
+  "number": 57,
+  "instructions": "Gray x 1, Light Gray x 1, Black x 1, Gray x 1, White x 1, Black x 12, White x 4, Black x 6, White x 2, Black x 2, White x 2, Black x 3, White x 1, Black x 2, White x 1, Black x 7, Gray x 1, Light Gray x 2, White x 2, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, White x 1",
+  "totalBlocks": 57,
+  "turnText": "Increase"
+},
+{
+  "number": 58,
+  "instructions": "White x 2, Light Gray x 1, Gray x 1, White x 1, Light Gray x 2, Gray x 3, Dark Gray x 1, Black x 1, White x 1, Black x 4, White x 1, Black x 2, White x 3, Black x 1, White x 2, Black x 2, White x 2, Black x 5, White x 8, Black x 10, White x 1, Gray x 1, Black x 1, Light Gray x 1, White x 1",
+  "totalBlocks": 58,
+  "turnText": "Increase"
+},
+{
+  "number": 59,
+  "instructions": "White x 1, Gray x 3, White x 1, Black x 10, White x 9, Black x 3, White x 4, Black x 2, White x 6, Black x 2, White x 2, Black x 5, Gray x 3, White x 1, Light Gray x 1, Dark Gray x 1, Light Gray x 1, White x 4",
+  "totalBlocks": 59,
+  "turnText": "Increase"
+},
+{
+  "number": 60,
+  "instructions": "White x 6, Gray x 2, Light Gray x 2, Gray x 1, Black x 5, White x 2, Black x 2, White x 25, Black x 9, Light Gray x 1, White x 1, Gray x 1, Dark Gray x 1, Light Gray x 1, White x 1",
+  "totalBlocks": 60,
+  "turnText": "Increase"
+},
+{
+  "number": 61,
+  "instructions": "White x 2, Dark Gray x 1, Gray x 1, Light Gray x 1, White x 1, Black x 3, White x 2, Black x 2, White x 17, Black x 1, White x 2, Black x 2, White x 6, Black x 2, White x 2, Black x 5, Gray x 2, Light Gray x 1, Gray x 1, Dark Gray x 1, Light Gray x 1, White x 5",
+  "totalBlocks": 61,
+  "turnText": "Increase"
+},
+{
+  "number": 62,
+  "instructions": "White x 6, Light Gray x 2, Gray x 1, Light Gray x 1, Gray x 1, Black x 5, White x 1, Black x 2, White x 5, Black x 8, White x 10, Black x 5, White x 2, Black x 2, White x 2, Black x 3, White x 1, Gray x 2, Dark Gray x 1, White x 2",
+  "totalBlocks": 62,
+  "turnText": "Increase"
+},
+{
+  "number": 63,
+  "instructions": "Light Gray x 1, White x 1, Light Gray x 1, Gray x 2, White x 1, Black x 4, White x 2, Black x 1, White x 2, Black x 6, White x 9, Black x 9, White x 5, Black x 2, White x 3, Black x 2, Light Gray x 1, Gray x 1, Light Gray x 4, White x 6",
+  "totalBlocks": 63,
+  "turnText": "Increase"
+},
+{
+    "number": 64,
+    "instructions": "Gray x 1, White x 6, Gray x 1, Light Gray x 1, Gray x 2, Light Gray x 1, Black x 2, White x 3, Black x 2, White x 4, Black x 9, White x 1, Black x 1, White x 8, Black x 7, White x 2, Black x 1, White x 2, Black x 4, White x 1, Gray x 3, White x 1, Gray x 1",
+    "totalBlocks": 64,
+    "turnText": "Increase"
+  },
+  {
+    "number": 65,
+    "instructions": "Gray x 1, White x 1, Light Gray x 1, Gray x 2, White x 1, Gray x 1, Black x 3, White x 5, Black x 3, White x 1, Black x 4, White x 6, Black x 2, White x 2, Black x 10, White x 3, Black x 2, White x 3, Black x 1, Dark Gray x 2, Gray x 1, Dark Gray x 1, Gray x 1, White x 6, Gray x 1, Light Gray x 1",
+    "totalBlocks": 65,
+    "turnText": "Increase"
+  },
+  {
+    "number": 66,
+    "instructions": "Light Gray x 1, White x 1, Gray x 1, White x 5, Light Gray x 1, Gray x 1, Dark Gray x 3, Black x 2, White x 2, Black x 2, White x 2, Black x 6, White x 3, Black x 3, White x 2, Black x 3, White x 2, Black x 7, White x 1, Black x 3, White x 4, Black x 4, Light Gray x 1, White x 1, Gray x 2, White x 2, Gray x 1",
+    "totalBlocks": 66,
+    "turnText": "Increase"
+  },
+  {
+    "number": 67,
+    "instructions": "Gray x 1, White x 2, Gray x 2, White x 1, Light Gray x 1, Black x 4, White x 4, Black x 3, White x 2, Black x 12, White x 1, Black x 3, White x 4, Black x 6, White x 2, Black x 1, White x 3, Black x 2, Dark Gray x 2, Light Gray x 1, Gray x 1, White x 5, Light Gray x 1, White x 1, Gray x 1, Dark Gray x 1",
+    "totalBlocks": 67,
+    "turnText": "Increase"
+  },
+  {
+    "number": 68,
+    "instructions": "Light Gray x 1, Gray x 2, White x 1, Light Gray x 1, White x 3, Light Gray x 2, Gray x 1, Dark Gray x 2, Black x 2, White x 3, Black x 1, White x 2, Black x 4, White x 9, Black x 1, White x 1, Black x 11, White x 2, Black x 4, White x 4, Black x 4, Light Gray x 1, White x 1, Gray x 2, White x 1, Light Gray x 1, Gray x 1",
+    "totalBlocks": 68,
+    "turnText": "Increase"
+  },
+  {
+    "number": 69,
+    "instructions": "Black x 1, Light Gray x 1, White x 1, Gray x 2, Light Gray x 2, Black x 4, White x 4, Black x 4, White x 2, Black x 8, White x 1, Black x 2, White x 1, Black x 2, White x 9, Black x 4, White x 2, Black x 1, White x 2, Black x 3, Dark Gray x 2, Light Gray x 1, Gray x 1, Light Gray x 1, White x 2, Light Gray x 2, Gray x 2, White x 1, Gray x 1",
+    "totalBlocks": 69,
+    "turnText": "Increase"
+  },
+  {
+    "number": 70,
+    "instructions": "Light Gray x 1, White x 3, Light Gray x 1, Gray x 1, Light Gray x 4, Gray x 1, Dark Gray x 2, Black x 3, White x 2, Black x 1, White x 2, Black x 4, White x 9, Black x 3, White x 1, Black x 2, White x 1, Black x 7, White x 2, Black x 5, White x 4, Black x 4, Light Gray x 1, Gray x 3, White x 1, Gray x 1, Black x 1",
+    "totalBlocks": 70,
+    "turnText": "Increase"
+  },
+  {
+    "number": 71,
+    "instructions": "Black x 1, Gray x 1, White x 1, Gray x 3, Light Gray x 1, Black x 4, White x 4, Black x 5, White x 3, Black x 5, White x 2, Black x 8, White x 10, Black x 2, White x 1, Black x 2, White x 2, Black x 4, Dark Gray x 1, Gray x 1, Light Gray x 1, Gray x 2, Light Gray x 2, White x 3, Gray x 2",
+    "totalBlocks": 71,
+    "turnText": "Increase"
+  },
+  {
+    "number": 72,
+    "instructions": "Light Gray x 3, White x 3, Light Gray x 1, Gray x 4, Dark Gray x 2, Black x 4, White x 2, Black x 1, White x 1, Black x 2, White x 8, Black x 7, White x 1, Black x 2, White x 10, Black x 6, White x 4, Black x 4, Gray x 4, White x 1, Black x 1, Light Gray x 1",
+    "totalBlocks": 72,
+    "turnText": "Increase"
+  },
+  {
+    "number": 73,
+    "instructions": "Light Gray x 1, Black x 1, White x 1, Gray x 3, Black x 5, White x 4, Black x 6, White x 10, Black x 2, White x 1, Black x 8, White x 8, Black x 2, White x 1, Black x 1, White x 1, Black x 5, Dark Gray x 3, Gray x 3, White x 3, Light Gray x 4",
+    "totalBlocks": 73,
+    "turnText": "Increase"
+  },
+  {
+    "number": 74,
+    "instructions": "Black x 1, Gray x 1, Light Gray x 2, White x 1, Gray x 1, White x 1, Light Gray x 1, Gray x 4, Black x 6, White x 1, Black x 1, White x 1, Black x 1, White x 9, Black x 9, White x 1, Black x 2, White x 9, Black x 4, White x 1, Black x 2, White x 4, Black x 5, Light Gray x 1, Gray x 2, Light Gray x 1, Dark Gray x 1, Gray x 1",
+    "totalBlocks": 74,
+    "turnText": "Increase"
+  },
+  {
+    "number": 75,
+    "instructions": "Gray x 5, Black x 6, White x 4, Black x 2, White x 1, Black x 5, White x 8, Black x 2, White x 2, Black x 10, White x 8, Black x 1, White x 2, Black x 6, Dark Gray x 1, Light Gray x 1, Gray x 2, Light Gray x 1, Dark Gray x 1, Gray x 1, White x 3, Gray x 2, Black x 1",
+    "totalBlocks": 75,
+    "turnText": "Increase"
+  },
+  {
+    "number": 76,
+    "instructions": "Black x 1, Gray x 3, Light Gray x 1, White x 2, Light Gray x 2, Gray x 2, Dark Gray x 1, Black x 7, White x 9, Black x 6, White x 3, Black x 4, White x 2, Black x 1, White x 9, Black x 4, White x 2, Black x 2, White x 4, Black x 6, Gray x 5",
+    "totalBlocks": 76,
+    "turnText": "Increase"
+  },
+  {
+    "number": 77,
+    "instructions": "Gray x 5, Black x 6, White x 4, Black x 1, White x 3, Black x 6, White x 7, Black x 1, White x 2, Black x 3, White x 6, Black x 6, White x 7, Black x 7, Gray x 1, Light Gray x 1, Gray x 3, Light Gray x 2, Gray x 4, Dark Gray x 1, Black x 1",
+    "totalBlocks": 77,
+    "turnText": "Increase"
+  },
+  {
+    "number": 78,
+    "instructions": "Black x 2, Dark Gray x 1, Light Gray x 1, Gray x 5, Light Gray x 1, Gray x 1, Dark Gray x 1, Gray x 1, Black x 8, White x 4, Black x 7, White x 8, Black x 2, White x 2, Black x 1, White x 7, Black x 7, White x 3, Black x 1, White x 4, Black x 6, Light Gray x 1, Gray x 4",
+    "totalBlocks": 78,
+    "turnText": "Increase"
+  },
+  {
+    "number": 79,
+    "instructions": "White x 1, Gray x 3, Light Gray x 1, Black x 6, White x 4, Black x 1, White x 3, Black x 8, White x 6, Black x 1, White x 2, Black x 3, White x 10, Black x 5, White x 4, Black x 8, Dark Gray x 1, Light Gray x 1, Gray x 4, Light Gray x 1, Gray x 2, Dark Gray x 1, Black x 3",
+    "totalBlocks": 79,
+    "turnText": "Increase"
+  },
+  {
+    "number": 80,
+    "instructions": "Black x 4, Gray x 1, Light Gray x 1, Black x 1, Dark Gray x 4, Light Gray x 1, Black x 10, White x 4, Black x 2, White x 13, Black x 2, White x 2, Black x 2, White x 4, Black x 10, White x 3, Black x 1, White x 4, Black x 6, Dark Gray x 1, Gray x 3, White x 1",
+    "totalBlocks": 80,
+    "turnText": "Increase"
+  },
+           {
+          "number": 81,
+          "instructions": "Gray x 1, Light Gray x 1, Gray x 2, Dark Gray x 1, Black x 6, White x 4, Black x 1, White x 3, Black x 11, White x 4, Black x 1, White x 2, Black x 3, White x 18, Black x 12, Dark Gray x 1, Gray x 1, Dark Gray x 1, Light Gray x 1, Gray x 2, Dark Gray x 1, Black x 4",
+          "totalBlocks": 81,
+          "turnText": "Increase"
+        },
+        {
+          "number": 82,
+          "instructions": "Black x 6, Dark Gray x 1, Gray x 2, Dark Gray x 1, Black x 5, White x 1, Black x 10, White x 16, Black x 3, White x 1, Black x 2, White x 3, Black x 12, White x 8, Black x 7, Gray x 2, Light Gray x 1, Gray x 1",
+          "totalBlocks": 82,
+          "turnText": "Increase"
+        },
+           {
+          "number": 83,
+          "instructions": "Gray x 4, Black x 7, White x 3, Black x 1, White x 4, Black x 14, White x 2, Black x 1, White x 2, Black x 2, White x 15, Black x 6, White x 11, Black x 11",
+          "totalBlocks": 83,
+          "turnText": "Increase"
+        },
+           {
+          "number": 84,
+          "instructions": "Black x 14, White x 9, Black x 6, White x 2, Black x 2, White x 11, Black x 1, White x 2, Black x 2, White x 2, Black x 4, White x 4, Black x 6, White x 4, Black x 1, White x 2, Black x 8, Gray x 4",
+          "totalBlocks": 84,
+          "turnText": "Increase"
+        },
+           {
+          "number": 85,
+          "instructions": "Gray x 4, Black x 8, White x 2, Black x 1, White x 4, Black x 5, White x 6, Black x 4, White x 2, Black x 1, White x 2, Black x 2, White x 8, Black x 12, White x 10, Black x 14",
+          "totalBlocks": 85,
+          "turnText": "Increase"
+        },
+      {
+          "number": 86,
+          "instructions": "Black x 11, White x 8, Black x 1, White x 5, Black x 13, White x 7, Black x 1, White x 2, Black x 2, White x 2, Black x 2, White x 9, Black x 4, White x 4, Black x 1, White x 2, Black x 8, Gray x 3, Light Gray x 1",
+          "totalBlocks": 86,
+          "turnText": "Increase"
+        },
+      {
+          "number": 87,
+          "instructions": "Gray x 4, Black x 8, White x 2, Black x 1, White x 3, Black x 4, White x 11, Black x 2, White x 2, Black x 1, White x 2, Black x 1, White x 7, Black x 14, White x 4, Black x 4, White x 3, Black x 1, White x 2, Black x 1, White x 2, Black x 8 ",
+          "totalBlocks": 8,
+          "turnText": "Increase"
+        },
+      {
+          "number": 88,
+          "instructions": "Black x 10, White x 2, Black x 4, White x 1, Black x 3, White x 5, Black x 15, White x 6, Black x 1, White x 2, Black x 2, White x 2, Black x 2, White x 11, Black x 4, White x 3, Black x 1, White x 2, Black x 8, Gray x 3, Light Gray x 1",
+          "totalBlocks": 88,
+          "turnText": "Increase"
+        },
+      {
+          "number": 89,
+          "instructions": "White x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Black x 8, White x 2, Black x 1, White x 3, Black x 4, White x 12, Black x 2, White x 2, Black x 1, White x 2, Black x 1, White x 6, Black x 3, White x 1, Black x 11, White x 3, Black x 1, White x 3, Black x 2, White x 1, Black x 16",
+          "totalBlocks": 89,
+          "turnText": "Increase"
+        },
+      {
+          "number": 90,
+          "instructions": "Black x 15, White x 2, Black x 2, White x 2, Black x 2, White x 3, Black x 11, White x 2, Black x 3, White x 8, Black x 2, White x 2, Black x 2, White x 12, Black x 5, White x 2, Black x 1, White x 1, Black x 9, Light Gray x 2, Gray x 1, Light Gray x 1",
+          "totalBlocks": 90,
+          "turnText": "Increase"
+        },
+      {
+          "number": 91,
+          "instructions": "Black x 1, Light Gray x 3, Black x 9, White x 1, Black x 1, White x 2, Black x 4, White x 14, Black x 2, White x 2, Black x 1, White x 9, Black x 2, White x 3, Black x 10, White x 4, Black x 2, White x 3, Black x 1, White x 1, Black x 1, White x 5, Black x 10",
+          "totalBlocks": 91,
+          "turnText": "Increase"
+        },
+      {
+          "number": 92,
+          "instructions": "Dark Gray x 1, Black x 9, White x 1, Black x 5, White x 1, Black x 1, White x 3, Black x 2, White x 5, Black x 9, White x 4, Black x 2, White x 8, Black x 2, White x 2, Black x 2, White x 15, Black x 3, White x 2, Black x 11, Light Gray x 3, Black x 1",
+          "totalBlocks": 92,
+          "turnText": "Increase"
+        },
+      {
+          "number": 93,
+          "instructions": "White x 1, Black x 1, Light Gray x 2, Black x 11, White x 2, Black x 3, White x 16, Black x 2, White x 2, Black x 1, White x 8, Black x 2, White x 6, Black x 8, White x 5, Black x 2, White x 3, Black x 1, White x 1, Black x 5, White x 1, Black x 10",
+          "totalBlocks": 93,
+          "turnText": "Increase"
+        },
+      {
+          "number": 94,
+          "instructions": "Light Gray x 1, Black x 15, White x 1, Black x 1, White x 3, Black x 2, White x 5, Black x 8, White x 7, Black x 2, White x 7, Black x 2, White x 2, Black x 2, White x 6, Black x 3, White x 7, Black x 3, White x 2, Black x 10, Dark Gray x 1, Light Gray x 1, White x 1, Gray x 1, Dark Gray x 1",
+          "totalBlocks": 94,
+          "turnText": "Increase"
+        },
+ {
+          "number": 95,
+          "instructions": "Black x 1, White x 1, Black x 1, Gray x 1, Dark Gray x 1, Black x 10, White x 2, Black x 2, White x 7, Black x 5, White x 6, Black x 1, White x 3, Black x 1, White x 7, Black x 2, White x 8, Black x 7, White x 5, Black x 3, White x 3, Black x 3, White x 1, Black x 12, Gray x 1, Light Gray x 1",
+          "totalBlocks": 95,
+          "turnText": "Increase"
+        },
+ {
+          "number": 96,
+          "instructions": "Dark Gray x 1, Light Gray x 1, Gray x 1, Black x 8, White x 4, Black x 1, White x 1, Black x 2, White x 2, Black x 3, White x 6, Black x 6, White x 9, Black x 2, White x 6, Black x 1, White x 3, Black x 2, White x 6, Black x 6, White x 6, Black x 2, White x 2, Black x 10, Light Gray x 3, Black x 2",
+          "totalBlocks": 96,
+          "turnText": "Increase"
+        },
+ {
+          "number": 97,
+          "instructions": "Black x 2, Light Gray x 3, Black x 10, White x 2, Black x 2, White x 6, Black x 5, White x 8, Black x 1, White x 3, Black x 1, White x 5, Black x 2, White x 11, Black x 5, White x 3, Black x 1, White x 3, Black x 3, White x 2, Black x 1, White x 1, Black x 13, Gray x 1, Dark Gray x 1, Black x 1, Light Gray x 1",
+          "totalBlocks": 97,
+          "turnText": "Increase"
+        },
+ {
+          "number": 98,
+          "instructions": "Gray x 1, Light Gray x 1, Black x 15, White x 1, Black x 2, White x 2, Black x 2, White x 4, Black x 1, White x 2, Black x 5, White x 12, Black x 2, White x 4, Black x 2, White x 2, Black x 2, White x 8, Black x 5, White x 6, Black x 2, White x 2, Black x 9, Dark Gray x 1, Light Gray x 1, White x 1, Black x 3",
+          "totalBlocks": 98,
+          "turnText": "Increase"
+        },
+ {
+          "number": 99,
+          "instructions": "Black x 4, White x 1, Gray x 1, Black x 9, White x 2, Black x 2, White x 6, Black x 4, White x 10, Black x 1, White x 3, Black x 1, White x 4, Black x 2, White x 12, Black x 6, White x 2, Black x 1, White x 3, Black x 3, White x 2, Black x 2, White x 1, Black x 13, Dark Gray x 1, Light Gray x 1, Gray x 1, Black x 1",
+          "totalBlocks": 99,
+          "turnText": "Increase"
+        },
+ {
+          "number": 100,
+          "instructions": "Light Gray x 1, Black x 1, Dark Gray x 1, Gray x 1, Black x 9, White x 3, Black x 1, White x 1, Black x 2, White x 3, Black x 2, White x 3, Black x 1, White x 3, Black x 5, White x 13, Black x 2, White x 3, Black x 1, White x 3, Black x 1, White x 12, Black x 3, White x 6, Black x 2, White x 2, Black x 8, Dark Gray x 1, White x 1, Gray x 1, Black x 4 ",
+          "totalBlocks": 100,
+          "turnText": "Increase"
+        },
+ {
+          "number": 101,
+          "instructions": "Black x 5, White x 1, Gray x 1, Black x 5, White x 1, Black x 3, White x 1, Black x 2, White x 6, Black x 2, White x 6, Black x 3, White x 4, Black x 1, White x 3, Black x 1, White x 3, Black x 1, White x 15, Black x 5, White x 2, Black x 1, White x 4, Black x 2, White x 3, Black x 2, White x 1, Black x 3, White x 3, Black x 9, White x 2 ",
+          "totalBlocks": 101,
+          "turnText": "Increase"
+        },
+ {
+          "number": 102,
+          "instructions": "White x 3, Black x 14, White x 1, Black x 2, White x 3, Black x 3, White x 3, Black x 1, White x 3, Black x 4, White x 23, Black x 1, White x 4, Black x 4, White x 6, Black x 2, White x 6, Black x 1, White x 2, Black x 2, White x 2, Black x 4, Light Gray x 1, White x 1, Black x 6",
+          "totalBlocks": 102,
+          "turnText": "Increase"
+        },
+ {
+          "number": 103,
+          "instructions": "Black x 6, Dark Gray x 1, Gray x 1, Black x 4, White x 2, Black x 2, White x 2, Black x 1, White x 6, Black x 2, White x 6, Black x 5, White x 28, Black x 4, White x 2, Black x 2, White x 3, Black x 3, White x 3, Black x 2, White x 2, Black x 12, White x 4 ",
+          "totalBlocks": 103,
+          "turnText": "Increase"
+        },
+ {
+          "number": 104,
+          "instructions": "White x 4, Light Gray x 1, Black x 10, White x 3, Black x 2, White x 4, Black x 2, White x 4, Black x 1, White x 3, Black x 3, White x 29, Black x 5, White x 6, Black x 2, White x 6, Black x 1, White x 2, Black x 1, White x 2, Black x 4, Dark Gray x 1, Light Gray x 1, Black x 7",
+          "totalBlocks": 104,
+          "turnText": "Increase"
+        },
+ {
+          "number": 105,
+          "instructions": "Black x 8, Light Gray x 1, Black x 4, White x 2, Black x 2, White x 1, Black x 1, White x 6, Black x 10, White x 3, Black x 1, White x 29, Black x 2, White x 4, Black x 1, White x 4, Black x 2, White x 4, Black x 2, White x 5, Dark Gray x 2, Black x 5, Light Gray x 2, White x 3, Gray x 1",
+          "totalBlocks": 105,
+          "turnText": "Increase"
+        },
+ {
+          "number": 106,
+          "instructions": "White x 1, Light Gray x 1, White x 2, Light Gray x 2, Dark Gray x 3, Black x 2, Gray x 2, White x 5, Black x 3, White x 3, Black x 3, White x 3, Black x 2, White x 3, Black x 2, White x 34, Black x 10, White x 6, Black x 1, White x 1, Black x 2, White x 2, Black x 13",
+          "totalBlocks": 106,
+          "turnText": "Increase"
+        },
+ {
+          "number": 107,
+          "instructions": "Black x 2, Gray x 1, Dark Gray x 1, Black x 10, White x 1, Black x 2, White x 8, Black x 12, White x 32, Black x 2, White x 4, Black x 2, White x 3, Black x 3, White x 2, Black x 1, White x 1, Black x 4, White x 2, Light Gray x 2, Gray x 2, Black x 2, Dark Gray x 2, Light Gray x 2, White x 1, Gray x 1, White x 1, Light Gray x 1 ",
+          "totalBlocks": 107,
+          "turnText": "Increase"
+        },
+ {
+          "number": 108,
+          "instructions": "Black x 1, Dark Gray x 1, White x 1, Gray x 1, Light Gray x 2, Dark Gray x 3, Black x 1, Gray x 1, Light Gray x 1, White x 4, Black x 4, White x 1, Black x 1, White x 3, Black x 2, White x 4, Black x 1, White x 5, Black x 2, White x 31, Black x 12, White x 8, Black x 3, White x 1, Black x 7, Dark Gray x 1, Black x 1, Gray x 1, Light Gray x 1, Black x 3",
+          "totalBlocks": 108,
+          "turnText": "Increase"
+        },
+ {
+          "number": 109,
+          "instructions": "Dark Gray x 1, Black x 3, White x 2, Dark Gray x 1, Gray x 1, Black x 6, White x 2, Black x 2, White x 8, Black x 2, White x 1, Black x 10, White x 30, Black x 2, White x 5, Black x 2, White x 4, Black x 2, White x 2, Black x 1, White x 2, Black x 4, White x 1, Black x 1, Gray x 1, Light Gray x 2, Black x 1, Gray x 1, Dark Gray x 1, Gray x 4, Light Gray x 1, Black x 1, Dark Gray x 1, Black x 1",
+          "totalBlocks": 109,
+          "turnText": "Increase"
+        },
+ {
+          "number": 110,
+          "instructions": "Black x 2, Light Gray x 1, Black x 2, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 3, Dark Gray x 1, Black x 6, White x 3, Black x 1, White x 3, Black x 2, White x 3, Black x 2, White x 6, Black x 2, White x 29, Black x 4, White x 3, Black x 2, White x 3, Black x 3, White x 7, Black x 2, White x 1, Black x 5, Gray x 1, Light Gray x 1, Gray x 1, White x 2, Black x 3, Dark Gray x 1, Gray x 1",
+          "totalBlocks": 110,
+          "turnText": "Increase"
+        },
+ {
+          "number": 111,
+          "instructions": "Black x 1, Gray x 1, Light Gray x 1, Black x 3, White x 2, Gray x 2, Dark Gray x 1, Black x 5, White x 1, Black x 1, White x 5, Black x 6, White x 9, Black x 3, White x 28, Black x 2, White x 6, Black x 3, White x 3, Black x 2, White x 3, Black x 1, White x 3, Black x 7, Light Gray x 1, Gray x 1, Light Gray x 6, White x 1, Black x 3 ",
+          "totalBlocks": 111,
+          "turnText": "Increase"
+        },
+ {
+          "number": 112,
+          "instructions": "Black x 4, Gray x 1, Light Gray x 6, Gray x 1, Black x 6, White x 3, Black x 2, White x 3, Black x 3, White x 3, Black x 2, White x 7, Black x 2, White x 27, Black x 3, White x 10, Black x 7, White x 3, Black x 2, White x 1, Black x 4, Dark Gray x 1, Gray x 1, Light Gray x 2, White x 1, Black x 1, Dark Gray x 1, Black x 1, Light Gray x 1, White x 1, Black x 1, Dark Gray x 1",
+          "totalBlocks": 112,
+          "turnText": "Increase"
+        },
+ {
+          "number": 113,
+          "instructions": "Light Gray x 1, Dark Gray x 1, Light Gray x 1, White x 1, Gray x 1, Black x 1, Dark Gray x 1, Black x 1, White x 1, Gray x 1, Light Gray x 1, Gray x 1, Dark Gray x 2, Black x 2, White x 2, Black x 1, White x 3, Black x 8, White x 39, Black x 2, White x 7, Black x 3, White x 3, Black x 2, White x 1, Black x 1, White x 2, Black x 2, White x 4, Black x 4, Gray x 1, Light Gray x 5, Gray x 2, Light Gray x 1, Black x 4",
+          "totalBlocks": 113,
+          "turnText": "Increase"
+        },
+ {
+          "number": 114,
+          "instructions": " Dark Gray x 1, Black x 3, White x 2, Light Gray x 3, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 3, Gray x 1, White x 4, Black x 3, White x 2, Black x 1, White x 1, Black x 3, White x 3, Black x 2, White x 8, Black x 2, White x 31, Black x 4, White x 3, Black x 9, White x 2, Black x 2, White x 1, Black x 2, Gray x 2, Dark Gray x 1, White x 1, Gray x 1, White x 1, Dark Gray x 4, White x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Black x 1",
+          "totalBlocks": 114,
+          "turnText": "Increase"
+        },
+ {
+          "number": 115,
+          "instructions": "Black x 2, Light Gray x 4, Black x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, White x 1, Gray x 1, White x 1, Dark Gray x 2, Black x 3, White x 1, Black x 1, White x 2, Black x 10, White x 2, Black x 5, White x 30, Black x 2, White x 8, Black x 3, White x 3, Black x 2, White x 1, Black x 2, White x 2, Black x 4, White x 2, Light Gray x 7, Gray x 1, Dark Gray x 2, Black x 1, Dark Gray x 1, Black x 1, Light Gray x 1, Gray x 1, White x 1, Gray x 1 ",
+          "totalBlocks": 115,
+          "turnText": "Increase"
+        }, 
+{
+          "number": 116,
+          "instructions": "Gray x 1, Light Gray x 3, Dark Gray x 1, Black x 1, Dark Gray x 3, Black x 1, Dark Gray x 1, White x 1, Light Gray x 1, Gray x 1, Light Gray x 4, Black x 5, White x 2, Black x 2, White x 1, Black x 3, White x 3, Black x 2, White x 9, Black x 2, White x 22, Black x 1, White x 5, Black x 11, White x 4, Black x 4, White x 2, Black x 1, White x 1, Black x 3, Light Gray x 3, White x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Black x 1, Light Gray x 2, Gray x 1, Light Gray x 1, Black x 3",
+          "totalBlocks": 116,
+          "turnText": "Increase"
+        }, 
+{
+          "number": 117,
+          "instructions": "Gray x 1, Black x 1, Dark Gray x 2, Black x 1, Gray x 1, Black x 1, Gray x 1, Black x 1, Light Gray x 1, Dark Gray x 1, White x 3, Light Gray x 1, Gray x 1, Black x 3, White x 1, Black x 1, White x 1, Black x 4, White x 5, Black x 5, Light Blue x 3, Black x 3, White x 3, Black x 5, White x 19, Black x 2, White x 10, Black x 2, White x 3, Black x 3, White x 1, Black x 2, White x 2, Black x 4, Light Gray x 6, Gray x 2, Black x 1, Dark Gray x 2, Light Gray x 2, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 2, Dark Gray x 1",
+          "totalBlocks": 117,
+          "turnText": "Increase"
+        },
+ {
+          "number": 118,
+          "instructions": "Dark Gray x 3, Light Gray x 1, Dark Gray x 1, Gray x 1, Light Gray x 2, Dark Gray x 1, Gray x 3, Dark Gray x 1, Black x 2, Dark Gray x 1, Gray x 1, Light Gray x 2, Gray x 1, Black x 3, White x 2, Black x 3, White x 1, Black x 3, White x 3, Black x 2, White x 10, Black x 2, White x 18, Black x 7, White x 1, Black x 3, Light Blue x 4, Black x 4, White x 6, Black x 4, White x 1, Black x 1, White x 1, Black x 3, White x 2, Light Gray x 1, White x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Black x 2, Dark Gray x 1, Black x 1, Dark Gray x 4, White x 1",
+          "totalBlocks": 118,
+          "turnText": "Increase"
+        },
+ {
+          "number": 119,
+          "instructions": "Gray x 1, White x 1, Black x 1, Dark Gray x 1, Black x 2, Dark Gray x 1, Black x 3, Light Gray x 3, White x 3, Light Gray x 1, Black x 3, White x 2, Black x 4, White x 7, Black x 3, Light Blue x 5, Black x 10, White x 18, Black x 2, White x 4, Black x 1, White x 6, Black x 2, White x 2, Black x 4, White x 1, Black x 3, White x 2, Black x 3, Gray x 1, Light Gray x 1, Gray x 1, Black x 2, Dark Gray x 1, Light Gray x 2, Gray x 1, Black x 1, Dark Gray x 2, Light Gray x 2, Dark Gray x 1, Black x 1, Dark Gray x 3, Gray x 1",
+          "totalBlocks": 119,
+          "turnText": "Increase"
+        },
+ {
+          "number": 120,
+          "instructions": "White x 1, Dark Gray x 1, Black x 4, Dark Gray x 1, Light Gray x 3, Black x 1, Dark Gray x 1, Gray x 1, Light Gray x 2, Gray x 1, Black x 2, Gray x 3, Black x 2, White x 2, Black x 3, White x 2, Black x 4, White x 1, Black x 3, White x 5, Black x 1, White x 5, Black x 2, White x 18, Black x 9, Light Blue x 6, Black x 2, White x 8, Black x 4, White x 2, Black x 2, Dark Gray x 1, White x 4, Gray x 1, Dark Gray x 1, Black x 3, Dark Gray x 1, Black x 2, Dark Gray x 1, Black x 1, Light Gray x 1, Gray x 2",
+          "totalBlocks": 120,
+          "turnText": "Increase"
+        },
+ {
+          "number": 121,
+          "instructions": "Gray x 4, Black x 7, Gray x 1, Dark Gray x 1, Gray x 1, White x 3, Light Gray x 1, Black x 3, White x 2, Black x 3, White x 5, Black x 1, White x 3, Black x 2, Light Blue x 6, Black x 8, White x 18, Black x 2, White x 5, Black x 2, White x 5, Black x 2, White x 2, Black x 4, White x 2, Black x 3, White x 2, Black x 2, Gray x 2, Dark Gray x 1, Gray x 1, Light Gray x 3, Gray x 1, Light Gray x 1, Gray x 1, Black x 1, Dark Gray x 3, Black x 5, White x 2",
+          "totalBlocks": 121,
+          "turnText": "Increase"
+        },
+ {
+          "number": 122,
+          "instructions": "White x 1, Gray x 1, Black x 1, Dark Gray x 1, Black x 7, Gray x 3, White x 1, Light Gray x 3, Gray x 1, Light Gray x 1, Black x 2, White x 2, Black x 3, White x 2, Black x 5, White x 1, Black x 3, White x 3, Black x 3, White x 5, Black x 3, White x 17, Black x 8, Light Blue x 7, Black x 1, White x 2, Black x 4, White x 3, Black x 4, White x 1, Black x 3, Dark Gray x 1, White x 3, Light Gray x 1, Gray x 1, Light Gray x 1, Black x 3, Gray x 1, Black x 3, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1",
+          "totalBlocks": 120,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 123,
+          "instructions": "Gray x 1, Light Gray x 1, Gray x 1, Black x 7, Dark Gray x 1, Gray x 1, Light Gray x 1, White x 3, Gray x 1, Black x 3, White x 1, Black x 4, White x 3, Black x 5, White x 2, Black x 1, Light Blue x 2, Black x 3, Light Blue x 2, Black x 7, White x 17, Black x 3, White x 5, Black x 15, White x 3, Black x 3, White x 1, Gray x 1, Black x 2, White x 5, Light Gray x 2, Gray x 1, Dark Gray x 1, Black x 7, Light Gray x 1, White x 2",
+          "totalBlocks": 119,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 124,
+          "instructions": "White x 2, Black x 6, Dark Gray x 1, Black x 1, Gray x 2, Light Gray x 2, White x 4, Light Gray x 2, Gray x 1, Light Gray x 1, Black x 3, White x 4, Black x 14, White x 6, Black x 2, White x 18, Black x 7, Light Blue x 1, Black x 4, Light Blue x 1, Black x 1, White x 2, Black x 6, White x 3, Black x 3, White x 1, Black x 3, Gray x 1, Light Gray x 1, White x 3, Gray x 1, White x 1, Black x 7, Dark Gray x 1, Light Gray x 2",
+          "totalBlocks": 118,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 125,
+          "instructions": "Dark Gray x 1, Light Gray x 1, Black x 8, White x 1, Gray x 1, White x 3, Light Gray x 1, Black x 3, White x 1, Black x 3, White x 3, Black x 6, White x 3, Black x 6, Light Blue x 1, Black x 7, White x 17, Black x 2, White x 6, Black x 10, White x 2, Black x 2, White x 5, Black x 3, Light Gray x 3, White x 4, Light Gray x 3, Dark Gray x 1, Black x 1, Dark Gray x 1, White x 1, Black x 6, Gray x 1",
+          "totalBlocks": 117,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 126,
+          "instructions": "Dark Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 4, White x 1, Dark Gray x 1, Black x 2, Light Gray x 1, Gray x 1, Light Gray x 1, White x 3, Light Gray x 2, Gray x 1, Black x 3, White x 6, Black x 2, White x 3, Black x 6, White x 9, Black x 2, White x 17, Black x 1, White x 1, Black x 5, Light Blue x 1, Black x 1, White x 1, Black x 3, White x 3, Black x 7, White x 3, Black x 2, White x 1, Black x 3, Gray x 2, White x 1, Gray x 2, Light Gray x 2, Black x 9",
+          "totalBlocks": 116,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 127,
+          "instructions": "Black x 8, Gray x 1, Light Gray x 5, Dark Gray x 1, Black x 3, White x 1, Black x 3, White x 2, Black x 2, White x 2, Black x 4, White x 3, Black x 2, White x 2, Black x 4, White x 3, Black x 1, White x 17, Black x 2, White x 18, Black x 2, White x 6, Gray x 1, Black x 3, Light Gray x 2, White x 3, Light Gray x 1, Gray x 2, Black x 2, Light Gray x 2, Black x 4, Dark Gray x 1, Light Gray x 1, Gray x 1",
+          "totalBlocks": 115,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 128,
+          "instructions": "Dark Gray x 3, Black x 1, Gray x 1, Dark Gray x 1, Black x 1, Dark Gray x 1, Light Gray x 1, Black x 2, Gray x 3, White x 3, Light Gray x 1, Black x 2, Light Gray x 1, Gray x 1, Black x 1, White x 5, Black x 3, White x 18, Black x 2, White x 17, Black x 1, White x 3, Black x 4, White x 1, Black x 2, White x 4, Black x 4, White x 2, Black x 2, White x 2, Black x 3, White x 1, Black x 3, Dark Gray x 2, Light Gray x 4, Black x 8",
+          "totalBlocks": 114,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 129,
+          "instructions": "Black x 7, White x 1, Light Gray x 4, Dark Gray x 1, Gray x 1, Black x 3, White x 1, Black x 2, White x 2, Black x 2, White x 3, Black x 4, White x 4, Black x 6, White x 3, Black x 1, White x 17, Black x 2, White x 18, Black x 3, White x 5, Black x 1, Light Gray x 1, Gray x 2, Light Gray x 1, Black x 1, White x 3, Light Gray x 2, Dark Gray x 1, Black x 1, Dark Gray x 1, Light Gray x 1, Black x 2, Gray x 2, Light Gray x 1, Dark Gray x 3",
+          "totalBlocks": 113,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 130,
+          "instructions": "Dark Gray x 3, Light Gray x 1, Gray x 2, Dark Gray x 1, Black x 1, Gray x 1, Light Gray x 1, Black x 2, Light Gray x 2, White x 4, Light Gray x 1, Gray x 2, Dark Gray x 1, Black x 1, White x 5, Black x 3, White x 18, Black x 1, White x 17, Black x 2, White x 3, Black x 5, White x 4, Black x 4, White x 4, Black x 2, White x 2, Black x 2, White x 1, Black x 3, Dark Gray x 2, Light Gray x 1, Gray x 1, Light Gray x 1, White x 2, Black x 6",
+          "totalBlocks": 112,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 131,
+          "instructions": "Black x 5, Gray x 1, White x 2, Light Gray x 2, Dark Gray x 2, Black x 4, White x 1, Black x 2, White x 2, Black x 1, White x 4, Black x 6, White x 4, Black x 3, White x 3, Black x 2, White x 17, Black x 1, White x 15, Black x 6, White x 6, Gray x 4, White x 6, Black x 1, Dark Gray x 1, White x 1, Dark Gray x 1, Black x 1, Gray x 3, Light Gray x 2, Dark Gray x 2",
+          "totalBlocks": 111,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 132,
+          "instructions": "Light Gray x 1, Black x 1, Light Gray x 3, Gray x 2, Light Gray x 1, Black x 1, White x 2, Dark Gray x 1, White x 2, Gray x 3, Light Gray x 1, Gray x 4, White x 6, Black x 12, White x 27, Black x 2, White x 4, Black x 1, White x 3, Black x 8, White x 4, Black x 1, White x 2, Black x 2, White x 1, Black x 3, Dark Gray x 1, Black x 1, Light Gray x 2, White x 2, Light Gray x 1, Black x 5",
+          "totalBlocks": 110,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 133,
+          "instructions": "Black x 4, Dark Gray x 1, White x 2, Light Gray x 2, Dark Gray x 2, Black x 3, White x 2, Black x 2, White x 1, Black x 1, White x 5, Black x 7, White x 8, Black x 2, White x 24, Black x 13, White x 1, Black x 2, White x 5, Black x 1, Dark Gray x 2, Black x 2, Dark Gray x 2, Light Gray x 1, White x 1, Light Gray x 1, Gray x 1, White x 1, Light Gray x 1, Black x 1, Gray x 3, Light Gray x 3, Gray x 1, Light Gray x 1",
+          "totalBlocks": 109,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 134,
+          "instructions": "Light Gray x 1, Dark Gray x 1, Light Gray x 5, Gray x 1, Black x 1, Light Gray x 1, White x 1, Gray x 1, Dark Gray x 1, White x 1, Light Gray x 2, Gray x 2, Black x 4, White x 5, Black x 2, White x 2, Black x 14, White x 22, Black x 2, White x 9, Black x 3, White x 8, Black x 1, White x 1, Black x 2, White x 1, Black x 3, Dark Gray x 1, Black x 1, Light Gray x 2, White x 2, Gray x 1, Dark Gray x 1, Black x 3",
+          "totalBlocks": 108,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 135,
+          "instructions": "Black x 3, Gray x 2, White x 1, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 4, White x 2, Black x 1, White x 1, Black x 1, White x 9, Black x 1, White x 3, Black x 3, White x 4, Black x 2, White x 22, Black x 9, White x 4, Black x 1, White x 3, Black x 2, White x 4, Black x 3, Gray x 1, Light Gray x 5, Black x 1, Light Gray x 1, White x 1, Gray x 2, Light Gray x 8",
+          "totalBlocks": 107,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 136,
+          "instructions": "Light Gray x 2, White x 1, Light Gray x 5, Dark Gray x 1, Black x 1, White x 2, Dark Gray x 1, Black x 1, White x 1, Light Gray x 3, Black x 3, White x 5, Black x 2, White x 3, Black x 1, White x 6, Black x 7, White x 22, Black x 2, White x 4, Black x 3, White x 3, Black x 2, White x 8, Black x 1, White x 1, Black x 1, White x 1, Black x 3, Gray x 1, Black x 1, Light Gray x 2, White x 1, Gray x 2, Black x 3",
+          "totalBlocks": 106,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 137,
+          "instructions": "Black x 1, Gray x 1, Light Gray x 2, Gray x 2, Light Gray x 1, Dark Gray x 1, Black x 4, White x 4, Black x 1, White x 7, Black x 2, White x 3, Black x 2, White x 4, Black x 3, White x 23, Black x 3, White x 8, Black x 2, White x 3, Black x 3, White x 4, Black x 4, Light Gray x 2, White x 1, Dark Gray x 1, Light Gray x 3, Black x 1, Dark Gray x 1, Light Gray x 3, White x 3, Dark Gray x 1, Light Gray x 1",
+          "totalBlocks": 105,
+          "turnText": "Increase"
+        },
+ {
+          "number": 138,
+          "instructions": "Gray x 1, Dark Gray x 1, Light Gray x 1, White x 2, Light Gray x 3, Gray x 1, Black x 1, Gray x 1, Light Gray x 2, Gray x 1, Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 3, White x 5, Black x 2, White x 4, Black x 3, White x 33, Black x 3, White x 4, Black x 2, White x 3, Black x 2, White x 7, Black x 1, White x 3, Black x 4, Gray x 1, Light Gray x 2, Gray x 1, Light Gray x 2, Dark Gray x 2",
+          "totalBlocks": 104,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 139,
+          "instructions": "Gray x 1, Dark Gray x 1, Light Gray x 4, Dark Gray x 1, Black x 5, White x 10, Black x 2, White x 3, Black x 2, White x 4, Black x 3, White x 16, Black x 2, White x 12, Black x 6, White x 4, Black x 3, White x 4, Black x 4, Light Gray x 1, Gray x 1, Light Gray x 3, Dark Gray x 1, Black x 1, Gray x 1, Light Gray x 2, White x 3, Light Gray x 1, Dark Gray x 1, Gray x 1",
+          "totalBlocks": 103,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 140,
+          "instructions": "Gray x 3, White x 3, Light Gray x 2, Gray x 2, Black x 1, Gray x 1, Light Gray x 2, Gray x 1, Black x 4, White x 4, Black x 3, White x 5, Black x 11, White x 6, Black x 4, White x 15, Black x 3, White x 4, Black x 2, White x 3, Black x 2, White x 10, Black x 5, Light Gray x 6 ",
+          "totalBlocks": 102,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 141,
+          "instructions": "Light Gray x 1, Gray x 1, Dark Gray x 1, Light Gray x 2, Gray x 1, Black x 4, White x 10, Black x 2, White x 3, Black x 2, White x 4, Black x 3, White x 14, Black x 6, White x 5, Black x 8, White x 1, Black x 2, White x 5, Black x 4, White x 3, Black x 4, Gray x 3, Black x 2, Dark Gray x 1, Gray x 1, Light Gray x 2, White x 2, Light Gray x 1, Gray x 3",
+          "totalBlocks": 101,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 142,
+          "instructions": " Light Gray x 1, Gray x 3, Light Gray x 1, White x 1, Light Gray x 2, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 7, White x 4, Black x 3, White x 5, Black x 2, White x 3, Black x 6, White x 5, Black x 7, White x 14, Black x 2, White x 4, Black x 2, White x 3, Black x 3, White x 9, Black x 5, Dark Gray x 1, Light Gray x 1, Dark Gray x 1, Light Gray x 1, Gray x 1 ",
+          "totalBlocks": 100,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 143,
+          "instructions": "Gray x 1, Light Gray x 1, Dark Gray x 1, Light Gray x 1, Gray x 1, Black x 4, White x 10, Black x 2, White x 3, Black x 2, White x 4, Black x 2, White x 14, Black x 7, White x 14, Black x 3, White x 4, Black x 4, White x 3, Black x 6, Dark Gray x 1, Light Gray x 2, Gray x 1, Light Gray x 3, Gray x 2, Light Gray x 3",
+          "totalBlocks": 99,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 144,
+          "instructions": "White x 1, Light Gray x 6, Gray x 4, Light Gray x 2, Gray x 1, Black x 4, White x 2, Black x 4, White x 4, Black x 3, White x 14, Black x 6, White x 1, Black x 2, White x 12, Black x 2, White x 5, Black x 2, White x 3, Black x 2, White x 9, Black x 5, Dark Gray x 1, Gray x 2, Light Gray x 1",
+          "totalBlocks": 98,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 145,
+          "instructions": "Dark Gray x 2, Gray x 2, Black x 5, White x 9, Black x 2, White x 2, Black x 2, White x 3, Black x 1, White x 1, Black x 2, White x 12, Black x 2, White x 2, Black x 5, White x 14, Black x 3, White x 4, Black x 5, White x 2, Black x 3, Light Gray x 1, White x 2, Dark Gray x 1, Black x 1, Dark Gray x 1, Gray x 1, Light Gray x 5, White x 2",
+          "totalBlocks": 97,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 146,
+          "instructions": "White x 8, Gray x 1, Black x 2, Gray x 1, White x 1, Light Gray x 1, Black x 3, White x 2, Black x 4, White x 4, Black x 3, White x 14, Black x 6, White x 2, Black x 2, White x 12, Black x 2, White x 1, Black x 1, White x 2, Black x 2, White x 3, Black x 2, White x 9, Black x 5, Dark Gray x 3",
+          "totalBlocks": 96,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 147,
+          "instructions": "Dark Gray x 3, Black x 4, White x 10, Black x 2, White x 2, Black x 2, White x 2, Black x 1, White x 2, Black x 1, White x 12, Black x 2, White x 3, Black x 5, White x 14, Black x 4, White x 4, Black x 4, White x 2, Black x 2, Light Gray x 1, White x 1, Dark Gray x 1, Black x 1, Gray x 1, White x 9 ",
+          "totalBlocks": 95,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 148,
+          "instructions": "Light Gray x 1, Gray x 1, Light Gray x 4, White x 4, Black x 1, Dark Gray x 1, White x 1, Light Gray x 1, Black x 2, White x 2, Black x 2, White x 5, Black x 4, White x 5, Black x 1, White x 8, Black x 6, White x 3, Black x 2, White x 12, Black x 1, White x 1, Black x 2, White x 2, Black x 1, White x 3, Black x 2, White x 9, Black x 5, Dark Gray x 2 ",
+          "totalBlocks": 94,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 149,
+          "instructions": "Dark Gray x 1, Light Gray x 1, Black x 4, White x 10, Black x 2, White x 2, Black x 2, White x 1, Black x 2, White x 2, Black x 1, White x 11, Black x 2, White x 4, Black x 5, White x 8, Black x 1, White x 6, Black x 4, White x 5, Black x 2, White x 2, Black x 1, Light Gray x 1, White x 1, Dark Gray x 2, White x 5, Gray x 1, Light Gray x 1, Black x 3",
+          "totalBlocks": 93,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 150,
+          "instructions": "Black x 5, Light Gray x 2, White x 3, Light Gray x 1, Dark Gray x 1, White x 1, Black x 2, White x 2, Black x 2, White x 4, Black x 5, White x 6, Black x 1, White x 8, Black x 5, White x 4, Black x 2, White x 11, Black x 1, White x 1, Black x 3, White x 1, Black x 1, White x 3, Black x 1, White x 11, Black x 3, White x 1, Gray x 1",
+          "totalBlocks": 92,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 151,
+          "instructions": "White x 2, Black x 3, White x 3, Black x 2, White x 5, Black x 2, White x 2, Black x 1, White x 2, Black x 2, White x 1, Black x 1, White x 11, Black x 2, White x 4, Black x 5, White x 9, Black x 1, White x 6, Black x 4, White x 2, Black x 4, White x 3, Black x 1, White x 1, Light Gray x 1, White x 4, Gray x 1, Black x 4, Gray x 2",
+          "totalBlocks": 91,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 152,
+          "instructions": "Gray x 2, Dark Gray x 1, Black x 3, Dark Gray x 1, Light Gray x 1, White x 3, Gray x 1, Black x 2, White x 2, Black x 10, White x 7, Black x 1, White x 9, Black x 4, White x 5, Black x 2, White x 10, Black x 2, White x 1, Black x 2, White x 1, Black x 1, White x 2, Black x 2, White x 4, Black x 3, White x 3, Black x 3, Gray x 1, White x 1",
+          "totalBlocks": 90,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 153,
+          "instructions": "White x 1, Black x 3, White x 3, Black x 4, White x 4, Black x 1, White x 2, Black x 4, White x 1, Black x 2, White x 10, Black x 2, White x 5, Black x 4, White x 9, Black x 2, White x 1, Black x 1, White x 4, Black x 10, White x 2, Black x 2, Gray x 1, Light Gray x 1, White x 2, Gray x 1, Dark Gray x 4, Gray x 2, White x 1",
+          "totalBlocks": 89,
+          "turnText": "Decrease"
+        },
+ {
+          "number": 154,
+          "instructions": "Light Gray x 1, Gray x 5, Dark Gray x 1, Light Gray x 2, White x 1, Light Gray x 2, Black x 2, White x 2, Black x 9, White x 5, Black x 1, White x 1, Black x 2, White x 8, Black x 5, White x 5, Black x 2, White x 9, Black x 2, White x 2, Black x 3, White x 2, Black x 1, White x 4, Black x 4, White x 3, Black x 3, White x 1",
+          "totalBlocks": 88,
+          "turnText": "Decrease"
+        },
+{
+          "number": 155,
+          "instructions": "White x 1, Black x 3, White x 2, Black x 4, White x 4, Black x 2, White x 2, Black x 3, White x 1, Black x 2, White x 9, Black x 3, White x 4, Black x 6, White x 3, Black x 2, White x 3, Black x 1, White x 2, Black x 1, White x 4, Black x 9, White x 2, Black x 2, White x 3, Gray x 1, Dark Gray x 1, Gray x 1, Light Gray x 1, White x 1, Light Gray x 2, Gray x 1, Black x 1",
+          "totalBlocks": 87,
+          "turnText": "Decrease"
+        },
+{
+          "number": 156,
+          "instructions": "Gray x 1, Black x 2, Gray x 1, White x 2, Light Gray x 4, White x 2, Black x 2, White x 2, Black x 8, White x 5, Black x 1, White x 1, Black x 2, White x 2, Black x 2, White x 3, Black x 6, White x 5, Black x 4, White x 7, Black x 3, White x 1, Black x 2, White x 2, Black x 2, White x 4, Black x 4, White x 3, Black x 2, Light Gray x 1",
+          "totalBlocks": 86,
+          "turnText": "Decrease"
+        },
+{
+          "number": 157,
+          "instructions": "Gray x 1, Black x 2, White x 2, Black x 5, White x 4, Black x 1, White x 2, Black x 2, White x 2, Black x 2, White x 7, Black x 4, White x 5, Black x 2, Light Blue x 2, Black x 3, White x 2, Black x 3, White x 1, Black x 2, White x 1, Black x 2, White x 4, Black x 4, Light Gray x 1, Black x 3, White x 2, Black x 2, Gray x 1, Light Gray x 1, Black x 2, Gray x 1, White x 2, Light Gray x 1, Black x 2, Light Gray x 1, White x 1",
+          "totalBlocks": 85,
+          "turnText": "Decrease"
+        },
+{
+          "number": 158,
+          "instructions": "White x 2, Gray x 1, Black x 1, Dark Gray x 1, White x 2, Light Gray x 1, Dark Gray x 1, Gray x 2, Black x 3, White x 2, Black x 3, White x 1, Black x 3, White x 5, Black x 2, White x 1, Black x 1, White x 1, Black x 3, White x 2, Black x 2, Light Blue x 4, Black x 2, White x 5, Black x 4, White x 6, Black x 3, White x 2, Black x 1, White x 2, Black x 2, White x 3, Black x 5, White x 3, Black x 1, Gray x 1",
+          "totalBlocks": 84,
+          "turnText": "Decrease"
+        },
+{
+          "number": 159,
+          "instructions": "Black x 2, White x 2, Black x 6, White x 3, Black x 2, White x 2, Black x 1, White x 1, Black x 3, White x 6, Black x 4, White x 5, Black x 2, Light Blue x 5, Black x 2, White x 2, Black x 4, White x 2, Black x 2, White x 4, Black x 3, White x 1, Black x 3, White x 3, Black x 2, Gray x 1, Dark Gray x 1, Gray x 1, White x 3, Black x 2, Light Gray x 1, White x 2",
+          "totalBlocks": 83,
+          "turnText": "Decrease"
+        },
+{
+          "number": 160,
+          "instructions": "White x 3, Dark Gray x 1, Black x 1, White x 3, Gray x 2, Black x 3, White x 3, Black x 2, White x 2, Black x 3, White x 4, Black x 2, White x 1, Black x 4, White x 3, Black x 1, Light Blue x 3, Black x 1, Light Blue x 2, Black x 1, White x 7, Black x 3, White x 6, Black x 2, White x 2, Black x 1, White x 1, Black x 3, White x 3, Black x 5, White x 3, Black x 1",
+          "totalBlocks": 82,
+          "turnText": "Decrease"
+        },
+{
+          "number": 161,
+          "instructions": "Black x 1, White x 3, Black x 5, White x 3, Black x 2, White x 1, Black x 2, White x 1, Black x 3, White x 4, Black x 3, White x 8, Black x 5, Light Blue x 2, Black x 2, White x 3, Black x 3, White x 1, Black x 2, White x 5, Black x 2, White x 2, Black x 2, White x 3, Black x 3, Dark Gray x 1, Gray x 1, White x 3, Dark Gray x 1, White x 3, Light Gray x 1",
+          "totalBlocks": 81,
+          "turnText": "Decrease"
+        },
+{
+          "number": 162,
+          "instructions": "Black x 1, Gray x 1, White x 2, Light Gray x 1, White x 3, Gray x 1, Black x 4, White x 3, Black x 2, White x 2, Black x 2, White x 4, Black x 2, White x 2, Black x 3, White x 2, Black x 2, Light Blue x 2, Black x 5, White x 9, Black x 5, White x 2, Black x 3, White x 1, Black x 1, White x 1, Black x 3, White x 2, Black x 6, White x 2, Black x 1",
+          "totalBlocks": 80,
+          "turnText": "Decrease"
+        },
+{
+          "number": 163,
+          "instructions": "White x 3, Black x 6, White x 2, Black x 2, White x 2, Black x 1, White x 1, Black x 8, White x 4, Black x 1, White x 5, Black x 3, White x 1, Black x 2, Light Blue x 2, Black x 1, White x 3, Black x 2, White x 2, Black x 2, White x 4, Black x 2, White x 2, Black x 2, White x 3, Black x 4, Gray x 1, White x 2, Dark Gray x 1, Gray x 1, White x 1, Light Gray x 1, Dark Gray x 2",
+          "totalBlocks": 79,
+          "turnText": "Decrease"
+        },
+{
+          "number": 164,
+          "instructions": "White x 1, Dark Gray x 2, White x 1, Light Gray x 1, Black x 1, Gray x 1, White x 1, Black x 5, White x 2, Black x 2, White x 3, Black x 2, White x 3, Black x 3, White x 1, Black x 3, White x 2, Black x 2, Light Blue x 2, Black x 1, White x 2, Black x 2, White x 6, Black x 3, White x 2, Black x 8, White x 1, Black x 1, White x 1, Black x 2, White x 3, Black x 6, White x 2",
+          "totalBlocks": 78,
+          "turnText": "Decrease"
+        },
+{
+          "number": 165,
+          "instructions": "White x 2, Black x 6, White x 3, Black x 2, White x 1, Black x 1, White x 1, Black x 6, White x 3, Black x 3, White x 3, Black x 1, White x 3, Black x 2, White x 1, Black x 2, Light Blue x 2, Black x 1, White x 3, Black x 2, White x 1, Black x 3, White x 3, Black x 3, White x 2, Black x 2, White x 2, Black x 5, Light Gray x 1, Dark Gray x 1, Gray x 1, White x 1, Gray x 2, Light Gray x 2",
+          "totalBlocks": 77,
+          "turnText": "Decrease"
+        },
+{
+          "number": 166,
+          "instructions": "Gray x 1, Light Gray x 2, Dark Gray x 1, Light Gray x 1, White x 1, Dark Gray x 1, Black x 6, White x 2, Black x 2, White x 2, Black x 3, White x 3, Black x 2, White x 1, Black x 3, White x 2, Black x 2, Light Blue x 2, Black x 5, White x 3, Black x 1, White x 3, Black x 3, White x 4, Black x 7, White x 1, Black x 2, White x 3, Black x 5, White x 2",
+          "totalBlocks": 76,
+          "turnText": "Decrease"
+        },
+{
+          "number": 167,
+          "instructions": "White x 2, Black x 5, White x 3, Black x 1, White x 1, Black x 6, White x 4, Black x 3, White x 4, Black x 2, White x 3, Black x 4, Light Blue x 2, Black x 2, White x 3, Black x 2, White x 1, Black x 3, White x 3, Black x 2, White x 2, Black x 3, White x 1, Black x 6, Light Gray x 2, Gray x 1, Dark Gray x 1, Gray x 3",
+          "totalBlocks": 75,
+          "turnText": "Decrease"
+        },
+{
+          "number": 168,
+          "instructions": "Black x 2, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Black x 7, White x 1, Black x 2, White x 3, Black x 2, White x 3, Black x 3, White x 1, Black x 2, White x 2, Black x 3, Light Blue x 2, Black x 3, White x 2, Black x 1, White x 1, Black x 2, White x 4, Black x 4, White x 4, Black x 4, White x 1, Black x 2, White x 2, Black x 5, White x 2",
+          "totalBlocks": 74,
+          "turnText": "Decrease"
+        },
+{
+          "number": 169,
+          "instructions": "White x 2, Black x 4, White x 3, Black x 1, White x 1, Black x 4, White x 3, Black x 5, White x 4, Black x 2, White x 2, Black x 1, White x 2, Black x 3, Light Blue x 1, Black x 3, White x 3, Black x 6, White x 2, Black x 2, White x 3, Black x 2, White x 1, Black x 7, Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 3",
+          "totalBlocks": 73,
+          "turnText": "Decrease"
+        },
+{
+          "number": 170,
+          "instructions": "Black x 4, Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 6, White x 1, Black x 2, White x 2, Black x 3, White x 2, Black x 6, White x 3, Black x 6, White x 3, Black x 1, White x 2, Black x 2, White x 4, Black x 11, White x 1, Black x 2, White x 2, Black x 4, White x 2",
+          "totalBlocks": 72,
+          "turnText": "Decrease"
+        },
+{
+          "number": 171,
+          "instructions": "White x 2, Black x 3, White x 3, Black x 1, White x 2, Black x 10, White x 3, Black x 3, White x 3, Black x 1, White x 3, Black x 6, White x 3, Black x 4, White x 4, Black x 2, White x 2, Black x 2, White x 1, Black x 6, Light Gray x 2, Dark Gray x 1, Black x 4",
+          "totalBlocks": 71,
+          "turnText": "Decrease"
+        },
+{
+          "number": 172,
+          "instructions": "Black x 5, Dark Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 5, White x 1, Black x 2, White x 2, Black x 2, White x 4, Black x 3, White x 4, Black x 5, White x 3, Black x 2, White x 3, Black x 3, White x 4, Black x 9, White x 1, Black x 2, White x 2, Black x 3, White x 2",
+          "totalBlocks": 70,
+          "turnText": "Decrease"
+        },
+{
+          "number": 173,
+          "instructions": "White x 2, Black x 3, White x 2, Black x 1, White x 1, Black x 9, White x 3, Black x 4, White x 4, Black x 2, White x 4, Black x 4, White x 3, Black x 3, White x 4, Black x 2, White x 2, Black x 2, White x 1, Black x 5, Light Gray x 1, Black x 7",
+          "totalBlocks": 69,
+          "turnText": "Decrease"
+        },
+{
+          "number": 174,
+          "instructions": "Gray x 4, Dark Gray x 1, Black x 2, Gray x 1, Black x 5, White x 1, Black x 1, White x 3, Black x 2, White x 5, Black x 3, White x 1, Black x 3, White x 4, Black x 4, White x 5, Black x 8, White x 2, Black x 7, White x 1, Black x 4, White x 1",
+          "totalBlocks": 68,
+          "turnText": "Decrease"
+        },
+{
+          "number": 175,
+          "instructions": "White x 1, Black x 4, White x 1, Black x 4, White x 6, Black x 6, White x 5, Black x 5, White x 4, Black x 6, White x 6, Black x 1, White x 3, Black x 1, White x 1, Black x 5, Gray x 1, Black x 1, Dark Gray x 1, Gray x 3, Light Gray x 2",
+          "totalBlocks": 67,
+          "turnText": "Decrease"
+        },
+{
+          "number": 176,
+          "instructions": "White x 3, Gray x 3, Black x 1, Gray x 1, Black x 5, White x 1, Black x 1, White x 2, Black x 2, White x 3, Black x 1, White x 3, Black x 4, White x 4, Black x 6, White x 17, Black x 8, White x 1",
+          "totalBlocks": 66,
+          "turnText": "Decrease"
+        },
+{
+          "number": 177,
+          "instructions": "White x 1, Black x 11, White x 1, Black x 2, White x 10, Black x 8, White x 3, Black x 3, White x 3, Black x 1, White x 3, Black x 2, White x 2, Black x 1, White x 1, Black x 5, Gray x 1, Dark Gray x 1, Gray x 2, White x 4",
+          "totalBlocks": 65,
+          "turnText": "Decrease"
+        },
+{
+          "number": 178,
+          "instructions": "White x 4, Light Gray x 1, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 7, White x 2, Black x 2, White x 3, Black x 2, White x 2, Black x 3, White x 2, Black x 9, White x 9, Black x 15",
+          "totalBlocks": 64,
+          "turnText": "Decrease"
+        },
+{
+          "number": 179,
+          "instructions": "Black x 16, White x 7, Black x 2, White x 2, Black x 6, White x 2, Black x 2, White x 1, Black x 3, White x 3, Black x 2, White x 2, Black x 8, Gray x 2, Light Gray x 1, White x 4",
+          "totalBlocks": 63,
+          "turnText": "Decrease"
+        },
+{
+          "number": 180,
+          "instructions": "Gray x 1, White x 3, Light Gray x 1, Gray x 2, Black x 8, White x 2, Black x 2, White x 3, Black x 3, White x 1, Black x 2, White x 1, Black x 5, White x 4, Black x 2, White x 6, Black x 7, White x 2, Black x 1, White x 1, Black x 5",
+          "totalBlocks": 62,
+          "turnText": "Decrease"
+        },
+{
+          "number": 181,
+          "instructions": "Black x 4, White x 7, Black x 6, White x 3, Black x 3, White x 5, Black x 4, White x 2, Black x 5, White x 3, Black x 2, White x 2, Black x 8, Gray x 2, White x 3, Light Gray x 1, Gray x 1",
+          "totalBlocks": 61,
+          "turnText": "Decrease"
+        },
+{
+          "number": 182,
+          "instructions": "Light Gray x 2, White x 3, Gray x 1, Dark Gray x 1, Black x 7, White x 3, Black x 2, White x 3, Black x 5, White x 2, Black x 3, White x 6, Black x 4, White x 1, Black x 3, White x 11, Black x 3",
+          "totalBlocks": 60,
+          "turnText": "Decrease"
+        },
+{
+          "number": 183,
+          "instructions": "Black x 5, White x 9, Black x 7, White x 7, Black x 3, White x 1, Black x 5, White x 3, Black x 2, White x 3, Black x 7, Dark Gray x 1, Gray x 1, White x 3, Light Gray x 1, White x 1 ",
+          "totalBlocks": 59,
+          "turnText": "Decrease"
+        },
+{
+          "number": 184,
+          "instructions": "White x 1, Light Gray x 1, White x 3, Gray x 2, Black x 7, White x 3, Black x 2, White x 3, Black x 4, White x 2, Black x 3, White x 7, Black x 5, White x 9, Black x 6",
+          "totalBlocks": 58,
+          "turnText": "Decrease"
+        },
+{
+          "number": 185,
+          "instructions": "Black x 6, White x 10, Black x 2, White x 8, Black x 3, White x 2, Black x 4, White x 3, Black x 2, White x 3, Black x 7, Gray x 2, White x 5",
+          "totalBlocks": 57,
+          "turnText": "Decrease"
+        },
+{
+          "number": 186,
+          "instructions": "Dark Gray x 1, White x 4, Gray x 2, Black x 7, White x 3, Black x 2, White x 3, Black x 3, White x 3, Black x 3, White x 17, Black x 8",
+          "totalBlocks": 56,
+          "turnText": "Decrease"
+        },
+{
+          "number": 187,
+          "instructions": "White x 1, Black x 7, White x 16, Black x 1, White x 1, Black x 1, White x 3, Black x 3, White x 8, Black x 7, Dark Gray x 1, Gray x 1, White x 3, Light Gray x 1, Dark Gray x 1",
+          "totalBlocks": 55,
+          "turnText": "Decrease"
+        },
+{
+          "number": 188,
+          "instructions": "Black x 2, Light Gray x 1, White x 2, Gray x 1, Dark Gray x 1, Black x 8, White x 7, Black x 3, White x 5, Black x 1, White x 13, Black x 9, White x 1",
+          "totalBlocks": 54,
+          "turnText": "Decrease"
+        },
+{
+          "number": 189,
+          "instructions": "White x 2, Black x 8, White x 12, Black x 2, White x 3, Black x 4, White x 7, Black x 8, Gray x 2, Light Gray x 2, Black x 3",
+          "totalBlocks": 53,
+          "turnText": "Decrease"
+        },
+{
+          "number": 190,
+          "instructions": "Light Gray x 1, Black x 3, Dark Gray x 1, Gray x 2, Dark Gray x 1, Black x 9, White x 5, Black x 4, White x 3, Black x 2, White x 10, Black x 9, White x 2",
+          "totalBlocks": 52,
+          "turnText": "Decrease"
+        },
+{
+          "number": 191,
+          "instructions": "White x 2, Black x 10, White x 8, Black x 2, White x 3, Black x 4, White x 4, Black x 10, Dark Gray x 1, Gray x 1, Dark Gray x 3, Black x 1, Gray x 2",
+          "totalBlocks": 51,
+          "turnText": "Decrease"
+        },
+{
+          "number": 192,
+          "instructions": "Gray x 4, Dark Gray x 1, Light Gray x 2, Dark Gray x 1, Black x 12, White x 2, Black x 4, White x 3, Black x 2, White x 7, Black x 10, White x 2",
+          "totalBlocks": 50,
+          "turnText": "Decrease"
+        },
+{
+          "number": 193,
+          "instructions": "White x 2, Black x 11, White x 4, Black x 3, White x 2, Black x 19, Dark Gray x 1, Light Gray x 4, Gray x 2, Light Gray x 1",
+          "totalBlocks": 49,
+          "turnText": "Decrease"
+        },
+{
+          "number": 194,
+          "instructions": "White x 1, Light Gray x 1, Gray x 2, Light Gray x 3, Dark Gray x 1, Black x 19, White x 3, Black x 2, White x 3, Black x 11, White x 2",
+          "totalBlocks": 48,
+          "turnText": "Decrease"
+        },
+{
+          "number": 195,
+          "instructions": "White x 2, Black x 10, White x 8, Black x 13, White x 3, Black x 3, Dark Gray x 1, Light Gray x 3, Gray x 1, White x 3",
+          "totalBlocks": 47,
+          "turnText": "Decrease"
+        },
+{
+          "number": 196,
+          "instructions": "White x 4, Gray x 1, Light Gray x 3, Black x 3, White x 3, Black x 13, White x 7, Black x 9, White x 3",
+          "totalBlocks": 46,
+          "turnText": "Decrease"
+        },
+{
+          "number": 197,
+          "instructions": "White x 4, Black x 7, White x 10, Black x 1, White x 5, Black x 4, White x 3, Black x 3, Dark Gray x 1, Light Gray x 3, White x 3, Gray x 1",
+          "totalBlocks": 45,
+          "turnText": "Decrease"
+        },
+{
+          "number": 198,
+          "instructions": "Gray x 2, Light Gray x 3, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 3, White x 23, Black x 4, White x 6 ",
+          "totalBlocks": 44,
+          "turnText": "Decrease"
+        },
+{
+          "number": 199,
+          "instructions": "White x 13, Black x 2, White x 1, Black x 3, White x 2, Black x 2, White x 9, Black x 3, Dark Gray x 1, Light Gray x 1, Gray x 3, Light Gray x 2, Dark Gray x 1",
+          "totalBlocks": 43,
+          "turnText": "Decrease"
+        },
+{
+          "number": 200,
+          "instructions": "Light Gray x 1, Gray x 2, Light Gray x 4, Black x 5, White x 5, Black x 14, White x 11 ",
+          "totalBlocks": 42,
+          "turnText": "Decrease"
+        },
+{
+          "number": 201,
+          "instructions": "Black x 2, White x 8, Black x 24, Light Gray x 3, Gray x 1, Light Gray x 1, White x 2",
+          "totalBlocks": 41,
+          "turnText": "Decrease"
+        },
+{
+          "number": 202,
+          "instructions": "White x 3, Light Gray x 1, Gray x 1, Light Gray x 2, Black x 25, White x 5, Black x 3",
+          "totalBlocks": 40,
+          "turnText": "Decrease"
+        },
+{
+          "number": 203,
+          "instructions": "Black x 17, Gray x 2, Black x 13, Dark Gray x 1, Light Gray x 1, Gray x 1, White x 4",
+          "totalBlocks": 39,
+          "turnText": "Decrease"
+        },
+{
+          "number": 204,
+          "instructions": "Gray x 1, White x 3, Light Gray x 2, Black x 12, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, Black x 16",
+          "totalBlocks": 38,
+          "turnText": "Decrease"
+        },
+{
+          "number": 205,
+          "instructions": "Black x 15, Light Gray x 4, Gray x 1, Dark Gray x 1, Black x 10, Light Gray x 4, Gray x 1, Light Gray x 1",
+          "totalBlocks": 37,
+          "turnText": "Decrease"
+        },
+{
+          "number": 206,
+          "instructions": "Gray x 3, Light Gray x 2, Dark Gray x 1, Black x 8, Gray x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Light Gray x 4, Dark Gray x 1, Black x 12, Dark Gray x 1",
+          "totalBlocks": 36
+          "turnText": "Decrease"
+        },
+{
+          "number": 207,
+          "instructions": "Light Gray x 1, Black x 12, Light Gray x 7, Gray x 1, Dark Gray x 1, Black x 4, Dark Gray x 3, Light Gray x 3, Gray x 2, White x 1",
+          "totalBlocks": 35,
+          "turnText": "Decrease"
+        },
+{
+          "number": 208,
+          "instructions": "White x 2, Light Gray x 1, Gray x 2, Light Gray x 1, Gray x 3, Light Gray x 1, Black x 4, Light Gray x 1, White x 1, Light Gray x 6, Black x 11, White x 1",
+          "totalBlocks": 34
+          "turnText": "Decrease"
+        },
+{
+          "number": 209,
+          "instructions": "White x 1, Dark Gray x 1, Black x 3, Dark Gray x 6, Light Gray x 5, Dark Gray x 2, Light Gray x 1, Gray x 2, Black x 3, Light Gray x 2, Gray x 1, Light Gray x 3, White x 3",
+          "totalBlocks": 33,
+          "turnText": "Decrease"
+        },
+{
+          "number": 210,
+          "instructions": "Black x 1, Gray x 1, Light Gray x 2, Gray x 1, Light Gray x 1, White x 1, Gray x 1, Black x 3, Gray x 1, Dark Gray x 1, Gray x 3, White x 3, Light Gray x 3, Dark Gray x 9, White x 1",
+          "totalBlocks": 32,
+          "turnText": "Decrease"
+        },
+{
+          "number": 211,
+          "instructions": "White x 1, Dark Gray x 8, Gray x 3, White x 6, Light Gray x 1, Dark Gray x 1, Black x 4, Gray x 1, White x 1, Light Gray x 1, Gray x 1, Black x 3",
+          "totalBlocks": 31,
+          "turnText": "Decrease"
+        },
+{
+          "number": 212,
+          "instructions": "Black x 2, Gray x 1, White x 1, Gray x 1, Black x 5, Dark Gray x 1, Light Gray x 1, Gray x 1, White x 5, Light Gray x 4, Dark Gray x 7, Light Gray x 1",
+          "totalBlocks": 30,
+          "turnText": "Decrease"
+        },
+{
+          "number": 213,
+          "instructions": "Dark Gray x 6, Gray x 1, Light Gray x 4, White x 6, Dark Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 6, White x 3",
+          "totalBlocks": 29,
+          "turnText": "Decrease"
+        },
+{
+          "number": 214,
+          "instructions": "Gray x 1, Black x 7, Dark Gray x 1, Gray x 1, Dark Gray x 1, White x 2, Gray x 1, White x 2, Light Gray x 7, Dark Gray x 5",
+          "totalBlocks": 28,
+          "turnText": "Decrease"
+        },
+{
+          "number": 215,
+          "instructions": "Dark Gray x 2, Gray x 1, Dark Gray x 1, Light Gray x 5, White x 1, Light Gray x 1, Gray x 2, Dark Gray x 1, Black x 1, Light Gray x 1, White x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Black x 7",
+          "totalBlocks": 27,
+          "turnText": "Decrease"
+        },
+{
+          "number": 216,
+          "instructions": "Black x 7, Dark Gray x 1, Gray x 1, White x 1, Gray x 1, Dark Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, White x 6, Light Gray x 3, Gray x 1, Dark Gray x 1",
+          "totalBlocks": 26,
+          "turnText": "Decrease"
+        },
+{
+          "number": 217,
+          "instructions": "Dark Gray x 1, White x 1, Light Gray x 2, Gray x 1, White x 6, Gray x 4, Dark Gray x 1, White x 1, Gray x 1, Black x 7",
+          "totalBlocks": 25,
+          "turnText": "Decrease"
+        },
+{
+          "number": 218,
+          "instructions": "Black x 6, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 2, White x 5, Gray x 1, Light Gray x 2, White x 1, Light Gray x 1",
+          "totalBlocks": 24,
+          "turnText": "Decrease"
+        },
+{
+          "number": 219,
+          "instructions": "White x 1, Light Gray x 1, Gray x 2, Dark Gray x 1, Light Gray x 1, White x 3, Black x 4, Dark Gray x 2, Black x 1, Light Gray x 1, Gray x 1, Black x 5",
+          "totalBlocks": 23,
+          "turnText": "Decrease"
+        },
+{
+          "number": 220,
+          "instructions": "Black x 4, Light Gray x 2, Black x 1, Dark Gray x 1, Gray x 1, Black x 5, White x 1, Light Gray x 1, Dark Gray x 1, Gray x 3, Light Gray x 2",
+          "totalBlocks": 22,
+          "turnText": "Decrease"
+        },
+{
+          "number": 221,
+          "instructions": "Gray x 1, Dark Gray x 1, Black x 9, Light Gray x 1, Dark Gray x 1, Black x 3, Light Gray x 1, Black x 4",
+          "totalBlocks": 21,
+          "turnText": "Decrease"
+        },
+{
+          "number": 222,
+          "instructions": "Black x 3, Light Gray x 1, Black x 3, Gray x 1, Light Gray x 1, Black x 9, Dark Gray x 1, Light Gray x 1",
+          "totalBlocks": 20,
+          "turnText": "Decrease"
+        },
+{
+          "number": 223,
+          "instructions": "Black x 10, Gray x 1, Light Gray x 1, Gray x 1, Black x 3, Dark Gray x 1, Black x 2",
+          "totalBlocks": 19,
+          "turnText": "Decrease"
+        },
+{
+          "number": 224,
+          "instructions": "Black x 5, Gray x 4, Dark Gray x 1, Black x 8",
+          "totalBlocks": 18,
+          "turnText": "Decrease"
+        },
+{
+          "number": 225,
+          "instructions": "Black x 9, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Black x 4",
+          "totalBlocks": 17,
+          "turnText": "Decrease"
+        },
+{
+          "number": 226,
+          "instructions": "Black x 3, Dark Gray x 1, Light Gray x 3, Dark Gray x 1, Black x 8 ",
+          "totalBlocks": 16,
+          "turnText": "Decrease"
+        },
+{
+          "number": 227,
+          "instructions": "Black x 8, Gray x 2, Light Gray x 2, Gray x 1, Black x 2",
+          "totalBlocks": 15,
+          "turnText": "Decrease"
+        },
+{
+          "number": 228,
+          "instructions": "Black x 2, Dark Gray x 2, Light Gray x 1, Gray x 1, Black x 8",
+          "totalBlocks": 14,
+          "turnText": "Decrease"
+        },
+{
+          "number": 229,
+          "instructions": "Black x 7, Dark Gray x 1, Light Gray x 2, Black x 3",
+          "totalBlocks": 13,
+          "turnText": "Decrease"
+        },
+{
+          "number": 230,
+          "instructions": "Black x 2, Light Gray x 2, Dark Gray x 1, Black x 7",
+          "totalBlocks": 12,
+          "turnText": "Decrease"
+        },
+{
+          "number": 231,
+          "instructions": "Black x 6, Dark Gray x 1, Black x 1, Light Gray x 1, Dark Gray x 1, Black x 1",
+          "totalBlocks": 11,
+          "turnText": "Decrease"
+        },
+{
+          "number": 232,
+          "instructions": "Black x 1, Light Gray x 1, Black x 8",
+          "totalBlocks": 10,
+          "turnText": "Decrease"
+        },
+{
+          "number": 233,
+          "instructions": "Black x 1, Dark Gray x 1, Gray x 2, Black x 4, Light Gray x 1",
+          "totalBlocks": 9,
+          "turnText": "Decrease"
+        },
+{
+          "number": 234,
+          "instructions": "Black x 3, Dark Gray x 1, Light Gray x 2, Dark Gray x 1, Black x 1",
+          "totalBlocks": 8,
+          "turnText": "Decrease"
+        },
+{
+          "number": 235,
+          "instructions": "Gray x 1, Light Gray x 1, Gray x 1, White x 1, Gray x 1, Black x 2",
+          "totalBlocks": 7,
+          "turnText": "Decrease"
+        },
+{
+          "number": 236,
+          "instructions": "Dark Gray x 1, Light Gray x 1, White x 1, Gray x 1, Light Gray x 1, Dark Gray x 1",
+          "totalBlocks": 6,
+          "turnText": "Decrease"
+        },
+{
+          "number": 237,
+          "instructions": "Dark Gray x 1, Light Gray x 1, Gray x 1, White x 2",
+          "totalBlocks": 5,
+          "turnText": "Decrease"
+        },
+{
+          "number": 238,
+          "instructions": "White x 1, Gray x 1, Light Gray x 1, Dark Gray x 1",
+          "totalBlocks": 4,
+          "turnText": "Decrease"
+        },
+{
+          "number": 239,
+          "instructions": "Dark Gray x 1, Gray x 1, White x 1",
+          "totalBlocks": 3,
+          "turnText": "Decrease"
+        },
+{
+          "number": 240,
+          "instructions": "White x 1, Dark Gray x 1",
+          "totalBlocks": 2,
+          "turnText": "Decrease"
+        },
+{
+          "number": 241,
+          "instructions": "Light Gray x 1",
+          "totalBlocks": 1,
+          "turnText": "Decrease"
+        },
+      ]
+    },
+    "king": {
+      "label": "King",
+      "approxSize": "113 x 94 in"
+      "graphImageUrl": "white-tiger-c2c-king-graph.png",
+      "graphImageAlt": "White Tiger C2C Pattern King graph",
+      "steps": [
+        [
+  {
+    "number": 1,
+    "instructions": "Black x 1",
+    "totalBlocks": 1,
+    "turnText": "Increase"
+  },
+  {
+    "number": 2,
+    "instructions": "Black x 2",
+    "totalBlocks": 2,
+    "turnText": "Increase"
+  },
+  {
+    "number": 3,
+    "instructions": "Black x 3",
+    "totalBlocks": 3,
+    "turnText": "Increase"
+  },
+  {
+    "number": 4,
+    "instructions": "Black x 4",
+    "totalBlocks": 4,
+    "turnText": "Increase"
+  },
+  {
+    "number": 5,
+    "instructions": "Black x 3, Gray x 1, White x 1",
+    "totalBlocks": 5,
+    "turnText": "Increase"
+  },
+  {
+    "number": 6,
+    "instructions": "White x 3, Black x 3",
+    "totalBlocks": 6,
+    "turnText": "Increase"
+  },
+  {
+    "number": 7,
+    "instructions": "Black x 3, White x 4",
+    "totalBlocks": 7,
+    "turnText": "Increase"
+  },
+  {
+    "number": 8,
+    "instructions": "Gray x 1, White x 3, Dark Gray x 1, Black x 3",
+    "totalBlocks": 8,
+    "turnText": "Increase"
+  },
+  {
+    "number": 9,
+    "instructions": "Black x 3, Dark Gray x 1, White x 2, Light Gray x 2, Gray x 1",
+    "totalBlocks": 9,
+    "turnText": "Increase"
+  },
+  {
+    "number": 10,
+    "instructions": "Dark Gray x 1, Black x 1, Light Gray x 1, White x 2, Light Gray x 1, White x 1, Black x 3",
+    "totalBlocks": 10,
+    "turnText": "Increase"
+  },
+  {
+    "number": 11,
+    "instructions": "Black x 3, White x 1, Gray x 1, White x 2, Black x 2, Dark Gray x 1, Gray x 1",
+    "totalBlocks": 11,
+    "turnText": "Increase"
+  },
+  {
+    "number": 12,
+    "instructions": "Gray x 1, Dark Gray x 3, Gray x 1, White x 1, Black x 1, White x 2, Black x 3",
+    "totalBlocks": 12,
+    "turnText": "Increase"
+  },
+  {
+    "number": 13,
+    "instructions": "Black x 3, Gray x 1, White x 1, Gray x 1, Light Gray x 1, White x 1, Black x 2, Dark Gray x 1, Light Gray x 2",
+    "totalBlocks": 13,
+    "turnText": "Increase"
+  },
+  {
+    "number": 14,
+    "instructions": "Black x 1, Light Gray x 1, Dark Gray x 1, Black x 3, White x 1, Black x 1, Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 3",
+    "totalBlocks": 14,
+    "turnText": "Increase"
+  },
+  {
+    "number": 15,
+    "instructions": "Black x 2, Dark Gray x 4, Gray x 1, Black x 1, Light Gray x 1, Black x 2, Dark Gray x 1, Light Gray x 1, Black x 2",
+    "totalBlocks": 15,
+    "turnText": "Increase"
+  },
+  {
+    "number": 16,
+    "instructions": "Black x 2, Gray x 1, Light Gray x 1, Black x 5, Light Gray x 1, Dark Gray x 4, Gray x 1, Black x 1",
+    "totalBlocks": 16,
+    "turnText": "Increase"
+  },
+  {
+    "number": 17,
+    "instructions": "Black x 1, Dark Gray x 1, Black x 2, Dark Gray x 4, Black x 4, Dark Gray x 1, Light Gray x 1, Black x 3",
+    "totalBlocks": 17,
+    "turnText": "Increase"
+  },
+  {
+    "number": 18,
+    "instructions": "Black x 3, Dark Gray x 1, Light Gray x 1, Black x 5, Dark Gray x 3, Light Gray x 2, Black x 2, Dark Gray x 1",
+    "totalBlocks": 18,
+    "turnText": "Increase"
+  },
+  {
+    "number": 19,
+    "instructions": "Dark Gray x 1, Black x 1, Gray x 2, Light Gray x 2, Dark Gray x 2, Black x 5, Light Gray x 1, White x 1, Black x 4",
+    "totalBlocks": 19,
+    "turnText": "Increase"
+  },
+  {
+    "number": 20,
+    "instructions": "Black x 5, Light Gray x 1, Gray x 1, Black x 5, Dark Gray x 1, Light Gray x 3, Gray x 1, Light Gray x 1, Black x 1, Light Gray x 1",
+    "totalBlocks": 20,
+    "turnText": "Increase"
+  },
+  {
+    "number": 21,
+    "instructions": "Gray x 1, Black x 1, Gray x 1, Light Gray x 4, Dark Gray x 1, Black x 5, Gray x 1, Dark Gray x 1, Light Gray x 1, Black x 2, Light Gray x 1, Black x 2",
+    "totalBlocks": 21,
+    "turnText": "Increase"
+  },
+  {
+    "number": 22,
+    "instructions": "White x 1, Black x 2, White x 1, Black x 2, White x 1, Dark Gray x 1, Gray x 1, Black x 4, Light Gray x 1, Gray x 1, Dark Gray x 1, Light Gray x 4, Black x 1, Gray x 1",
+    "totalBlocks": 22,
+    "turnText": "Increase"
+  },
+  {
+    "number": 23,
+    "instructions": "Light Gray x 1, Black x 1, Light Gray x 3, Gray x 1, Black x 2, Gray x 2, Light Gray x 1, Black x 2, Light Gray x 3, White x 1, Black x 1, White x 1, Light Gray x 1, Black x 1, Light Gray x 2",
+    "totalBlocks": 23,
+    "turnText": "Increase"
+  },
+  {
+    "number": 24,
+    "instructions": "Light Gray x 2, Dark Gray x 1, Black x 1, Light Gray x 1, White x 1, Gray x 1, White x 1, Gray x 1, Light Gray x 1, Black x 3, Dark Gray x 1, Light Gray x 2, Dark Gray x 1, Black x 1, Gray x 2, Light Gray x 1, Gray x 1, Black x 1, Light Gray x 1",
+    "totalBlocks": 24,
+    "turnText": "Increase"
+  },
+  {
+    "number": 25,
+    "instructions": "Light Gray x 1, Black x 1, Light Gray x 1, White x 1, Gray x 1, Light Gray x 1, Black x 1, Light Gray x 3, Gray x 1, Black x 3, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, White x 2, Gray x 1, Black x 1, Light Gray x 2, White x 1",
+    "totalBlocks": 25,
+    "turnText": "Increase"
+  },
+  {
+    "number": 26,
+    "instructions": "White x 2, Light Gray x 2, Black x 1, Gray x 1, White x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Dark Gray x 1, Black x 4, Dark Gray x 1, Light Gray x 2, White x 1, Black x 1, Gray x 2, White x 1, Dark Gray x 2, Light Gray x 1",
+    "totalBlocks": 26,
+    "turnText": "Increase"
+  },
+  {
+    "number": 27,
+    "instructions": "Light Gray x 2, Black x 1, White x 1, Light Gray x 1, Gray x 2, White x 1, Light Gray x 2, Gray x 1, Black x 2, Dark Gray x 1, Black x 1, Dark Gray x 2, Light Gray x 1, Gray x 1, White x 1, Gray x 1, Black x 1, Gray x 2, White x 3",
+    "totalBlocks": 27,
+    "turnText": "Increase"
+  },
+  {
+    "number": 28,
+    "instructions": "White x 4, Light Gray x 1, Dark Gray x 2, Gray x 1, White x 1, Gray x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Light Gray x 1, White x 1, Black x 2, Light Gray x 3, White x 1, Gray x 2, Light Gray x 1, White x 1, Black x 1, White x 1, Light Gray x 1",
+    "totalBlocks": 28,
+    "turnText": "Increase"
+  },
+  {
+    "number": 29,
+    "instructions": "Light Gray x 1, White x 1, Dark Gray x 1, White x 2, Light Gray x 1, Gray x 1, White x 1, Light Gray x 3, Black x 2, White x 1, Gray x 1, Black x 2, Dark Gray x 1, Light Gray x 1, Gray x 2, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, White x 3, Gray x 1",
+    "totalBlocks": 29,
+    "turnText": "Increase"
+  },
+  {
+    "number": 30,
+    "instructions": "Black x 1, White x 3, Light Gray x 6, Dark Gray x 1, Light Gray x 1, Black x 4, White x 1, Black x 1, Gray x 1, Light Gray x 2, White x 2, Light Gray x 3, White x 1, Gray x 1, White x 1, Light Gray x 1",
+    "totalBlocks": 30,
+    "turnText": "Increase"
+  },
+[
+  {
+    "number": 31,
+    "instructions": "Light Gray x 1, White x 1, Gray x 1, Light Gray x 2, White x 1, Light Gray x 2, White x 1, Light Gray x 3, Black x 1, Light Gray x 1, Black x 4, Dark Gray x 1, Light Gray x 1, Dark Gray x 1, Light Gray x 2, Gray x 1, Light Gray x 2, White x 3, Black x 2",
+    "totalBlocks": 31,
+    "turnText": "Increase"
+  },
+  {
+    "number": 32,
+    "instructions": "Gray x 1, Black x 2, White x 2, Light Gray x 7, Gray x 2, Light Gray x 1, Dark Gray x 2, Black x 1, White x 1, Black x 1, Light Gray x 2, White x 2, Light Gray x 2, White x 1, Light Gray x 1, Gray x 1, Light Gray x 1, White x 1, Light Gray x 1",
+    "totalBlocks": 32,
+    "turnText": "Increase"
+  },
+  {
+    "number": 33,
+    "instructions": "Gray x 1, White x 1, Light Gray x 3, White x 1, Light Gray x 2, White x 2, Light Gray x 2, Black x 1, Light Gray x 1, Black x 1, Gray x 1, Dark Gray x 1, Gray x 1, Dark Gray x 1, Light Gray x 1, Gray x 1, Black x 1, Light Gray x 6, Gray x 1, Black x 2, Dark Gray x 1, White x 1",
+    "totalBlocks": 33,
+    "turnText": "Increase"
+  },
+  {
+    "number": 34,
+    "instructions": "White x 1, Light Gray x 1, Black x 3, Dark Gray x 1, Light Gray x 2, Gray x 1, Light Gray x 2, Dark Gray x 1, Black x 1, Gray x 1, Light Gray x 1, Dark Gray x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Black x 1, Gray x 1, Light Gray x 3, White x 2, Light Gray x 1, White x 2, Light Gray x 2, White x 2, Gray x 1",
+    "totalBlocks": 34,
+    "turnText": "Increase"
+  },
+  {
+    "number": 35,
+    "instructions": "Gray x 1, White x 2, Gray x 2, Dark Gray x 1, White x 1, Light Gray x 1, White x 3, Light Gray x 2, Dark Gray x 1, Gray x 2, Light Gray x 2, Dark Gray x 1, Light Gray x 2, Black x 2, Light Gray x 2, Gray x 1, Light Gray x 2, Dark Gray x 1, Black x 3, Light Gray x 1, White x 2",
+    "totalBlocks": 35,
+    "turnText": "Increase"
+  },
+  {
+    "number": 36,
+    "instructions": "White x 2, Light Gray x 1, Dark Gray x 1, Black x 3, Dark Gray x 1, Light Gray x 4, Dark Gray x 1, Black x 2, Light Gray x 1, White x 1, Light Gray x 2, Gray x 1, Black x 1, Gray x 1, Black x 1, Light Gray x 2, White x 2, Light Gray x 2, White x 1, Dark Gray x 1, Gray x 2, White x 2, Black x 1",
+    "totalBlocks": 36,
+    "turnText": "Increase"
+  },
+  {
+    "number": 37,
+    "instructions": "Dark Gray x 1, Light Gray x 1, White x 1, Light Gray x 1, Gray x 3, White x 1, Light Gray x 1, White x 2, Light Gray x 2, Black x 1, Light Gray x 1, Black x 1, Light Gray x 3, White x 1, Light Gray x 2, Gray x 2, Light Gray x 4, Dark Gray x 1, Black x 4, Light Gray x 1, White x 2, Dark Gray x 1",
+    "totalBlocks": 37,
+    "turnText": "Increase"
+  },
+  {
+    "number": 38,
+    "instructions": "Gray x 2, Light Gray x 3, Black x 3, Dark Gray x 2, Light Gray x 5, Gray x 1, Light Gray x 2, White x 1, Gray x 1, Light Gray x 2, Black x 1, Gray x 1, Dark Gray x 1, Light Gray x 2, White x 2, Light Gray x 1, White x 1, Black x 1, Gray x 2, White x 2, Gray x 2",
+    "totalBlocks": 38,
+    "turnText": "Increase"
+  },
+  {
+    "number": 39,
+    "instructions": "Light Gray x 1, Gray x 1, White x 2, Gray x 2, Black x 1, White x 1, Light Gray x 1, White x 2, Light Gray x 2, Gray x 1, Dark Gray x 1, Black x 1, Light Gray x 3, Gray x 1, Light Gray x 2, Black x 1, Light Gray x 4, Gray x 2, Dark Gray x 1, Black x 4, Light Gray x 2, Gray x 1, Light Gray x 1, Gray x 1",
+    "totalBlocks": 39,
+    "turnText": "Increase"
+  },
+  {
+    "number": 40,
+    "instructions": "Dark Gray x 1, Light Gray x 1, Dark Gray x 1, Gray x 3, Black x 4, Dark Gray x 1, Gray x 2, Light Gray x 4, Dark Gray x 1, Light Gray x 1, White x 1, Dark Gray x 1, Light Gray x 3, Dark Gray x 1, Gray x 2, Light Gray x 2, White x 1, Light Gray x 2, Dark Gray x 1, Black x 1, Gray x 1, Light Gray x 1, White x 1, Light Gray x 1, Gray x 2",
+    "totalBlocks": 40,
+    "turnText": "Increase"
+  },
+  {
+    "number": 41,
+    "instructions": "Gray x 3, White x 2, Gray x 2, Black x 1, White x 1, Light Gray x 1, White x 1, Light Gray x 3, Black x 1, Light Gray x 1, Gray x 1, Light Gray x 2, Dark Gray x 1, White x 1, Light Gray x 2, Gray x 2, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Dark Gray x 2, Black x 4, Dark Gray x 2, Gray x 1, Dark Gray x 1, Black x 2",
+    "totalBlocks": 41,
+    "turnText": "Increase"
+  },
+  {
+    "number": 42,
+    "instructions": "Black x 3, Gray x 1, Black x 1, Dark Gray x 1, Black x 5, Gray x 2, Light Gray x 1, Gray x 1, Light Gray x 1, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 2, White x 1, Gray x 1, Light Gray x 2, Dark Gray x 1, White x 1, Black x 1, Light Gray x 3, White x 1, Light Gray x 2, Black x 1, White x 1, Light Gray x 1, White x 1, Gray x 1, Light Gray x 2, Gray x 1",
+    "totalBlocks": 42,
+    "turnText": "Increase"
+  },
+  {
+    "number": 43,
+    "instructions": "Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, White x 3, Dark Gray x 1, Gray x 1, Light Gray x 1, White x 1, Light Gray x 3, Black x 1, White x 1, Gray x 1, White x 1, Light Gray x 3, White x 1, Light Gray x 3, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 3, Dark Gray x 1, Black x 10, Dark Gray x 1",
+    "totalBlocks": 43,
+    "turnText": "Increase"
+  },
+  {
+    "number": 44,
+    "instructions": "Black x 12, Light Gray x 1, Gray x 2, Light Gray x 2, Gray x 1, Light Gray x 4, White x 1, Gray x 1, Light Gray x 1, Gray x 1, White x 3, Black x 1, Light Gray x 3, Gray x 1, White x 1, Black x 1, Light Gray x 1, White x 2, Light Gray x 3, Gray x 1, White x 1",
+    "totalBlocks": 44,
+    "turnText": "Increase"
+  },
+  {
+    "number": 45,
+    "instructions": "White x 1, Gray x 1, Light Gray x 4, White x 2, Black x 1, White x 1, Gray x 1, Light Gray x 3, Black x 1, White x 3, Light Gray x 2, Gray x 1, White x 1, Light Gray x 4, Gray x 1, Light Gray x 2, Gray x 3, Light Gray x 1, Black x 12",
+    "totalBlocks": 45,
+    "turnText": "Increase"
+  },
+  {
+    "number": 46,
+    "instructions": "Black x 12, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 8, White x 2, Light Gray x 1, Gray x 1, White x 2, Light Gray x 1, White x 1, Black x 1, Light Gray x 2, Dark Gray x 1, White x 1, Dark Gray x 2, White x 2, Light Gray x 1, Gray x 3, White x 2",
+    "totalBlocks": 46,
+    "turnText": "Increase"
+  },
+  {
+    "number": 47,
+    "instructions": "Dark Gray x 1, White x 1, Gray x 1, Light Gray x 3, Gray x 1, White x 2, Black x 1, White x 1, Gray x 1, Light Gray x 2, Black x 1, Light Gray x 1, Gray x 1, White x 2, Light Gray x 1, White x 1, Light Gray x 1, White x 1, Light Gray x 2, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 2, Gray x 3, Light Gray x 1, Dark Gray x 1, Black x 12",
+    "totalBlocks": 47,
+    "turnText": "Increase"
+  },
+  {
+    "number": 48,
+    "instructions": "Black x 12, Gray x 1, Light Gray x 1, Gray x 2, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 2, Light Gray x 1, Dark Gray x 1, Light Gray x 1, White x 2, Light Gray x 1, White x 1, Light Gray x 1, White x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Dark Gray x 1, Light Gray x 1, Dark Gray x 1, White x 1, Light Gray x 1, Black x 1, White x 2, Dark Gray x 1, Gray x 1, Dark Gray x 1, Light Gray x 2, White x 1, Black x 1",
+    "totalBlocks": 48,
+    "turnText": "Increase"
+  },
+  {
+    "number": 49,
+    "instructions": "Black x 1, Dark Gray x 1, White x 1, Light Gray x 4, Black x 1, White x 1, Gray x 1, Dark Gray x 1, White x 1, Gray x 1, Light Gray x 2, Dark Gray x 1, Gray x 1, Dark Gray x 1, White x 2, Light Gray x 1, White x 3, Light Gray x 1, Dark Gray x 1, Light Gray x 2, Black x 1, Light Gray x 3, Black x 1, White x 1, Gray x 2, Black x 13",
+    "totalBlocks": 49,
+    "turnText": "Increase"
+  },
+  {
+    "number": 50,
+    "instructions": "Black x 13, Gray x 2, Light Gray x 2, Black x 1, Gray x 1, Light Gray x 1, Black x 2, Light Gray x 2, Gray x 1, White x 4, Light Gray x 1, White x 2, Black x 1, Gray x 4, White x 2, Black x 1, White x 2, Black x 1, Gray x 1, Black x 1, Light Gray x 1, Gray x 1, White x 1, Black x 1, Dark Gray x 1",
+    "totalBlocks": 50,
+    "turnText": "Increase"
+  },
+  {
+    "number": 51,
+    "instructions": "Gray x 1, Black x 2, White x 1, Gray x 2, Light Gray x 1, Black x 1, Gray x 1, White x 1, Gray x 1, Light Gray x 1, White x 1, Dark Gray x 1, Light Gray x 1, Black x 1, Gray x 1, Dark Gray x 1, White x 2, Light Gray x 1, Gray x 1, White x 3, Light Gray x 4, Black x 1, Light Gray x 2, Black x 2, Light Gray x 1, Gray x 1, Light Gray x 1, Black x 14",
+    "totalBlocks": 51,
+    "turnText": "Increase"
+  },
+  {
+    "number": 52,
+    "instructions": "Black x 14, Dark Gray x 1, White x 2, Black x 2, Light Gray x 2, Black x 2, Light Gray x 4, White x 3, Gray x 1, Light Gray x 1, White x 1, Dark Gray x 1, Gray x 2, Dark Gray x 1, Black x 1, White x 2, Gray x 2, White x 1, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 2, White x 1, Black x 2, Gray x 1",
+    "totalBlocks": 52,
+    "turnText": "Increase"
+  },
+  {
+    "number": 53,
+    "instructions": "Gray x 1, Light Gray x 1, Black x 2, Light Gray x 2, Dark Gray x 1, Light Gray x 1, Black x 1, White x 2, Light Gray x 1, White x 2, Light Gray x 1, Gray x 3, Black x 1, White x 2, Light Gray x 2, White x 2, Light Gray x 5, Black x 2, Light Gray x 1, Black x 2, White x 3, Black x 15",
+    "totalBlocks": 53,
+    "turnText": "Increase"
+  },
+  {
+    "number": 54,
+    "instructions": "Black x 11, White x 1, Black x 1, White x 1, Black x 2, White x 2, Black x 2, Light Gray x 1, Gray x 1, Black x 1, Gray x 1, Light Gray x 3, Gray x 1, Light Gray x 1, White x 2, Light Gray x 2, White x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Light Gray x 1, Black x 1, White x 3, Light Gray x 1, White x 2, Black x 1, White x 1, Light Gray x 3, Black x 2, Gray x 2",
+    "totalBlocks": 54,
+    "turnText": "Increase"
+  },
+  {
+    "number": 55,
+    "instructions": "Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 2, Light Gray x 2, Dark Gray x 2, Light Gray x 1, White x 1, Light Gray x 1, White x 3, Black x 1, White x 1, Gray x 2, Black x 1, White x 1, Light Gray x 1, Dark Gray x 1, White x 2, Light Gray x 1, Dark Gray x 1, Light Gray x 4, Gray x 1, Black x 1, White x 2, Black x 1, White x 3, Black x 1, White x 1, Black x 14",
+    "totalBlocks": 55,
+    "turnText": "Increase"
+  },
+  {
+    "number": 56,
+    "instructions": "Black x 12, White x 1, Black x 1, White x 1, Black x 2, White x 2, Black x 1, White x 2, Black x 2, Light Gray x 2, Gray x 1, Light Gray x 2, Black x 1, Light Gray x 1, White x 1, Gray x 1, Light Gray x 3, Dark Gray x 2, Light Gray x 1, Gray x 1, Light Gray x 1, White x 2, Light Gray x 1, White x 2, Dark Gray x 1, White x 1, Dark Gray x 1, Gray x 2, Black x 2, Gray x 1, White x 1, Light Gray x 1",
+    "totalBlocks": 56,
+    "turnText": "Increase"
+  },
+  {
+    "number": 57,
+    "instructions": "White x 1, Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 2, Light Gray x 3, Black x 1, White x 2, Gray x 1, White x 3, Black x 1, White x 1, Gray x 1, Black x 2, Light Gray x 2, Black x 1, White x 1, Light Gray x 1, Dark Gray x 1, Light Gray x 2, Black x 1, Gray x 1, Light Gray x 1, Gray x 1, Black x 2, White x 1, Black x 2, White x 2, Black x 1, White x 1, Black x 15",
+    "totalBlocks": 57,
+    "turnText": "Increase"
+  },
+  {
+    "number": 58,
+    "instructions": "Black x 13, White x 1, Black x 1, White x 1, Black x 1, White x 2, Black x 2, White x 2, Black x 1, Light Gray x 3, Black x 1, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, White x 2, Dark Gray x 1, Light Gray x 2, Gray x 1, Black x 1, White x 2, Gray x 1, White x 2, Light Gray x 1, White x 3, Dark Gray x 2, Light Gray x 1, Gray x 1, Black x 2, Gray x 1, White x 1, Gray x 1, White x 1",
+    "totalBlocks": 58,
+    "turnText": "Increase"
+  },
+  {
+    "number": 59,
+    "instructions": "Gray x 1, White x 1, Gray x 1, White x 1, Dark Gray x 1, Black x 2, White x 1, Dark Gray x 1, Light Gray x 1, White x 3, Gray x 1, White x 2, Dark Gray x 1, White x 2, Black x 1, Dark Gray x 1, Black x 1, Light Gray x 2, Black x 1, White x 1, Light Gray x 1, Dark Gray x 1, White x 1, Light Gray x 1, Black x 2, Gray x 1, White x 1, Black x 2, White x 2, Black x 2, White x 1, Black x 1, White x 1, Black x 2, White x 1, Black x 13",
+    "totalBlocks": 59,
+    "turnText": "Increase"
+  },
+  {
+    "number": 60,
+    "instructions": "Light Gray x 2, Dark Gray x 1, Black x 13, White x 1, Black x 1, White x 2, Black x 2, White x 1, Black x 2, White x 2, Black x 2, Light Gray x 2, White x 1, Black x 1, Light Gray x 2, Black x 1, Light Gray x 1, Gray x 2, Dark Gray x 1, Black x 1, White x 1, Gray x 1, Light Gray x 1, White x 2, Gray x 1, White x 2, Dark Gray x 1, Light Gray x 1, White x 1, Light Gray x 1, Black x 2, Gray x 1, White x 1, Gray x 1, White x 1, Light Gray x 1",
+    "totalBlocks": 60,
+    "turnText": "Increase"
+  },
+[
+  {
+    "number": 61,
+    "instructions": "Light Gray x 3, Gray x 1, White x 1, Dark Gray x 1, Black x 2, White x 1, Light Gray x 1, Gray x 1, White x 3, Light Gray x 1, White x 2, Dark Gray x 1, White x 1, Black x 1, White x 1, Light Gray x 1, Black x 1, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, White x 1, Light Gray x 1, Gray x 1, Black x 3, White x 2, Black x 2, White x 1, Black x 2, White x 2, Black x 1, White x 1, Black x 1, White x 1, Black x 10, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1",
+    "totalBlocks": 61,
+    "turnText": "Increase"
+  },
+  {
+    "number": 62,
+    "instructions": "Gray x 1, Light Gray x 2, Gray x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Black x 4, White x 1, Black x 5, White x 1, Black x 1, White x 1, Black x 2, White x 1, Black x 3, White x 1, Dark Gray x 1, Black x 2, Light Gray x 3, Dark Gray x 1, Gray x 1, Light Gray x 1, Black x 3, Gray x 1, White x 2, Black x 1, White x 1, Black x 1, White x 2, Dark Gray x 1, White x 2, Gray x 1, White x 1, Gray x 1, Light Gray x 1, Black x 2, Gray x 1, White x 1, Gray x 1, White x 1, Light Gray x 2",
+    "totalBlocks": 62,
+    "turnText": "Increase"
+  },
+  {
+    "number": 63,
+    "instructions": "White x 1, Light Gray x 2, Gray x 2, White x 1, Gray x 1, Black x 2, White x 2, Light Gray x 1, White x 2, Gray x 1, White x 2, Black x 1, White x 1, Black x 1, White x 3, Black x 4, Light Gray x 1, Black x 1, White x 1, Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 2, White x 2, Black x 2, White x 2, Black x 2, White x 1, Black x 1, White x 1, Black x 1, White x 1, Black x 7, Gray x 1, Black x 1, Light Gray x 5, Gray x 1",
+    "totalBlocks": 63,
+    "turnText": "Increase"
+  },
+
+  {
+    "number": 64,
+    "instructions": "Gray x 2, Light Gray x 3, Gray x 2, Black x 1, Gray x 1, Black x 3, White x 1, Black x 2, White x 1, Black x 2, White x 1, Black x 1, White x 1, Black x 2, White x 1, Black x 3, White x 1, Black x 3, Gray x 2, Light Gray x 2, Dark Gray x 1, Light Gray x 1, Black x 4, White x 3, Gray x 1, Light Gray x 1, Gray x 1, White x 1, Light Gray x 1, White x 3, Gray x 2, Light Gray x 1, Black x 2, Gray x 1, White x 1, Gray x 1, White x 1, Gray x 1, Light Gray x 1, Gray x 1",
+    "totalBlocks": 64,
+    "turnText": "Increase"
+  },
+
+  {
+    "number": 65,
+    "instructions": "Dark Gray x 1, White x 1, Light Gray x 1, White x 1, Gray x 2, White x 1, Gray x 1, Black x 1, Dark Gray x 1, Light Gray x 1, White x 1, Light Gray x 1, White x 2, Light Gray x 1, White x 2, Light Gray x 1, Dark Gray x 1, White x 4, Black x 4, Light Gray x 1, Dark Gray x 1, Light Gray x 1, Gray x 2, Light Gray x 1, Black x 3, White x 1, Black x 3, White x 1, Black x 2, White x 1, Black x 1, White x 1, Black x 8, Dark Gray x 2, Gray x 2, Light Gray x 3, Gray x 1, Dark Gray x 1, Light Gray x 1",
+    "totalBlocks": 65,
+    "turnText": "Increase"
+  },
+[
+  {
+    "number": 66,
+    "instructions": "Black x 1, White x 1, Dark Gray x 1, Light Gray x 5, Dark Gray x 1, Gray x 1, Black x 3, White x 1, Black x 2, White x 1, Black x 1, White x 1, Black x 1, White x 1, Black x 2, White x 1, Black x 3, White x 2, Black x 2, Dark Gray x 1, Gray x 1, Dark Gray x 1, Light Gray x 2, Gray x 1, Black x 5, White x 4, Dark Gray x 1, Gray x 1, White x 2, Gray x 1, Light Gray x 2, Black x 1, Light Gray x 1, Gray x 1, Black x 1, Dark Gray x 1, Gray x 1, White x 1, Gray x 1, Light Gray x 4, Gray x 1",
+    "totalBlocks": 66,
+    "turnText": "Increase"
+  },
+  {
+    "number": 67,
+    "instructions": "Gray x 1, Black x 1, White x 1, Gray x 1, White x 1, Gray x 1, Light Gray x 2, Gray x 1, Black x 1, Gray x 1, Light Gray x 1, Gray x 1, Black x 6, Gray x 1, Black x 1, White x 3, Black x 6, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 1, Dark Gray x 2, Black x 2, White x 2, Black x 2, White x 1, Black x 2, White x 3, Black x 2, White x 1, Black x 3, White x 1, Black x 1, Dark Gray x 2, Light Gray x 3, White x 1, Light Gray x 1, Gray x 1, White x 1, Black x 1, Gray x 1",
+    "totalBlocks": 67,
+    "turnText": "Increase"
+  },
+  {
+    "number": 68,
+    "instructions": "Gray x 2, Black x 1, White x 1, Gray x 1, White x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 3, White x 1, Black x 4, White x 3, Black x 2, White x 1, Black x 2, White x 2, Black x 5, Dark Gray x 1, Light Gray x 1, Gray x 1, Black x 8, White x 1, Black x 9, White x 1, Gray x 1, Dark Gray x 2, Gray x 1, White x 1, Gray x 2, White x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Light Gray x 1",
+    "totalBlocks": 68,
+    "turnText": "Increase"
+  },
+  {
+    "number": 69,
+    "instructions": "White x 1, Gray x 1, Black x 1, White x 2, Light Gray x 1, Gray x 1, White x 1, Gray x 1, Light Gray x 1, Black x 1, Gray x 1, White x 1, Black x 19, Gray x 1, Dark Gray x 1, Black x 6, White x 2, Black x 2, White x 1, Black x 2, White x 3, Black x 1, White x 1, Black x 3, White x 1, Black x 2, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, White x 1, Light Gray x 1, White x 1, Black x 1, Gray x 3",
+    "totalBlocks": 69,
+    "turnText": "Increase"
+  },
+  {
+    "number": 70,
+    "instructions": "White x 1, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, White x 2, Light Gray x 2, Gray x 2, Black x 4, White x 1, Black x 4, White x 2, Black x 2, White x 1, Black x 2, White x 2, Black x 3, White x 1, Black x 3, Dark Gray x 1, Black x 20, White x 1, Gray x 1, Black x 1, Light Gray x 1, White x 1, Light Gray x 1, Gray x 1, White x 1, Light Gray x 1, Gray x 1, Light Gray x 2, White x 1",
+    "totalBlocks": 70,
+    "turnText": "Increase"
+  },
+  {
+    "number": 71,
+    "instructions": "White x 2, Gray x 1, Black x 1, White x 2, Gray x 2, White x 1, Gray x 3, White x 1, Black x 21, Gray x 1, Black x 2, White x 2, Black x 2, White x 3, Black x 5, White x 2, Black x 5, White x 1, Black x 2, Dark Gray x 1, Light Gray x 3, White x 2, Light Gray x 3, Gray x 1, White x 2",
+    "totalBlocks": 71,
+    "turnText": "Increase"
+  },
+  {
+    "number": 72,
+    "instructions": "Light Gray x 1, White x 2, Gray x 1, White x 1, Dark Gray x 1, White x 3, Light Gray x 2, Gray x 1, Black x 4, White x 1, Black x 4, White x 1, Black x 5, White x 3, Black x 2, White x 2, Black x 6, White x 4, Black x 14, Light Gray x 1, White x 1, Gray x 1, Dark Gray x 1, Light Gray x 1, White x 1, Gray x 2, White x 1, Dark Gray x 1, Gray x 2, White x 1, Light Gray x 1",
+    "totalBlocks": 72,
+    "turnText": "Increase"
+  },
+  {
+    "number": 73,
+    "instructions": "White x 1, Light Gray x 1, White x 1, Gray x 1, Black x 1, White x 1, Gray x 2, White x 2, Dark Gray x 1, Gray x 1, Light Gray x 1, White x 1, Black x 3, White x 2, Black x 2, White x 13, Black x 5, White x 2, Black x 2, White x 2, Black x 6, White x 1, Black x 5, White x 1, Black x 2, Dark Gray x 1, Gray x 3, White x 2, Dark Gray x 1, White x 1, Light Gray x 1, White x 2, Light Gray x 1, White x 1",
+    "totalBlocks": 73,
+    "turnText": "Increase"
+  },
+  {
+    "number": 74,
+    "instructions": "White x 2, Light Gray x 1, White x 2, Gray x 1, White x 1, Light Gray x 2, White x 1, Gray x 3, Black x 8, White x 1, Black x 2, White x 1, Black x 3, White x 2, Black x 2, White x 2, Black x 5, White x 14, Black x 2, White x 2, Black x 3, White x 1, Gray x 2, Dark Gray x 1, White x 2, Gray x 1, Light Gray x 1, Black x 1, Dark Gray x 1, Gray x 1, White x 1, Light Gray x 1, White x 1",
+    "totalBlocks": 74,
+    "turnText": "Increase"
+  },
+  {
+    "number": 75,
+    "instructions": "Gray x 1, White x 1, Light Gray x 1, White x 1, Gray x 1, Black x 1, White x 1, Gray x 1, Light Gray x 1, White x 1, Light Gray x 1, Gray x 2, White x 1, Black x 4, White x 2, Black x 1, White x 16, Black x 2, White x 4, Black x 2, White x 2, Black x 1, White x 3, Black x 2, White x 1, Black x 4, White x 1, Black x 2, Dark Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, White x 1, Light Gray x 1, Dark Gray x 1, Light Gray x 1, White x 6",
+    "totalBlocks": 75,
+    "turnText": "Increase"
+  },
+  {
+    "number": 76,
+    "instructions": "White x 6, Light Gray x 1, White x 1, Gray x 2, Light Gray x 1, Gray x 2, Light Gray x 1, Black x 6, White x 2, Black x 2, White x 6, Black x 1, White x 24, Black x 1, White x 2, Black x 4, White x 1, Gray x 3, White x 1, Gray x 3, Black x 1, Gray x 1, White x 1, Light Gray x 1, White x 1, Dark Gray x 1",
+    "totalBlocks": 76,
+    "turnText": "Increase"
+  },
+  {
+    "number": 77,
+    "instructions": "Black x 1, Light Gray x 1, White x 1, Light Gray x 1, White x 1, Gray x 1, Black x 1, Light Gray x 1, Gray x 1, White x 1, Light Gray x 1, Gray x 2, White x 1, Gray x 1, Black x 3, White x 7, Black x 6, White x 11, Black x 1, White x 10, Black x 2, White x 2, Black x 5, Gray x 1, Light Gray x 2, Gray x 1, Light Gray x 1, Gray x 1, Dark Gray x 1, Gray x 1, White x 7",
+    "totalBlocks": 77,
+    "turnText": "Increase"
+  },
+  {
+    "number": 78,
+    "instructions": "White x 8, Light Gray x 2, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 2, Black x 5, White x 2, Black x 2, White x 6, Black x 6, White x 10, Black x 7, White x 6, Black x 4, Light Gray x 1, White x 1, Gray x 2, White x 2, Gray x 1, Light Gray x 1, Black x 1, Gray x 1, White x 1, Light Gray x 1, White x 1, Light Gray x 1, Dark Gray x 1",
+    "totalBlocks": 78,
+    "turnText": "Increase"
+  },
+  {
+    "number": 79,
+    "instructions": "White x 1, Light Gray x 1, White x 2, Light Gray x 2, Gray x 1, Black x 1, Gray x 1, White x 2, Gray x 2, White x 1, Light Gray x 1, Black x 4, White x 6, Black x 8, White x 9, Black x 9, White x 5, Black x 2, White x 1, Black x 5, Light Gray x 2, Gray x 1, Light Gray x 2, Dark Gray x 1, Gray x 1, Light Gray x 1, White x 7",
+    "totalBlocks": 79,
+    "turnText": "Increase"
+  },
+  {
+    "number": 80,
+    "instructions": "White x 8, Light Gray x 1, Gray x 4, Dark Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 2, White x 3, Black x 2, White x 5, Black x 8, White x 1, Black x 1, White x 8, Black x 4, White x 1, Black x 4, White x 6, Black x 4, Light Gray x 1, White x 1, Gray x 2, White x 1, Light Gray x 1, Gray x 1, Black x 1, Gray x 1, White x 1, Light Gray x 1, White x 1, Light Gray x 1, Dark Gray x 1, White x 1",
+    "totalBlocks": 80,
+    "turnText": "Increase"
+  },
+  {
+    "number": 81,
+    "instructions": "Gray x 1, White x 1, Light Gray x 1, White x 1, Light Gray x 2, Gray x 1, Dark Gray x 1, Black x 1, Light Gray x 1, White x 1, Gray x 2, Light Gray x 2, Black x 4, White x 6, Black x 4, White x 1, Black x 6, White x 5, Black x 2, White x 2, Black x 9, White x 4, Black x 2, White x 3, Black x 2, Light Gray x 3, Gray x 3, Light Gray x 2, White x 7, Gray x 1",
+    "totalBlocks": 81,
+    "turnText": "Increase"
+  },
+  {
+    "number": 82,
+    "instructions": "Light Gray x 1, Gray x 1, White x 6, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 2, Black x 2, White x 3, Black x 2, White x 3, Black x 10, White x 3, Black x 3, White x 2, Black x 7, White x 2, Black x 4, White x 6, Black x 4, Light Gray x 1, Gray x 3, White x 1, Gray x 1, Black x 1, Light Gray x 1, White x 1, Light Gray x 1, White x 2, Light Gray x 1, White x 1, Gray x 1",
+    "totalBlocks": 82,
+    "turnText": "Increase"
+  },
+  {
+    "number": 83,
+    "instructions": "Gray x 1, Light Gray x 1, White x 1, Gray x 1, White x 1, Light Gray x 2, Gray x 1, Black x 1, Gray x 1, White x 1, Gray x 3, Light Gray x 1, Black x 4, White x 7, Black x 4, White x 2, Black x 12, White x 2, Black x 3, White x 3, Black x 6, White x 2, Black x 2, White x 3, Black x 1, Dark Gray x 2, Light Gray x 1, Gray x 1, Light Gray x 1, Dark Gray x 1, Gray x 2, White x 6, Gray x 1, White x 1, Light Gray x 1",
+    "totalBlocks": 83,
+    "turnText": "Increase"
+  },
+  {
+    "number": 84,
+    "instructions": "Light Gray x 1, Gray x 1, White x 1, Light Gray x 1, White x 6, Gray x 2, Dark Gray x 1, Light Gray x 2, Dark Gray x 2, Black x 2, White x 3, Black x 1, White x 2, Black x 6, White x 4, Black x 3, White x 2, Black x 12, White x 2, Black x 4, White x 7, Black x 4, Gray x 4, White x 1, Black x 1, Light Gray x 2, Gray x 1, White x 1, Light Gray x 2, White x 1, Gray x 1, Light Gray x 1",
+    "totalBlocks": 84,
+    "turnText": "Increase"
+  },
+  {
+    "number": 85,
+    "instructions": "White x 1, Gray x 1, Light Gray x 1, White x 1, Light Gray x 1, White x 1, Light Gray x 3, Black x 1, White x 1, Gray x 3, Black x 5, White x 7, Black x 5, White x 2, Black x 8, White x 1, Black x 2, White x 2, Black x 1, White x 9, Black x 4, White x 2, Black x 1, White x 3, Black x 2, Dark Gray x 1, Light Gray x 1, Dark Gray x 2, Light Gray x 1, Gray x 1, Light Gray x 1, White x 7, Gray x 1, White x 2",
+    "totalBlocks": 85,
+    "turnText": "Increase"
+  },
+  {
+    "number": 86,
+    "instructions": "Dark Gray x 1, White x 2, Gray x 1, White x 7, Gray x 2, Dark Gray x 1, Light Gray x 1, Dark Gray x 2, Black x 2, White x 3, Black x 1, White x 2, Black x 4, White x 9, Black x 2, White x 2, Black x 2, White x 1, Black x 7, White x 3, Black x 5, White x 7, Black x 5, Light Gray x 1, Gray x 2, Light Gray x 1, Dark Gray x 1, Gray x 2, White x 2, Gray x 1, White x 1, Gray x 2, Dark Gray x 1",
+    "totalBlocks": 86,
+    "turnText": "Increase"
+  },
+  {
+    "number": 87,
+    "instructions": "Black x 1, White x 1, Gray x 1, Light Gray x 2, Gray x 1, White x 1, Gray x 6, Black x 6, White x 7, Black x 6, White x 4, Black x 4, White x 2, Black x 3, White x 1, Black x 3, White x 9, Black x 4, White x 2, Black x 1, White x 2, Black x 3, Dark Gray x 3, Gray x 2, Light Gray x 2, White x 3, Light Gray x 1, White x 1, Light Gray x 1, White x 2, Gray x 1, Light Gray x 1",
+    "totalBlocks": 87,
+    "turnText": "Increase"
+  },
+  {
+    "number": 88,
+    "instructions": "Gray x 1, White x 1, Gray x 1, Light Gray x 1, White x 1, Gray x 1, Light Gray x 2, White x 2, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, Dark Gray x 3, Black x 3, White x 2, Black x 1, White x 2, Black x 2, White x 10, Black x 5, White x 1, Black x 2, White x 11, Black x 7, White x 6, Black x 6, Gray x 5, Light Gray x 1, White x 1, Gray x 1, White x 1, Gray x 1, Light Gray x 1, Dark Gray x 2",
+    "totalBlocks": 88,
+    "turnText": "Increase"
+  },
+  {
+    "number": 89,
+    "instructions": "Dark Gray x 1, Black x 1, White x 1, Gray x 2, Light Gray x 1, Gray x 1, White x 1, Gray x 5, Black x 6, White x 6, Black x 3, White x 1, Black x 4, White x 10, Black x 2, White x 2, Black x 7, White x 8, Black x 2, White x 1, Black x 2, White x 2, Black x 3, Dark Gray x 3, Gray x 2, Light Gray x 4, Gray x 1, Light Gray x 1, White x 5, Light Gray x 1",
+    "totalBlocks": 89,
+    "turnText": "Increase"
+  },
+  {
+    "number": 90,
+    "instructions": "Light Gray x 1, Dark Gray x 1, White x 5, Light Gray x 2, Gray x 2, Light Gray x 1, Gray x 1, Light Gray x 1, Dark Gray x 2, Gray x 1, Black x 4, White x 2, Black x 1, White x 1, Black x 2, White x 8, Black x 8, White x 2, Black x 2, White x 9, Black x 5, White x 1, Black x 4, White x 5, Black x 6, Light Gray x 1, Gray x 4, White x 1, Gray x 1, White x 1, Gray x 3, Black x 1, Gray x 1",
+    "totalBlocks": 90,
+    "turnText": "Increase"
+  },
+[
+  {
+    "number": 91,
+    "instructions": "Light Gray x 1, Gray x 1, Black x 1, White x 1, Gray x 1, Light Gray x 1, Gray x 2, White x 1, Gray x 3, Light Gray x 1, Black x 6, White x 5, Black x 4, White x 2, Black x 4, White x 9, Black x 2, White x 2, Black x 9, White x 8, Black x 2, White x 1, Black x 1, White x 2, Black x 4, Dark Gray x 3, Gray x 5, Light Gray x 3, White x 3, Light Gray x 1, Gray x 2",
+    "totalBlocks": 91,
+    "turnText": "Increase"
+  },
+  {
+    "number": 92,
+    "instructions": "Light Gray x 4, White x 3, Light Gray x 1, Gray x 4, Dark Gray x 1, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 5, White x 2, Black x 1, White x 1, Black x 1, White x 8, Black x 10, White x 2, Black x 2, White x 8, Black x 6, White x 3, Black x 3, White x 5, Black x 6, Dark Gray x 1, Gray x 3, White x 1, Gray x 1, Light Gray x 1, Gray x 2, Dark Gray x 1, Black x 1, Dark Gray x 1, White x 1",
+    "totalBlocks": 92,
+    "turnText": "Increase"
+  },
+  {
+    "number": 93,
+    "instructions": "White x 1, Light Gray x 1, Dark Gray x 1, Black x 1, White x 1, Gray x 1, Dark Gray x 1, Gray x 2, Light Gray x 1, Gray x 2, Dark Gray x 1, Black x 6, White x 4, Black x 4, White x 3, Black x 7, White x 7, Black x 2, White x 2, Black x 4, White x 3, Black x 6, White x 6, Black x 1, White x 3, Black x 5, Dark Gray x 3, Gray x 4, Light Gray x 1, White x 4, Gray x 1, Light Gray x 4",
+    "totalBlocks": 93,
+    "turnText": "Increase"
+  },
+  {
+    "number": 94,
+    "instructions": "Black x 1, Gray x 1, Light Gray x 2, Gray x 1, Dark Gray x 1, White x 3, Light Gray x 1, Gray x 5, Dark Gray x 2, Black x 5, White x 9, Black x 6, White x 6, Black x 3, White x 2, Black x 1, White x 7, Black x 8, White x 3, Black x 4, White x 4, Black x 7, Gray x 2, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 2, Dark Gray x 1, Black x 1, Dark Gray x 1, White x 2",
+    "totalBlocks": 94,
+    "turnText": "Increase"
+  },
+  {
+    "number": 95,
+    "instructions": "White x 2, Black x 1, Gray x 1, Black x 1, White x 1, Gray x 1, Light Gray x 1, Gray x 4, Black x 7, White x 3, Black x 5, White x 3, Black x 9, White x 6, Black x 2, White x 2, Black x 2, White x 8, Black x 6, White x 7, Black x 7, Gray x 6, Light Gray x 1, White x 1, Gray x 2, Light Gray x 1, White x 2, Gray x 2, Black x 1",
+    "totalBlocks": 95,
+    "turnText": "Increase"
+  },
+  {
+    "number": 96,
+    "instructions": "Black x 1, Gray x 3, White x 3, Light Gray x 1, Gray x 1, Dark Gray x 1, Light Gray x 1, Gray x 4, Light Gray x 1, Dark Gray x 1, Black x 6, White x 6, Black x 5, White x 10, Black x 3, White x 2, Black x 2, White x 4, Black x 11, White x 3, Black x 5, White x 2, Black x 8, Gray x 7, Black x 1, White x 1, Dark Gray x 1, White x 1, Light Gray x 1",
+    "totalBlocks": 96,
+    "turnText": "Increase"
+  },
+  {
+    "number": 97,
+    "instructions": "Gray x 1, White x 1, Dark Gray x 1, Black x 1, Light Gray x 1, Black x 1, White x 1, Gray x 5, Black x 8, White x 2, Black x 4, White x 4, Black x 12, White x 3, Black x 3, White x 2, Black x 2, White x 12, Black x 4, White x 5, Black x 8, Dark Gray x 2, Gray x 3, Light Gray x 2, White x 3, Light Gray x 1, Gray x 3, Dark Gray x 1, Black x 1",
+    "totalBlocks": 97,
+    "turnText": "Increase"
+  },
+  {
+    "number": 98,
+    "instructions": "Black x 2, Dark Gray x 1, Light Gray x 1, Gray x 2, Light Gray x 1, White x 2, Light Gray x 1, Gray x 5, Light Gray x 1, Gray x 1, Black x 7, White x 6, Black x 2, White x 13, Black x 3, White x 2, Black x 1, White x 1, Black x 1, White x 2, Black x 13, White x 4, Black x 4, White x 2, Black x 8, Gray x 3, Light Gray x 3, Black x 1, White x 1, Black x 3, Light Gray x 1",
+    "totalBlocks": 98,
+    "turnText": "Increase"
+  },
+  {
+    "number": 99,
+    "instructions": "White x 1, Gray x 1, Black x 2, Gray x 2, Black x 1, White x 1, Gray x 4, Black x 8, White x 2, Black x 4, White x 4, Black x 16, White x 1, Black x 2, White x 1, Black x 3, White x 21, Black x 8, Gray x 1, Dark Gray x 1, Gray x 3, Light Gray x 1, Gray x 1, Light Gray x 2, Gray x 3, Light Gray x 1, Dark Gray x 1, Black x 3",
+    "totalBlocks": 99,
+    "turnText": "Increase"
+  },
+  {
+    "number": 100,
+    "instructions": "Black x 4, Light Gray x 2, Gray x 8, Light Gray x 1, Dark Gray x 1, Gray x 1, Black x 8, White x 22, Black x 2, White x 2, Black x 1, White x 2, Black x 5, White x 6, Black x 5, White x 4, Black x 4, White x 2, Black x 8, Gray x 3, Light Gray x 2, Black x 1, White x 1, Black x 3, White x 2",
+    "totalBlocks": 100,
+    "turnText": "Increase"
+  },
+  {
+    "number": 101,
+    "instructions": "White x 2, Light Gray x 1, Black x 3, Gray x 1, Black x 1, White x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Black x 8, White x 2, Black x 4, White x 4, Black x 4, White x 8, Black x 4, White x 2, Black x 2, White x 2, Black x 1, White x 22, Black x 9, Dark Gray x 2, Light Gray x 1, Gray x 5, Light Gray x 1, Gray x 4, Black x 4",
+    "totalBlocks": 101,
+    "turnText": "Increase"
+  },
+  {
+    "number": 102,
+    "instructions": "Black x 5, Light Gray x 1, Gray x 1, Light Gray x 1, Black x 1, Dark Gray x 4, Light Gray x 3, Dark Gray x 1, Black x 10, White x 1, Black x 2, White x 5, Black x 5, White x 8, Black x 2, White x 2, Black x 1, White x 2, Black x 3, White x 11, Black x 4, White x 3, Black x 4, White x 1, Black x 9, Light Gray x 2, Gray x 1, Light Gray x 1, Black x 1, Light Gray x 1, Black x 3, White x 3",
+    "totalBlocks": 102,
+    "turnText": "Increase"
+  },
+  {
+    "number": 103,
+    "instructions": "White x 4, Black x 3, Light Gray x 1, Black x 1, Light Gray x 3, Black x 9, White x 1, Black x 4, White x 3, Black x 4, White x 12, Black x 2, White x 2, Black x 2, White x 2, Black x 1, White x 7, Black x 26, Light Gray x 3, Dark Gray x 1, Gray x 1, Dark Gray x 1, Light Gray x 1, Gray x 2, Dark Gray x 1, Black x 6",
+    "totalBlocks": 103,
+    "turnText": "Increase"
+  },
+  {
+    "number": 104,
+    "instructions": "Black x 8, Dark Gray x 1, Gray x 2, Dark Gray x 1, Black x 8, White x 6, Black x 17, White x 7, Black x 1, White x 2, Black x 1, White x 2, Black x 2, White x 13, Black x 4, White x 3, Black x 14, Light Gray x 3, Black x 1, Gray x 1, Black x 2, Gray x 1, White x 4",
+    "totalBlocks": 104,
+    "turnText": "Increase"
+  },
+  {
+    "number": 105,
+    "instructions": "White x 5, Black x 3, White x 1, Black x 1, Light Gray x 2, Black x 14, White x 2, Black x 5, White x 13, Black x 2, White x 2, Black x 2, White x 2, Black x 1, White x 6, Black x 17, White x 8, Black x 19",
+    "totalBlocks": 105,
+    "turnText": "Increase"
+  },
+  {
+    "number": 106,
+    "instructions": "Black x 18, White x 10, Black x 13, White x 1, Black x 3, White x 6, Black x 1, White x 2, Black x 1, White x 2, Black x 2, White x 15, Black x 4, White x 2, Black x 13, Dark Gray x 1, Light Gray x 1, White x 1, Gray x 1, Dark Gray x 1, Black x 2, Light Gray x 1, White x 5",
+    "totalBlocks": 106,
+    "turnText": "Increase"
+  },
+  {
+    "number": 107,
+    "instructions": "White x 6, Black x 3, White x 1, Black x 1, Gray x 1, Dark Gray x 1, Black x 13, White x 2, Black x 3, White x 16, Black x 2, White x 2, Black x 2, White x 8, Black x 3, White x 2, Black x 12, White x 16, Black x 13",
+    "totalBlocks": 107,
+    "turnText": "Increase"
+  },
+  {
+    "number": 108,
+    "instructions": "Black x 18, White x 11, Black x 12, White x 3, Black x 2, White x 9, Black x 1, White x 2, Black x 2, White x 17, Black x 3, White x 2, Black x 13, Light Gray x 3, Black x 4, White x 6",
+    "totalBlocks": 108,
+    "turnText": "Increase"
+  },
+  {
+    "number": 109,
+    "instructions": "White x 6, Dark Gray x 1, Black x 3, Light Gray x 3, Black x 13, White x 2, Black x 3, White x 17, Black x 2, White x 2, Black x 2, White x 8, Black x 2, White x 4, Black x 12, White x 4, Black x 2, White x 5, Black x 6, White x 2, Black x 10",
+    "totalBlocks": 109,
+    "turnText": "Increase"
+  },
+  {
+    "number": 110,
+    "instructions": "Black x 12, White x 10, Black x 3, White x 5, Black x 11, White x 5, Black x 2, White x 8, Black x 1, White x 2, Black x 2, White x 7, Black x 3, White x 9, Black x 2, White x 2, Black x 12, Dark Gray x 1, Light Gray x 1, White x 1, Black x 4, Light Gray x 1, White x 6",
+    "totalBlocks": 110,
+    "turnText": "Increase"
+  },
+[
+  {
+    "number": 111,
+    "instructions": "White x 7, Black x 5, White x 1, Gray x 1, Black x 12, White x 2, Black x 2, White x 8, Black x 5, White x 6, Black x 2, White x 2, Black x 2, White x 7, Black x 2, White x 6, Black x 11, White x 6, Black x 3, White x 3, Black x 1, White x 2, Black x 14, Dark Gray x 1",
+    "totalBlocks": 111,
+    "turnText": "Increase"
+  },
+  {
+    "number": 112,
+    "instructions": "Black x 20, White x 1, Black x 2, White x 3, Black x 1, White x 4, Black x 10, White x 7, Black x 2, White x 7, Black x 1, White x 3, Black x 1, White x 7, Black x 6, White x 7, Black x 2, White x 2, Black x 11, Dark Gray x 1, White x 1, Gray x 1, Black x 5, White x 7",
+    "totalBlocks": 112,
+    "turnText": "Increase"
+  },
+  {
+    "number": 113,
+    "instructions": "White x 7, Black x 6, White x 1, Gray x 1, Black x 5, White x 1, Black x 5, White x 2, Black x 2, White x 6, Black x 6, White x 8, Black x 2, White x 3, Black x 1, White x 6, Black x 2, White x 9, Black x 8, White x 5, Black x 2, White x 2, Black x 2, White x 1, Black x 19, Dark Gray x 1",
+    "totalBlocks": 113,
+    "turnText": "Increase"
+  },
+  {
+    "number": 114,
+    "instructions": "Black x 19, White x 2, Black x 2, White x 2, Black x 2, White x 5, Black x 8, White x 11, Black x 2, White x 5, Black x 1, White x 3, Black x 1, White x 9, Black x 6, White x 6, Black x 2, White x 2, Black x 4, White x 2, Black x 4, Light Gray x 1, White x 1, Black x 7, White x 7",
+    "totalBlocks": 114,
+    "turnText": "Increase"
+  },
+  {
+    "number": 115,
+    "instructions": "White x 6, Light Gray x 1, Black x 7, Dark Gray x 1, Gray x 1, Black x 5, White x 1, Black x 4, White x 2, Black x 2, White x 6, Black x 5, White x 10, Black x 2, White x 2, Black x 2, White x 4, Black x 2, White x 12, Black x 8, White x 5, Black x 2, White x 3, Black x 1, White x 1, Black x 1, White x 7, Black x 11, Light Gray x 1",
+    "totalBlocks": 115,
+    "turnText": "Increase"
+  },
+  {
+    "number": 116,
+    "instructions": "Light Gray x 1, Gray x 1, Black x 18, White x 1, Black x 1, White x 3, Black x 2, White x 6, Black x 7, White x 13, Black x 2, White x 4, Black x 1, White x 3, Black x 1, White x 12, Black x 4, White x 6, Black x 2, White x 1, Black x 4, White x 2, Black x 4, Dark Gray x 1, Light Gray x 1, Black x 8, Dark Gray x 1, White x 6",
+    "totalBlocks": 116,
+    "turnText": "Increase"
+  },
+  {
+    "number": 117,
+    "instructions": "White x 4, Light Gray x 2, Black x 10, Light Gray x 1, Black x 5, White x 1, Black x 4, White x 2, Black x 1, White x 6, Black x 3, White x 14, Black x 1, White x 3, Black x 1, White x 3, Black x 2, White x 14, Black x 7, White x 6, Black x 2, White x 3, Black x 1, White x 1, Black x 17, Gray x 1, Light Gray x 1, Dark Gray x 1",
+    "totalBlocks": 117,
+    "turnText": "Increase"
+  },
+  {
+    "number": 118,
+    "instructions": "Light Gray x 1, Black x 1, Dark Gray x 1, Gray x 1, Black x 16, White x 1, Black x 1, White x 3, Black x 2, White x 7, Black x 6, White x 16, Black x 1, White x 3, Black x 1, White x 3, Black x 1, White x 4, Black x 3, White x 7, Black x 3, White x 6, Black x 1, White x 2, Black x 3, White x 2, Black x 18, Dark Gray x 2, Gray x 2",
+    "totalBlocks": 118,
+    "turnText": "Increase"
+  },
+  {
+    "number": 119,
+    "instructions": "Black x 10, Gray x 1, Dark Gray x 1, Black x 11, White x 2, Black x 2, White x 2, Black x 1, White x 6, Black x 3, White x 7, Black x 4, White x 4, Black x 1, White x 24, Black x 6, White x 6, Black x 3, White x 3, Black x 3, White x 1, Black x 13, Dark Gray x 1, Black x 2, Light Gray x 1, Gray x 1",
+    "totalBlocks": 119,
+    "turnText": "Increase"
+  },
+  {
+    "number": 120,
+    "instructions": "Black x 1, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 9, White x 6, Black x 1, White x 1, Black x 2, White x 2, Black x 3, White x 7, Black x 6, White x 28, Black x 5, White x 7, Black x 2, White x 7, Black x 1, White x 1, Black x 3, White x 1, Black x 9, Dark Gray x 1, Black x 1, Gray x 1, Light Gray x 1, Black x 11",
+    "totalBlocks": 120,
+    "turnText": "Increase"
+  },
+  {
+    "number": 121,
+    "instructions": "Black x 4, Dark Gray x 1, Black x 3, Dark Gray x 1, Black x 3, White x 2, Dark Gray x 1, Gray x 1, Black x 8, White x 2, Black x 2, White x 1, Black x 1, White x 7, Black x 9, White x 1, Black x 4, White x 29, Black x 6, White x 3, Black x 1, White x 3, Black x 3, White x 2, Black x 1, White x 1, Black x 16, Gray x 2, Dark Gray x 1, Black x 2",
+    "totalBlocks": 121,
+    "turnText": "Increase"
+  },
+  {
+    "number": 122,
+    "instructions": "Light Gray x 1, Black x 3, Dark Gray x 1, Gray x 1, Black x 15, White x 1, Black x 2, White x 2, Black x 2, White x 4, Black x 1, White x 2, Black x 6, White x 29, Black x 1, White x 4, Black x 10, White x 9, Black x 2, White x 2, Black x 6, Gray x 1, Light Gray x 1, Gray x 1, White x 2, Black x 3, Dark Gray x 1, Gray x 1, Black x 1, Gray x 1, Light Gray x 1, Black x 5",
+    "totalBlocks": 122,
+    "turnText": "Increase"
+  },
+  {
+    "number": 123,
+    "instructions": "Black x 6, Light Gray x 1, Dark Gray x 1, Black x 1, Gray x 1, Light Gray x 1, Black x 3, White x 2, Gray x 2, Dark Gray x 1, Black x 6, White x 1, Black x 3, White x 8, Black x 11, White x 34, Black x 5, White x 3, Black x 1, White x 3, Black x 3, White x 2, Black x 2, White x 1, Black x 19, White x 2",
+    "totalBlocks": 123,
+    "turnText": "Increase"
+  },
+  {
+    "number": 124,
+    "instructions": "White x 3, Black x 14, White x 3, Black x 1, White x 1, Black x 2, White x 3, Black x 2, White x 3, Black x 1, White x 3, Black x 5, White x 33, Black x 12, White x 9, Black x 3, White x 1, Black x 5, Dark Gray x 1, Gray x 1, Light Gray x 2, White x 1, Black x 1, Dark Gray x 1, Black x 1, Light Gray x 1, White x 1, Black x 1, Dark Gray x 1, Light Gray x 1, Black x 7",
+    "totalBlocks": 124,
+    "turnText": "Increase"
+  },
+  {
+    "number": 125,
+    "instructions": "Black x 4, Light Gray x 1, Gray x 1, Black x 2, Light Gray x 1, Dark Gray x 1, Light Gray x 1, White x 1, Gray x 1, Black x 1, Dark Gray x 1, Black x 1, White x 1, Gray x 1, Light Gray x 1, Gray x 1, Dark Gray x 2, Black x 4, White x 1, Black x 2, White x 9, Black x 2, White x 1, Black x 10, White x 33, Black x 5, White x 2, Black x 1, White x 4, Black x 2, White x 3, Black x 2, White x 1, Black x 3, White x 5, Black x 9, White x 4",
+    "totalBlocks": 125,
+    "turnText": "Increase"
+  },
+  {
+    "number": 126,
+    "instructions": "White x 5, Black x 16, White x 1, Black x 2, White x 3, Black x 3, White x 3, Black x 1, White x 3, Black x 4, White x 33, Black x 9, White x 3, Black x 6, White x 5, Black x 1, White x 1, Black x 4, Gray x 2, Dark Gray x 1, White x 1, Gray x 1, White x 1, Dark Gray x 4, White x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Black x 2, Gray x 1, White x 2, Light Gray x 1, Black x 2",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+  {
+    "number": 127,
+    "instructions": "Dark Gray x 1, White x 4, Black x 3, Light Gray x 4, Black x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, White x 1, Gray x 1, White x 1, Dark Gray x 2, Black x 4, White x 1, Black x 2, White x 3, Black x 8, White x 8, Black x 4, White x 33, Black x 4, White x 2, Black x 2, White x 3, Black x 3, White x 3, Black x 2, White x 2, Black x 14, Light Gray x 1, White x 4, Gray x 1",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+  {
+    "number": 128,
+    "instructions": "White x 1, Light Gray x 1, White x 3, Light Gray x 2, Black x 12, White x 3, Black x 2, White x 4, Black x 2, White x 4, Black x 1, White x 3, Black x 3, White x 33, Black x 3, White x 10, Black x 8, White x 3, Black x 2, White x 1, Black x 3, Gray x 1, Light Gray x 3, White x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Black x 1, Light Gray x 2, Gray x 1, Light Gray x 1, Black x 3, Light Gray x 1, White x 4",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+  {
+    "number": 129,
+    "instructions": "White x 4, Gray x 1, Black x 1, Dark Gray x 2, Black x 1, Gray x 1, Black x 1, Gray x 1, Black x 1, Light Gray x 1, Dark Gray x 1, White x 3, Light Gray x 1, White x 1, Gray x 1, Black x 3, White x 1, Black x 2, White x 2, Black x 9, White x 10, Black x 3, White x 33, Black x 2, White x 4, Black x 1, White x 4, Black x 2, White x 4, Black x 2, White x 3, Black x 8, Dark Gray x 3, Light Gray x 3, White x 2, Gray x 1, White x 1, Light Gray x 1",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+  {
+    "number": 130,
+    "instructions": "Black x 1, Dark Gray x 1, White x 1, Gray x 2, Light Gray x 3, Dark Gray x 2, Black x 2, Gray x 1, Light Gray x 1, Dark Gray x 3, White x 5, Black x 3, White x 3, Black x 3, White x 3, Black x 2, White x 3, Black x 3, White x 45, Black x 10, White x 2, Black x 1, White x 1, Black x 4, White x 1, Dark Gray x 1, White x 1, Light Gray x 1, White x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Black x 2, Dark Gray x 1, Black x 1, Dark Gray x 4, White x 1, Light Gray x 1, White x 2",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+[
+  {
+    "number": 131,
+    "instructions": "White x 1, Light Gray x 1, Gray x 1, White x 1, Black x 1, Dark Gray x 1, Black x 2, Dark Gray x 1, Black x 3, Light Gray x 3, White x 2, Light Gray x 1, Gray x 1, Light Gray x 1, Black x 3, White x 1, Black x 1, White x 2, Black x 11, White x 3, Black x 4, White x 37, Black x 3, White x 4, Black x 2, White x 3, Black x 3, White x 2, Black x 1, White x 1, Black x 3, White x 4, Gray x 5, Black x 2, Dark Gray x 2, Light Gray x 3, Gray x 1, Light Gray x 1, Black x 3",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+  {
+    "number": 132,
+    "instructions": "Black x 4, Dark Gray x 1, Gray x 1, Light Gray x 2, Dark Gray x 3, Gray x 1, Black x 1, Dark Gray x 1, Gray x 2, Light Gray x 2, White x 2, Black x 4, White x 1, Black x 1, White x 3, Black x 2, White x 4, Black x 1, White x 5, Black x 3, White x 36, Black x 5, White x 2, Black x 3, White x 4, Black x 5, White x 1, Black x 1, White x 1, Black x 3, Gray x 1, White x 1, Black x 1, White x 3, Gray x 1, Dark Gray x 1, Black x 3, Dark Gray x 1, Black x 2, Dark Gray x 1, Black x 1, Light Gray x 1, Gray x 3",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+  {
+    "number": 133,
+    "instructions": "Gray x 4, Black x 7, Gray x 1, Dark Gray x 1, Gray x 1, White x 3, Dark Gray x 1, White x 1, Black x 3, White x 1, Black x 1, White x 1, Black x 5, White x 5, Black x 11, White x 5, Black x 1, White x 28, Black x 3, White x 5, Black x 2, White x 4, Black x 2, White x 2, Black x 1, White x 2, Black x 4, White x 4, Light Gray x 2, Gray x 3, Dark Gray x 1, Gray x 4, Black x 4, Dark Gray x 1, Black x 1",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+  {
+    "number": 134,
+    "instructions": "Black x 2, Light Gray x 1, Dark Gray x 1, Black x 3, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 4, Light Gray x 2, Gray x 1, Black x 1, White x 1, Black x 4, White x 2, Black x 1, White x 3, Black x 2, White x 3, Black x 2, White x 6, Black x 3, White x 25, Black x 5, White x 3, Black x 3, Light Blue x 3, Black x 5, White x 6, Black x 5, White x 2, Black x 3, Light Gray x 1, White x 1, Light Gray x 1, White x 2, Light Gray x 1, Gray x 1, Light Gray x 1, Black x 3, Gray x 1, Black x 3, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+  {
+    "number": 135,
+    "instructions": "Gray x 1, Light Gray x 1, Gray x 1, Black x 7, Dark Gray x 1, Gray x 1, Light Gray x 1, White x 5, Dark Gray x 1, Black x 2, White x 2, Black x 5, White x 7, Black x 4, Light Blue x 4, Black x 3, White x 1, Black x 7, White x 24, Black x 3, White x 6, Black x 3, White x 3, Black x 2, White x 3, Black x 1, White x 3, Black x 6, Dark Gray x 1, Gray x 4, Light Gray x 6, Gray x 2, White x 1, Black x 3",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+  {
+    "number": 136,
+    "instructions": "Black x 4, White x 2, Light Gray x 7, Gray x 2, Dark Gray x 1, Black x 7, White x 2, Black x 2, White x 3, Black x 3, White x 3, Black x 2, White x 7, Black x 2, White x 25, Black x 10, Light Blue x 5, Black x 3, White x 8, Black x 4, White x 2, Black x 3, Light Gray x 1, White x 4, Light Gray x 1, Gray x 1, White x 1, Black x 7, Dark Gray x 1, Light Gray x 2",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+  {
+    "number": 137,
+    "instructions": "Dark Gray x 1, Light Gray x 1, Black x 8, White x 1, Light Gray x 1, White x 5, Dark Gray x 1, Black x 3, White x 1, Black x 4, White x 5, Black x 1, White x 3, Black x 2, Light Blue x 6, Black x 10, White x 24, Black x 2, White x 7, Black x 3, White x 3, Black x 2, White x 1, Black x 1, White x 2, Black x 2, White x 3, Black x 4, Dark Gray x 1, Light Gray x 2, Gray x 1, Light Gray x 5, Gray x 1, White x 3, Black x 5",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+  {
+    "number": 138,
+    "instructions": "Dark Gray x 1, Black x 5, Gray x 1, White x 1, Light Gray x 3, Gray x 1, Light Gray x 3, Gray x 2, Light Gray x 1, Dark Gray x 1, Black x 2, White x 4, Black x 2, White x 2, Black x 1, White x 1, Black x 3, White x 3, Black x 2, White x 8, Black x 2, White x 24, Black x 9, Light Blue x 6, Black x 2, White x 2, Black x 4, White x 3, Black x 5, White x 1, Black x 3, Gray x 1, White x 4, Light Gray x 1, White x 1, Light Gray x 1, Black x 9",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+  {
+    "number": 139,
+    "instructions": "Black x 8, Gray x 1, White x 2, Gray x 1, White x 3, Light Gray x 1, Gray x 1, Black x 3, White x 1, Black x 4, White x 3, Black x 5, White x 2, Black x 1, Light Blue x 7, Black x 8, White x 24, Black x 2, White x 8, Black x 3, White x 3, Black x 2, White x 1, Black x 2, White x 2, Black x 3, White x 2, Light Gray x 1, Gray x 5, Light Gray x 1, Gray x 2, Light Gray x 1, Gray x 1, Dark Gray x 3, Gray x 1, Light Gray x 4, Gray x 1, White x 1, Gray x 1",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+  {
+    "number": 140,
+    "instructions": "Gray x 1, Light Gray x 5, White x 2, Light Gray x 1, Black x 1, Gray x 1, Black x 1, Dark Gray x 1, Light Gray x 1, Gray x 2, Light Gray x 5, Gray x 1, Light Gray x 1, Black x 4, White x 2, Black x 2, White x 1, Black x 3, White x 3, Black x 2, White x 9, Black x 2, White x 23, Black x 8, Light Blue x 2, Black x 3, Light Blue x 2, Black x 1, White x 2, Black x 6, White x 3, Black x 4, White x 1, Black x 3, Light Gray x 1, White x 3, Gray x 1, Light Gray x 1, White x 2, Black x 8",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+{
+    "number": 141,
+    "instructions": "Black x 7, Light Gray x 1, White x 2, Light Gray x 1, Gray x 2, White x 1, Gray x 2, Black x 3, White x 1, Black x 3, White x 3, Black x 7, White x 2, Black, Light Blue, Black x 4, Light Blue x 1, Black x 8, White x 23, Black x 2, White x 10, Black x 2, White x 3, Black x 3, White, Black x 2, White x 2, Black x 5, Light Gray x 8, Dark Gray x 1, Black x 1, Dark Gray x 3, Black x 1, Dark Gray x 1, Black x 3, Gray x 1, Light Gray x 2, Dark Gray x 1",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+{
+    "number": 142,
+    "instructions": "Dark Gray x 3, Light Gray x 1, Gray x 2, Dark Gray x 1, Black x 1, Dark Gray x 5, Black x 1, Dark Gray x 1, White x 1, Light Gray x 1, Gray x 1, Light Gray x 5, Black x 4, White x 2, Black x 2, White x 2, Black x 3, White x 3, Black x 2, White x 10, Black x 2, White x 23, Black x 7, Light Blue x 1, Black x 6, White x 3, Black x 7, White x 3, Black x 3, White x 1, Black x 3, Dark Gray x 1, Light Gray x 5, White x 2, Black x 7",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+{
+    "number": 143,
+    "instructions": "Black x 6, Gray x 1, White x 1, Light Gray x 4, Dark Gray x 2, Black x 4, White x 1, Black x 3, White x 2, Black x 2, White x 2, Black x 4, White x 3, Black x 3, White x 1, Black x 1, Light Blue x 1, Black x 5, White x 1, Black x 2, White x 22, Black x 2, White x 4, Black x 1, White x 6, Black x 2, White x 2, Black x 4, White x 1, Black x 3, White x 2, Black x 3, Gray x 1, Light Gray x 6, Gray x 2, Black x 1, Gray x 1, Dark Gray x 3, Light Gray x 2, Gray x 1, Light Gray x 2, Gray x 1, Dark Gray x 3, Gray x 1",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+{
+    "number": 144,
+    "instructions": "White x 1, Dark Gray x 1, Black x 4, Dark Gray x 1, Gray x 1, Light Gray x 2, Dark Gray x 1, Gray x 2, Light Gray x 2, Gray x 1, Dark Gray x 1, Black x 2, Dark Gray x 1, Gray x 1, Light Gray x 2, Gray x 2, Black x 2, White x 2, Black x 3, White x 2, Black x 4, White x 1, Black x 3, White x 5, Black x 1, White x 5, Black x 2, White x 22, Black x 1, White x 4, Black x 4, White x 2, Black x 2, White x 3, Black x 4, White x 3, Black x 2, White x 2, Black x 3, White x 1, Black x 3, Gray x 1, Dark Gray x 1, Light Gray x 4, White x 2, Black x 6",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+{
+    "number": 145,
+    "instructions": "Black x 6, White x 2, Light Gray x 1, Gray x 1, Light Gray x 1, Dark Gray x 2, Black x 4, White x 1, Black x 2, White x 2, Black x 2, White x 3, Black x 4, White x 4, Black x 2, White, Black x 4, White x 4, Black, White x 22, Black x 2, White x 5, Black x 2, White x 5, Black x 2, White x 2, Black x 4, White x 2, Black x 3, White x 1, Gray x 1, Black x 2, Gray x 2, Light Gray x 1, Gray x 1, Black x 2, Dark Gray x 1, Light Gray x 3, White x 1, Dark Gray x 1, Black x 1, Dark Gray x 2, Light Gray x 2, Dark Gray x 1, Black x 5, White x 2",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+{
+    "number": 146,
+    "instructions": "White x 2, Gray, Black x 5, Dark Gray, Light Gray x 3, Black x 2, Light Gray, White, Light Gray x 3, Gray, Black x 2, Gray x 3, Black x 2, White, Light Gray, Black x 3, White x 2, Black x 5, White, Black x 3, White x 3, Black x 3, White x 5, Black x 3, White x 22, Black, White x 4, Black x 6, White x 4, Black x 4, White x 4, Black x 2, White x 2, Black x 2, White, Black x 4, Dark Gray x 2, Light Gray x 2, White x 2, Gray, Black x 5",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+{
+    "number": 147,
+    "instructions": "Black x 5, Light Gray, White x 2, Light Gray x 2, Black, Dark Gray, Black x 4, White, Black x 2, White x 2, Black, White x 5, Black x 4, White x 4, Black x 5, White x 4, Black, White x 22, Black x 3, White x 5, Black x 16, White x 2, Black x 3, Light Gray, White, Black, Gray x 3, Dark Gray, Gray, Light Gray x 3, White x 2, Gray, Black x 3, Dark Gray x 3, Black x 4, Dark Gray, White x 4",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+{
+    "number": 148,
+    "instructions": "Black x 1, White x 4, Light Gray x 1, Dark Gray x 1, Black x 7, Dark Gray x 2, Gray x 1, White x 3, Light Gray x 3, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, White x 1, Black x 3, White x 2, Black x 16, White x 6, Black x 2, White x 22, Black x 2, White x 4, Black x 3, White x 4, Black x 6, White x 5, Black x 1, White x 2, Black x 2, White x 1, Black x 4, Dark Gray x 2, Light Gray x 2, White x 2, Dark Gray, Black x 4",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+{
+    "number": 149,
+    "instructions": "Black x 3, Dark Gray x 1, Gray x 1, White x 2, Light Gray x 2, Black x 1, Dark Gray x 1, Black x 3, White x 2, Black x 2, White x 1, Black x 1, White x 5, Black x 8, White x 3, Black x 1, White x 5, Black x 2, White x 22, Black x 2, White x 6, Black x 10, White x 2, Black x 2, Gray x 1, White x 4, Black x 3, White x 1, Gray x 2, Light Gray x 1, White x 7, Gray x 1, Light Gray x 1, Gray x 1, Black x 8, Light Gray x 1, White x 4, Black x 2",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+{
+    "number": 150,
+    "instructions": "Black x 2, Gray x 1, White x 4, Black x 6, Light Gray x 1, Black x 2, Gray x 3, Light Gray x 1, White x 5, Light Gray x 2, Gray x 1, Light Gray x 1, Black x 3, White x 5, Black x 3, White x 3, Black x 6, White x 9, Black x 2, White x 22, Black x 2, White x 9, Black x 7, White x 6, Black x 1, White x 1, Black x 2, White x 1, Black x 5, Dark Gray x 1, Light Gray x 1, Gray x 1, White x 1, Gray x 2, Black x 3",
+    "totalBlocks": 125,
+    "turnText": "Decrease"
+  },
+{
+    "number": 151,
+    "instructions": "Black x 2, Gray x 1, White x 4, Black x 6, Light Gray x 1, Black x 2, Gray x 3, Light Gray x 1, White x 5, Light Gray x 2, Gray, Light Gray x 1, Black x 3, White x 5, Black x 3, White x 3, Black x 6, White x 9, Black x 2, White x 22, Black x 2, White x 9, Black x 7, White x 6, Black x 1, White x 1, Black x 2, White x 1, Black x 5, Dark Gray x 1, Light Gray x 1, Gray x 1, White x 1, Gray x 2, Black x 3",
+    "totalBlocks": 124,
+    "turnText": "Decrease"
+  },
+{
+    "number": 152,
+    "instructions": "Black x 2, Dark Gray x 1, Gray x 1, Dark Gray x 2, Light Gray x 1, Dark Gray x 1, Black x 4, Gray x 1, Dark Gray x 1, Black x 1, Gray x 2, Light Gray x 2, Dark Gray x 1, Gray x 1, White x 3, Light Gray x 2, Gray x 2, Light Gray x 1, Gray x 2, White x 6, Black x 3, White x 18, Black x 2, White x 22, Black x 2, White x 5, Black x 3, White x 3, Black x 1, White x 10, Black x 1, White x 1, Black x 1, White x 1, Black x 5, Dark Gray x 1, Light Gray x 1, Gray x 2, Light Gray x 2, Gray x 1, Black x 1",
+    "totalBlocks": 123,
+    "turnText": "Decrease"
+  },
+{
+    "number": 153,
+    "instructions": "Dark Gray x 2, Light Gray x 2, Gray x 1, Light Gray x 2, Gray x 1, Black x 4, White x 4, Black x 1, White x 8, Black x 2, White x 3, Black x 3, White x 5, Black x 2, White x 22, Black x 2, White x 18, Black x 4, White x 4, Black x 2, Dark Gray x 1, Light Gray x 1, Gray x 2, Light Gray x 2, White x 3, Light Gray x 5, Dark Gray x 1, Black x 1, Dark Gray x 1, White x 1, Black x 4, Dark Gray x 1, Light Gray x 1, Gray x 1, White x 2, Black x 3 ",
+    "totalBlocks": 122,
+    "turnText": "Decrease"
+  },
+{
+    "number": 154,
+    "instructions": "Black x 3, White x 1, Light Gray x 1, Dark Gray x 3, Black x 1, Light Gray x 1, Black x 2, White x 1, Dark Gray x 1, Black x 2, Light Gray x 1, Gray x 1, Light Gray x 2, White x 4, Light Gray x 4, Gray x 1, Black x 2, White x 5, Black x 4, White x 18, Black x 1, White x 23, Black x 2, White x 6, Black x 2, White x 3, Black x 2, White x 8, Black, White x 3, Black x 5, Dark Gray x 1, Light Gray x 4, Dark Gray x 1, Gray x 1",
+    "totalBlocks": 121,
+    "turnText": "Decrease"
+  },
+{
+    "number": 155,
+    "instructions": "Light Gray x 6, Dark Gray x 1, Black x 5, White x 11, Black x 2, White x 3, Black x 2, White x 5, Black x 3, White x 23, Black, White x 15, Black x 7, White x 5, Black x 2, Light Gray x 1, Gray x 2, Light Gray x 1, White x 5, Light Gray x 2, Gray x 2, Black x 2, Light Gray x 2, Black x 2, Gray x 1, Dark Gray x 4, Gray x 1, White x 1, Black x 3",
+    "totalBlocks": 120,
+    "turnText": "Decrease"
+  },
+{
+    "number": 156,
+    "instructions": "Black x 3, Light Gray x 1, Dark Gray x 4, Gray x 2, Dark Gray x 1, Black x 1, Dark Gray x 1, Light Gray x 1, Black x 2, Gray x 3, Light Gray x 2, White x 4, Light Gray, Gray x 2, Dark Gray, Black, White x 6, Black x 13, White x 33, Black x 3, White x 5, Black x 2, White x 3, Black x 2, White x 11, Black x 5, Dark Gray x 1, Light Gray x 2, Dark Gray x 1, Gray x 1, Light Gray x 1",
+    "totalBlocks": 119,
+    "turnText": "Decrease"
+  },
+{
+    "number": 157,
+    "instructions": " Gray x 1, Light Gray x 1, Dark Gray x 1, Light Gray x 2, Gray x 1, Black x 4, White x 11, Black x 2, White x 3, Black x 2, White x 5, Black x 3, White x 30, Black x 16, White x 6, Light Gray x 1, Gray x 4, White x 4, Light Gray x 4, Dark Gray x 1, Black x 1, Dark Gray x 1, Light Gray x 1, Black x 2, Gray x 2, Light Gray x 1, Gray x 1, Dark Gray x 4, Black x 3",
+    "totalBlocks": 118,
+    "turnText": "Decrease"
+  },
+{
+    "number": 158,
+    "instructions": "Black x 2, Dark Gray x 2, Light Gray x 1, Dark Gray x 3, Light Gray x 1, Gray x 2, Dark Gray x 1, Black x 1, Gray x 1, Light Gray x 1, Black x 2, Light Gray x 4, Gray x 3, Light Gray x 1, Gray x 4, Black x 1, White x 5, Black x 2, White x 1, Black x 16, White x 28, Black x 3, White x 5, Black x 2, White x 3, Black x 2, White x 10, Black x 5, Dark Gray x 1, Light Gray x 1, Dark Gray x 1, Light Gray x 1, Gray x 1",
+    "totalBlocks": 117,
+    "turnText": "Decrease"
+  },
+{
+    "number": 159,
+    "instructions": "Light Gray x 1, Gray x 2, Light Gray x 1, Gray x 1, Black x 4, White x 10, Black x 3, White x 3, Black x 2, White x 4, Black x 3, White x 28, Black x 9, White x 4, Black x 2, White x 2, Black x 2, White x 5, Black x 2, Dark Gray x 2, Black x 2, Dark Gray x 2, Light Gray x 3, White x 2, Black x 1, Dark Gray x 1, White x 1, Dark Gray x 1, Black, Gray x 3, Light Gray x 2, Dark Gray x 2, Light Gray x 2, Dark Gray x 1, Black x 2",
+    "totalBlocks": 116,
+    "turnText": "Decrease"
+  },
+{
+    "number": 160,
+    "instructions": "Black x 1, Gray x 1, Black x 1, Gray x 1, Light Gray x 2, Black x 1, Light Gray x 3, Gray x 2, Light Gray x 1, Black x 1, White x 2, Dark Gray x 1, White x 3, Light Gray x 3, Gray x 2, Black x 4, White x 5, Black x 2, White x 3, Black x 2, White x 6, Black x 7, White x 28, Black x 2, White x 1, Black, White x 3, Black x 2, White x 3, Black x 2, White x 10, Black x 5, Dark Gray x 1, Gray x 2, Dark Gray x 1",
+    "totalBlocks": 115,
+    "turnText": "Decrease"
+  },
+{
+    "number": 161,
+    "instructions": "Dark Gray x 2, Gray x 2, Black x 5, White x 9, Black x 2, White x 3, Black x 2, White x 3, Black x 1, White x 1, Black x 2, White x 29, Black x 3, White x 8, Black x 3, White x 3, Black x 2, White x 5, Black x 3, Gray x 1, Light Gray x 4, White x 3, Light Gray x 1, Gray x 1, White x 1, Light Gray x 1, Black x 1, Gray x 3, Light Gray x 3, Gray x 1, Light Gray x 2, Gray x 1, Black x 1, Dark Gray x 1, Black x 1",
+    "totalBlocks": 114,
+    "turnText": "Decrease"
+  },
+{
+    "number": 162,
+    "instructions": "Black x 2, Dark Gray x 1, Gray x 1, Light Gray x 2, Dark Gray x 1, Light Gray x 5, Gray x 1, Black x 1, Light Gray x 1, White x 1, Gray x 1, Dark Gray x 1, White x 4, Light Gray x 3, Black x 3, White x 5, Black x 3, White x 4, Black x 3, White x 38, Black x 2, White x 2, Black x 1, White x 3, Black x 2, White x 2, Black x 2, White x 10, Black x 5, Dark Gray x 3",
+    "totalBlocks": 113,
+    "turnText": "Decrease"
+  },
+{
+    "number": 163,
+    "instructions": "Dark Gray x 3, Black x 5, White x 9, Black x 2, White x 3, Black x 2, White x 2, Black x 2, White x 1, Black x 2, White x 19, Black x 1, White x 1, Black x 2, White x 12, Black x 6, White x 5, Black x 2, White x 5, Black x 4, Light Gray x 2, White x 3, Light Gray x 1, Black x 1, Light Gray x 1, White x 1, Gray x 2, Light Gray x 8, Gray x 3, Black x 1, Dark Gray x 1",
+    "totalBlocks": 112,
+    "turnText": "Decrease"
+  },
+{
+    "number": 164,
+    "instructions": "Dark Gray x 1, Black x 1, Light Gray x 2, Gray x 1, Light Gray x 2, White x 1, Light Gray x 5, Dark Gray x 1, Black x 1, White x 2, Dark Gray x 1, Black x 2, Dark Gray x 1, Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 3, White x 5, Black x 3, White x 5, Black x 11, White x 6, Black x 5, White x 19, Black x 2, White x 1, Black x 1, White x 3, Black x 2, White x 2, Black x 2, White x 10, Black x 5, Dark Gray x 2",
+    "totalBlocks": 111,
+    "turnText": "Decrease"
+  },
+{
+    "number": 165,
+    "instructions": "Dark Gray x 1, Light Gray x 1, Black x 5, White x 9, Black x 2, White x 3, Black x 1, White x 3, Black, White x 2, Black x 2, White x 18, Black x 6, White x 5, Black x 8, White, Black x 3, White x 5, Black x 3, White x 4, Black x 4, Light Gray x 1, Gray x 1, Black x 2, Dark Gray x 1, Light Gray x 3, Black x 1, Dark Gray x 1, Light Gray x 3, White x 3, Dark Gray, Light Gray x 1, Gray x 1, Light Gray x 2, Gray x 1, Black x 1",
+    "totalBlocks": 110,
+    "turnText": "Decrease"
+  },
+{
+    "number": 166,
+    "instructions": " Black x 1, Gray x 1, Light Gray x 2, Gray x 2, Dark Gray x 1, Light Gray x 1, White x 2, Light Gray x 3, Gray x 1, Black x 1, Gray x 1, Light Gray x 2, Gray x 1, Light Gray x 1, Gray x 2, Black x 4, White x 4, Black x 4, White x 5, Black x 2, White x 3, Black x 6, White x 5, Black x 8, White x 17, Black x 2, White x 1, Black x 2, White x 2, Black x 2, White x 2, Black x 2, White x 10, Black x 4, White x 1, Gray x 1",
+    "totalBlocks": 109,
+    "turnText": "Decrease"
+  },
+{
+    "number": 167,
+    "instructions": "White x 2, Black x 3, White x 11, Black x 1, White x 3, Black x 1, White x 2, Black x 2, White x 2, Black x 1, White x 17, Black x 8, White x 14, Black x 3, White x 5, Black x 4, White x 3, Black x 4, Gray x 1, Light Gray x 5, Dark Gray x 1, Black x 1, Gray x 1, Light Gray x 2, White x 3, Light Gray x 1, Dark Gray x 1, Gray x 2, Light Gray x 3, Black x 1",
+    "totalBlocks": 108,
+    "turnText": "Decrease"
+  },
+{
+    "number": 168,
+    "instructions": "Black x 1, Light Gray x 2, White x 1, Light Gray x 1, Gray x 3, White x 3, Light Gray x 2, Gray x 2, Black x 1, Gray x 1, Light Gray x 4, Black x 4, White x 4, Black x 4, White x 4, Black x 3, White x 14, Black x 6, White x 1, Black x 2, White x 16, Black x 2, White x 1, Black x 3, White x 2, Black x 1, White x 2, Black x 2, White x 5, Black x 2, White x 3, Black x 3, Gray x 1, White x 1",
+    "totalBlocks": 107,
+    "turnText": "Decrease"
+  },
+{
+    "number": 169,
+    "instructions": "White x 1, Dark Gray x 1, Black x 3, White x 3, Black x 3, White x 4, Black x 2, White x 5, Black x 2, White x 1, Black x 2, White x 16, Black x 2, White x 2, Black x 5, White x 14, Black x 4, White x 4, Black x 4, White x 3, Black x 4, Gray x 1, Light Gray x 1, Gray x 2, Black x 2, Dark Gray x 1, Gray x 1, Light Gray x 2, White x 2, Light Gray x 1, Gray x 3, White x 2, Light Gray x 2, Black x 1",
+    "totalBlocks": 106,
+    "turnText": "Decrease"
+  },
+{
+    "number": 170,
+    "instructions": "Black x 1, Light Gray x 2, White x 2, Light Gray x 1, Gray x 3, Light Gray x 1, White x 1, Light Gray x 2, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 3, Dark Gray, Light Gray, Black x 4, White x 2, Black x 5, White x 4, Black x 3, White x 14, Black x 6, White x 2, Black x 2, White x 15, Black x 2, White x 2, Black x 2, White x 5, Black x 1, White x 4, Black x 4, White x 3, Black x 3, White x 1",
+    "totalBlocks": 105,
+    "turnText": "Decrease"
+  },
+{
+    "number": 171,
+    "instructions": "White x 1, Black x 3, White x 3, Black x 4, White x 4, Black x 1, White x 4, Black x 2, White x 2, Black x 2, White x 15, Black x 2, White x 3, Black x 5, White x 15, Black x 3, White x 4, Black x 5, White x 2, Black x 3, Dark Gray x 1, Black x 3, Dark Gray x 1, Light Gray x 2, Gray x 1, Light Gray x 3, Gray x 2, Light Gray x 3, White x 2, Light Gray x 2, Black x 1",
+    "totalBlocks": 104,
+    "turnText": "Decrease"
+  },
+{
+    "number": 172,
+    "instructions": "Black x 1, Light Gray x 2, White x 3, Light Gray x 6, Gray x 4, Light Gray x 2, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 3, White x 2, Black x 4, White x 4, Black x 4, White x 5, Black x 1, White x 8, Black x 6, White x 3, Black x 2, White x 14, Black x 3, White x 1, Black x 3, White x 3, Black x 2, White x 4, Black x 4, White x 2, Black x 3, White x 1",
+    "totalBlocks": 103,
+    "turnText": "Decrease"
+  },
+{
+    "number": 173,
+    "instructions": "Light Gray x 1, Black x 2, White x 3, Black x 4, White x 4, Black x 2, White x 2, Black x 3, White x 2, Black x 3, White x 13, Black x 2, White x 4, Black x 5, White x 8, Black, White x 6, Black x 4, White x 4, Black x 4, White x 2, Black x 2, Light Gray x 1, Gray x 1, Light Gray x 1, White x 2, Dark Gray x 1, Black x 1, Dark Gray x 1, Gray x 1, Light Gray x 5, White x 4, Light Gray x 2, Black x 1",
+    "totalBlocks": 102,
+    "turnText": "Decrease"
+  },
+{
+    "number": 174,
+    "instructions": "Black x 1, Light Gray x 2, White x 10, Gray x 1, Black x 2, Gray x 1, White x 1, Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 2, White x 2, Black x 2, White x 5, Black x 4, White x 7, Black, White x 8, Black x 5, White x 4, Black x 2, White x 13, Black x 3, White x 2, Black x 2, White x 3, Black, White x 4, Black x 5, White x 2, Black x 2, Gray x 1",
+    "totalBlocks": 101,
+    "turnText": "Decrease"
+  },
+{
+    "number": 175,
+    "instructions": "Gray x 1, Black x 1, White x 3, Black x 5, White x 3, Black x 2, White x 2, Black x 3, White x 2, Black x 3, White x 12, Black x 2, White x 4, Black x 5, White x 9, Black x 1, White x 6, Black x 5, White x 5, Black x 2, White x 2, Black x 2, Light Gray x 2, White x 1, Dark Gray x 1, Black x 1, Gray x 1, White x 10, Gray x 1, White x 1, Light Gray x 1, Black x 1",
+    "totalBlocks": 100,
+    "turnText": "Decrease"
+  },
+{
+    "number": 176,
+    "instructions": "Dark Gray x 1, Light Gray x 1, White x 1, Gray x 2, Light Gray x 1, Gray x 1, Light Gray x 4, White x 4, Black x 1, Dark Gray x 1, White x 1, Light Gray x 1, Dark Gray x 1, Black x 2, White x 2, Black x 2, White x 5, Black x 4, White x 7, Black x 1, White x 9, Black x 4, White x 5, Black x 2, White x 12, Black x 3, White x 2, Black x 2, White x 2, Black x 2, White x 3, Black x 6, White x 2, Black x 2",
+    "totalBlocks": 99,
+    "turnText": "Decrease"
+  },
+{
+    "number": 177,
+    "instructions": "Black x 1, White x 3, Black x 5, White x 4, Black x 2, White x 2, Black x 2, White x 2, Black x 3, White x 11, Black x 2, White x 5, Black x 4, White x 9, Black x 2, White x 7, Black x 4, White x 2, Black x 4, White x 3, Black x 2, Light Gray x 1, White x 1, Dark Gray x 2, White x 5, Gray x 1, Light Gray x 1, Black x 4, Light Gray x 2, Gray x 1, Dark Gray x 1",
+    "totalBlocks": 98,
+    "turnText": "Decrease"
+  },
+{
+    "number": 178,
+    "instructions": "Light Gray x 2, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 5, Light Gray x 2, White x 3, Light Gray x 1, Dark Gray x 1, White x 1, Black x 3, White x 2, Black x 11, White x 4, Black x 1, White x 2, Black x 2, White x 8, Black x 5, White x 5, Black x 2, White x 11, Black x 3, White x 2, Black x 2, White x 1, Black x 3, White x 3, Black x 5, White x 3, Black x 1",
+    "totalBlocks": 97,
+    "turnText": "Decrease"
+  },
+{
+    "number": 179,
+    "instructions": "Light Gray x 2, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 5, Light Gray x 2, White x 3, Light Gray x 1, Dark Gray x 1, White x 1, Black x 3, White x 2, Black x 11, White x 4, Black, White x 2, Black x 2, White x 8, Black x 5, White x 5, Black x 2, White x 11, Black x 3, White x 2, Black x 2, White x 1, Black x 3, White x 3, Black x 5, White x 3, Black x 1",
+    "totalBlocks": 96,
+    "turnText": "Decrease"
+  },
+{
+    "number": 180,
+    "instructions": "Light Gray x 2, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 5, Light Gray x 2, White x 3, Light Gray x 1, Dark Gray x 1, White x 1, Black x 3, White x 2, Black x 11, White x 4, Black x 1, White x 2, Black x 2, White x 8, Black x 5, White x 5, Black x 2, White x 11, Black x 3, White x 2, Black x 2, White x 1, Black x 3, White x 3, Black x 5, White x 3, Black x 1",
+    "totalBlocks": 95,
+    "turnText": "Decrease"
+  },
+{
+    "number": 181,
+    "instructions": "White x 2, Black x 6, White x 3, Black x 3, White x 1, Black x 2, White, Black x 3, White x 7, Black x 6, White x 5, Black x 2, Light Blue x 2, Black x 3, White x 2, Black x 3, White x 1, Black x 3, White x 1, Black x 1, White x 5, Black x 9, White x 2, Black x 3, Gray x 2, Light Gray x 1, White x 2, Gray x 1, Dark Gray x 4, Gray x 2, White x 1, Light Gray x 5",
+    "totalBlocks": 94,
+    "turnText": "Decrease"
+  },
+{
+    "number": 182,
+    "instructions": "Light Gray x 6, Gray x 5, Dark Gray x 1, Light Gray x 2, White x 1, Light Gray x 3, Black x 3, White x 2, Black x 9, White x 4, Black x 2, White x 1, Black x 2, White x 1, Black x 3, White x 2, Black x 2, Light Blue x 4, Black x 2, White x 5, Black x 6, White x 6, Black x 3, White x 1, Black x 2, White, Black x 3, White x 3, Black x 6, White x 2",
+    "totalBlocks": 93,
+    "turnText": "Decrease"
+  },
+{
+    "number": 183,
+    "instructions": "White x 2, Black x 6, White x 3, Black x 2, White x 2, Black, White x 1, Black x 3, White x 2, Black x 9, White x 6, Black x 2, Light Blue x 5, Black x 2, White x 2, Black x 5, White, Black x 2, White x 5, Black x 4, Light Gray x 1, Black x 3, White x 3, Black x 2, Dark Gray x 1, White x 3, Gray x 1, Dark Gray x 1, Gray x 1, Light Gray x 1, White x 1, Light Gray x 2, Gray x 1, Black x 1, Dark Gray x 1, Light Gray x 3, Gray x 1",
+    "totalBlocks": 92,
+    "turnText": "Decrease"
+  },
+{
+    "number": 184,
+    "instructions": "Gray x 1, Light Gray x 1, White x 2, Light Gray x 1, Gray x 1, Black x 2, Gray x 1, White x 2, Light Gray x 4, White x 2, Black x 3, White x 3, Black x 3, White, Black x 4, White x 4, Black x 2, White x 2, Black x 4, White x 3, Black x 1, Light Blue x 3, Black x 1, Light Blue x 2, Black x 1, White x 9, Black x 11, White x 1, Black x 2, White, Black x 2, White x 4, Black x 5, White x 2 ",
+    "totalBlocks": 91,
+    "turnText": "Decrease"
+  },
+{
+    "number": 185,
+    "instructions": "White x 2, Black x 5, White x 3, Black x 3, White x 1, Black x 1, White x 1, Black x 11, White x 9, Black x 5, Light Blue x 2, Black x 2, White x 3, Black x 4, White x 1, Black x 2, White x 4, Black x 4, White x 1, Black x 3, White x 3, Black x 3, Gray x 1, Light Gray x 1, Black x 2, Gray x 1, White x 2, Light Gray x 1, Black x 2, Light Gray x 1, White x 4, Gray x 1, Light Gray x 1",
+    "totalBlocks": 90,
+    "turnText": "Decrease"
+  },
+{
+    "number": 186,
+    "instructions": "Light Gray x 1, Gray x 1, White x 5, Gray x 1, Black x 1, Dark Gray x 1, White x 2, Light Gray x 1, Dark Gray x 1, Gray x 2, Black x 3, White x 4, Black x 2, White x 2, Black x 3, White x 5, Black x 2, White x 1, Black x 4, White x 2, Black x 2, Light Blue x 2, Black x 5, White x 11, Black x 9, White x 1, Black x 1, White x 2, Black x 2, White x 3, Black x 5, White x 2",
+    "totalBlocks": 89,
+    "turnText": "Decrease"
+  },
+{
+    "number": 187,
+    "instructions": "White x 2, Black x 4, White x 4, Black x 2, White x 1, Black x 8, White x 8, Black x 1, White x 5, Black x 3, White x 1, Black x 2, Light Blue x 2, Black x 1, White x 3, Black x 3, White x 2, Black x 2, White x 4, Black x 3, White x 2, Black x 2, White x 5, Black x 2, Gray x 1, Dark Gray x 1, Gray x 1, White x 3, Black x 2, Light Gray x 1, White x 4, Light Gray x 1, Dark Gray x 1, Light Gray x 1",
+    "totalBlocks": 88,
+    "turnText": "Decrease"
+  },
+{
+    "number": 188,
+    "instructions": "Gray x 1, Dark Gray x 2, Gray x 2, White x 3, Dark Gray x 1, Black x 1, White x 3, Gray x 2, Black x 3, White x 5, Black x 2, White x 2, Black x 3, White x 4, Black x 2, White x 2, Black x 3, White x 2, Black x 2, Light Blue x 2, Black x 1, White x 2, Black x 2, White x 6, Black x 3, White x 8, Black x 6, White, Black x 2, White x 3, Black x 4, White x 2",
+    "totalBlocks": 87,
+    "turnText": "Decrease"
+  },
+{
+    "number": 189,
+    "instructions": "White x 2, Black x 4, White x 3, Black x 2, White x 1, Black x 4, White x 9, Black x 3, White x 3, Black x 1, White x 3, Black x 2, White x 1, Black x 2, Light Blue x 2, Black x 1, White x 3, Black x 3, White x 1, Black x 3, White x 4, Black x 2, White x 2, Black x 2, White x 5, Black x 3, Dark Gray x 1, Gray x 1, White x 3, Dark Gray x 1, White x 3, Light Gray x 1, Black x 2, Light Gray x 3",
+    "totalBlocks": 86,
+    "turnText": "Decrease"
+  },
+{
+    "number": 190,
+    "instructions": "White x 3, Light Gray x 1, Gray x 1, Black x 1, Gray x 1, White x 2, Light Gray x 1, White x 3, Gray x 1, Black x 4, White x 4, Black x 2, White x 3, Black x 2, White x 4, Black x 3, White x 1, Black x 3, White x 2, Black x 2, Light Blue x 2, Black x 5, White x 3, Black x 1, White x 3, Black x 5, White x 7, Black x 4, White x 1, Black x 1, White x 3, Black x 4, White x 2",
+    "totalBlocks": 85,
+    "turnText": "Decrease"
+  },
+{
+    "number": 191,
+    "instructions": " White x 2, Black x 3, White x 3, Black x 2, White x 1, Black x 14, White x 4, Black x 2, White x 3, Black x 4, Light Blue x 2, Black x 2, White x 3, Black x 3, White, Black x 2, White x 4, Black x 3, White x 2, Black x 2, White x 4, Black x 4, Gray x 1, White x 2, Dark Gray x 1, Gray x 1, White x 1, Light Gray x 1, Dark Gray x 2, Light Gray, White x 4",
+    "totalBlocks": 84,
+    "turnText": "Decrease"
+  },
+{
+    "number": 192,
+    "instructions": "Light Gray x 3, White x 3, Dark Gray x 2, White x 1, Light Gray x 1, Black x 1, Gray x 1, White x 1, Black x 5, White x 4, Black x 2, White x 2, Black x 3, White x 3, Black x 3, White x 1, Black x 2, White x 3, Black x 3, Light Blue x 2, Black x 3, White x 2, Black, White x 1, Black x 2, White x 4, Black x 13, White x 2, Black x 1, White x 3, Black x 4, White x 1",
+    "totalBlocks": 83,
+    "turnText": "Decrease"
+  },
+{
+    "number": 193,
+    "instructions": "White x 1, Black x 4, White x 2, Black x 2, White x 1, Black x 13, White x 4, Black x 2, White x 2, Black, White x 2, Black x 3, Light Blue x 1, Black x 3, White x 3, Black x 2, White x 1, Black x 3, White x 4, Black x 2, White x 2, Black x 3, White x 3, Black x 5, Light Gray x 1, Dark Gray x 1, Gray x 1, White x 1, Gray x 2, Light Gray x 2, Gray x 5",
+    "totalBlocks": 82,
+    "turnText": "Decrease"
+  },
+{
+    "number": 194,
+    "instructions": "Light Gray x 1, Gray x 5, Light Gray x 2, Dark Gray x 1, Light Gray x 1, White x 1, Dark Gray x 1, Black x 6, White x 3, Black x 2, White x 3, Black x 2, White x 3, Black x 6, White x 4, Black x 6, White x 3, Black, White x 2, Black x 2, White x 4, Black x 13, White x 1, Black x 1, White x 2, Black x 4, White x 1",
+    "totalBlocks": 81,
+    "turnText": "Decrease"
+  },
+{
+    "number": 195,
+    "instructions": "White x 1, Black x 4, White, Black x 15, White x 3, Black x 3, White x 3, Black x 1, White x 3, Black x 6, White x 3, Black x 6, White x 3, Black x 2, White x 3, Black x 2, White x 3, Black x 6, Light Gray x 2, Gray x 1, Dark Gray x 1, Gray x 6, Light Gray x 1, White x 1",
+    "totalBlocks": 80,
+    "turnText": "Decrease"
+  },
+{
+    "number": 196,
+    "instructions": " White x 2, Light Gray x 1, Dark Gray x 1, Black x 3, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Black x 7, White x 3, Black x 2, White x 2, Black x 3, White x 4, Black x 4, White x 4, Black x 5, White x 3, Black x 2, White x 3, Black x 3, White x 4, Black x 6, White x 3, Black x 4, White x 1, Black x 4, White x 1",
+    "totalBlocks": 79,
+    "turnText": "Decrease"
+  },
+{
+    "number": 197,
+    "instructions": "White x 1, Black x 8, White x 6, Black x 3, White x 3, Black x 4, White x 4, Black x 2, White x 4, Black x 4, White x 4, Black x 3, White x 5, Black x 2, White x 2, Black x 3, White x 2, Black x 7, Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 7, Light Gray x 1",
+    "totalBlocks": 78,
+    "turnText": "Decrease"
+  },
+{
+    "number": 198,
+    "instructions": "Black x 9, Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 6, White x 2, Black x 3, White x 2, Black x 2, White x 5, Black x 3, White x 3, Black x 3, White x 4, Black x 4, White x 5, Black x 7, White x 5, Black x 10, White x 1",
+    "totalBlocks": 77,
+    "turnText": "Decrease"
+  },
+{
+    "number": 199,
+    "instructions": "Black x 12, White x 4, Black x 6, White x 5, Black x 5, White x 4, Black x 3, White x 1, Black x 3, White x 6, Black x 2, White x 2, Black x 3, White x 2, Black x 6, Light Gray x 2, Dark Gray x 1, Black x 9",
+    "totalBlocks": 76,
+    "turnText": "Decrease"
+  },
+{
+    "number": 200,
+    "instructions": "Dark Gray, Black x 9, Dark Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 5, White x 2, Black x 2, White x 3, Black x 2, White x 6, Black x 6, White x 4, Black x 6, White x 14, Black x 12",
+    "totalBlocks": 75,
+    "turnText": "Decrease"
+  },
+{
+    "number": 201,
+    "instructions": "Black x 5, White x 1, Black x 9, White x 10, Black x 8, White x 3, Black x 4, White x 3, Black x 2, White x 3, Black x 1, White x 3, Black x 2, White x 2, Black x 5, Light Gray x 1, Black x 7, Dark Gray x 1, Light Gray x 1, Dark Gray x 3",
+    "totalBlocks": 74,
+    "turnText": "Decrease"
+  },
+{
+    "number": 202,
+    "instructions": "Gray x 9, Dark Gray x 1, Black x 2, Gray x 1, Black x 5, White x 2, Black x 2, White x 2, Black x 2, White x 3, Black x 2, White x 3, Black x 3, White x 3, Black x 9, White x 9, Black x 7, White x 4, Black x 4",
+    "totalBlocks": 73,
+    "turnText": "Decrease"
+  },
+{
+    "number": 203,
+    "instructions": "Black x 3, White x 6, Black x 7, White x 7, Black x 2, White x 2, Black x 6, White x 2, Black x 3, White x 2, Black x 3, White x 3, Black x 2, White x 2, Black x 3, White x 1, Black x 5, Gray x 1, Black x 1, Dark Gray x 1, Gray x 3, Light Gray x 3, Gray x 4",
+    "totalBlocks": 72,
+    "turnText": "Decrease"
+  },
+{
+    "number": 204,
+    "instructions": "Gray x 1, Light Gray x 1, White x 6, Gray x 3, Black x 1, Gray x 1, Black x 5, White, Black x 3, White x 2, Black x 2, White x 3, Black x 4, White x 1, Black x 2, White x 2, Black x 5, White x 4, Black x 2, White x 6, Black x 6, White x 5, Black x 5",
+    "totalBlocks": 71,
+    "turnText": "Decrease"
+  },
+{
+    "number": 205,
+    "instructions": "Black x 5, White x 6, Black x 6, White x 3, Black x 3, White x 5, Black x 5, White x 1, Black x 2, White x 1, Black x 4, White x 3, Black x 2, White x 2, Black x 3, White x 1, Black x 5, Gray x 1, Dark Gray x 1, Gray x 2, White x 6, Light Gray x 3",
+    "totalBlocks": 70,
+    "turnText": "Decrease"
+  },
+{
+    "number": 206,
+    "instructions": "Dark Gray x 3, Gray, Light Gray x 1, White x 4, Light Gray x 1, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 9, White x 2, Black x 2, White x 3, Black x 6, White x 2, Black x 4, White x 6, Black x 4, White, Black x 3, White x 9, Black x 5",
+    "totalBlocks": 69,
+    "turnText": "Decrease"
+  },
+{
+    "number": 207,
+    "instructions": "Black x 6, White x 8, Black x 7, White x 7, Black x 3, White x 2, Black x 6, White x 3, Black x 2, White x 2, Black x 10, Gray x 2, Light Gray x 1, White x 4, Gray x 1, Light Gray x 2, Gray x 2",
+    "totalBlocks": 68,
+    "turnText": "Decrease"
+  },
+{
+    "number": 208,
+    "instructions": "White x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 2, White x 3, Light Gray x 1, Gray x 2, Black x 9, White x 3, Black x 2, White x 3, Black x 6, White x 1, Black x 3, White x 8, Black x 5, White x 9, Black x 6",
+    "totalBlocks": 67,
+    "turnText": "Decrease"
+  },
+{
+    "number": 209,
+    "instructions": "Black x 6, White x 10, Black x 2, White x 9, Black x 3, White x 2, Black x 5, White x 3, Black x 2, White x 3, Black x 9, Gray x 2, White x 3, Light Gray x 1, Gray x 1, Light Gray x 1, White x 4",
+    "totalBlocks": 66,
+    "turnText": "Decrease"
+  },
+{
+    "number": 210,
+    "instructions": "Light Gray x 2, White x 3, Light Gray x 2, White x 3, Gray x 1, Dark Gray x 1, Black x 9, White x 3, Black x 2, White x 3, Black x 5, White x 2, Black x 2, White x 19, Black x 7, White x 1",
+    "totalBlocks": 65,
+    "turnText": "Decrease"
+  },
+{
+    "number": 211,
+    "instructions": "White x 1, Black x 7, White x 18, Black x 2, White x 3, Black x 3, White x 4, Black x 2, White x 3, Black x 9, Dark Gray x 1, Gray x 1, White x 3, Light Gray x 1, White x 3, Gray x 2, Black x 1",
+    "totalBlocks": 64,
+    "turnText": "Decrease"
+  },
+{
+    "number": 212,
+    "instructions": "Black x 3, Gray x 1, Light Gray x 1, White x 1, Light Gray x 1, White x 3, Gray x 2, Black x 9, White x 3, Black x 2, White x 4, Black x 3, White x 3, Black x 1, White x 16, Black x 9, White x 1",
+    "totalBlocks": 63,
+    "turnText": "Decrease"
+  },
+{
+    "number": 213,
+    "instructions": "White x 2, Black x 8, White x 15, Black x 1, White x 3, Black x 3, White x 9, Black x 9, Gray x 2, White x 5, Dark Gray x 1, Black x 1, Dark Gray x 1, Gray x 2",
+    "totalBlocks": 62,
+    "turnText": "Decrease"
+  },
+{
+    "number": 214,
+    "instructions": "White x 2, Light Gray x 1, Gray x 1, Dark Gray x 2, White x 4, Gray x 2, Black x 10, White x 8, Black x 4, White x 16, Black x 9, White x 2",
+    "totalBlocks": 61,
+    "turnText": "Decrease"
+  },
+{
+    "number": 215,
+    "instructions": "White x 2, Black x 10, White x 14, Black x 4, White x 8, Black x 10, Dark Gray x 1, Gray x 1, White x 3, Light Gray x 1, Dark Gray x 1, Light Gray x 2, Gray x 2, Light Gray x 1",
+    "totalBlocks": 60,
+    "turnText": "Decrease"
+  },
+{
+    "number": 216,
+    "instructions": "Black x 7, Light Gray x 1, White x 2, Gray x 1, Dark Gray x 1, Black x 12, White x 6, Black x 4, White x 13, Black x 10, White x 2 ",
+    "totalBlocks": 59,
+    "turnText": "Decrease"
+  },
+{
+    "number": 217,
+    "instructions": "White x 2, Black x 11, White x 11, Black x 4, White x 5, Black x 13, Gray x 2, Light Gray x 2, Black x 6, Gray x 2",
+    "totalBlocks": 58,
+    "turnText": "Decrease"
+  },
+{
+    "number": 218,
+    "instructions": "Light Gray x 1, Gray x 4, Light Gray x 1, Black x 3, Dark Gray x 1, Gray x 2, Dark Gray, Black x 14, White x 3, Black x 5, White x 9, Black x 11, White x 2",
+    "totalBlocks": 57,
+    "turnText": "Decrease"
+  },
+{
+    "number": 219,
+    "instructions": "White x 2, Black x 10, White x 8, Black x 23, Dark Gray x 1, Gray x 1, Dark Gray x 3, Black x 1, Gray x 4, Light Gray x 1, White x 2",
+    "totalBlocks": 56,
+    "turnText": "Decrease"
+  },
+{
+    "number": 220,
+    "instructions": "White x 4, Light Gray x 1, Gray x 4, Dark Gray x 1, Light Gray x 2, Dark Gray x 1, Black x 23, White x 7, Black x 9, White x 3",
+    "totalBlocks": 55,
+    "turnText": "Decrease"
+  },
+{
+    "number": 221,
+    "instructions": "White x 4, Black x 7, White x 8, Black x 22, Dark Gray x 1, Light Gray x 4, Gray x 2, Light Gray x 1, White x 5",
+    "totalBlocks": 54,
+    "turnText": "Decrease"
+  },
+{
+    "number": 222,
+    "instructions": "White x 6, Light Gray x 1, Gray x 2, Light Gray x 3, Dark Gray x 1, Black x 16, White x 2, Black, White x 11, Black x 4, White x 6",
+    "totalBlocks": 53,
+    "turnText": "Decrease"
+  },
+{
+    "number": 223,
+    "instructions": "White x 27, Black x 6, White x 3, Black x 3, Dark Gray x 1, Light Gray x 3, Gray x 1, White x 5, Light Gray x 2, Gray x 1",
+    "totalBlocks": 52,
+    "turnText": "Decrease"
+  },
+{
+    "number": 224,
+    "instructions": "Gray x 4, Light Gray x 1, White x 4, Gray x 1, Light Gray x 3, Black x 3, White x 3, Black x 1, White x 1, Black x 3, White x 8, Black x 3, White x 1, Black x 2, White x 13",
+    "totalBlocks": 51,
+    "turnText": "Decrease"
+  },
+{
+    "number": 225,
+    "instructions": "Black x 2, White x 9, Black x 12, White x 11, Black x 3, Dark Gray x 1, Light Gray x 3, White x 3, Gray x 6",
+    "totalBlocks": 50,
+    "turnText": "Decrease"
+  },
+{
+    "number": 226,
+    "instructions": "Black x 1, Gray x 1, Dark Gray x 1, Gray x 1, Light Gray x 1, Gray x 2, Light Gray x 3, Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 3, White x 8, Black x 17, White x 5, Black x 3",
+    "totalBlocks": 49,
+    "turnText": "Decrease"
+  },
+{
+    "number": 227,
+    "instructions": "Black x 28, White x 4, Black x 3, Dark Gray x 1, Light Gray x 1, Gray x 3, Light Gray x 2, Dark Gray x 2, Black x 1, Dark Gray x 1, Gray x 1, Light Gray x 1",
+    "totalBlocks": 48,
+    "turnText": "Decrease"
+  },
+{
+    "number": 228,
+    "instructions": "White x 4, Light Gray x 2, Gray x 2, Light Gray x 4, Black x 5, White x 1, Black x 29",
+    "totalBlocks": 47,
+    "turnText": "Decrease"
+  },
+{
+    "number": 229,
+    "instructions": "Black x 17, Gray x 2, Black x 15, Light Gray x 3, Gray x 1, Light Gray x 1, White x 7 ",
+    "totalBlocks": 46,
+    "turnText": "Decrease"
+  },
+{
+    "number": 230,
+    "instructions": "White x 8, Light Gray x 1, Gray x 1, Light Gray x 2, Black x 13, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 14, Dark Gray x 1",
+    "totalBlocks": 45,
+    "turnText": "Decrease"
+  },
+{
+    "number": 231,
+    "instructions": "Light Gray x 1, Black x 12, Dark Gray x 1, Gray x 1, Light Gray x 4, Gray x 1, Dark Gray x 1, Black x 11, Dark Gray x 1, Light Gray x 1, Gray x 1, White x 4, Light Gray x 1, Gray x 3, Light Gray x 1",
+    "totalBlocks": 44,
+    "turnText": "Decrease"
+  },
+{
+    "number": 232,
+    "instructions": "Gray x 1, Light Gray x 3, Gray x 2, White x 3, Light Gray x 2, Black x 10, Gray x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Light Gray x 4, Gray x 1, Black x 12, White x 1",
+    "totalBlocks": 43,
+    "turnText": "Decrease"
+  },
+{
+    "number": 233,
+    "instructions": " White x 1, Dark Gray x 1, Black x 10, Dark Gray x 1, Light Gray x 7, Gray x 1, Light Gray x 1, Black x 9, Light Gray x 4, Gray, Light Gray x 1, Gray x 2, Light Gray x 1, White x 2",
+    "totalBlocks": 42,
+    "turnText": "Decrease"
+  },
+{
+    "number": 234,
+    "instructions": " White x 4, Light Gray x 1, Gray x 3, Light Gray x 2, Dark Gray x 1, Black x 8, Gray x 1, Light Gray x 2, White x 1, Light Gray x 6, Dark Gray x 7, Black x 3, Dark Gray x 1, White x 1",
+    "totalBlocks": 41,
+    "turnText": "Decrease"
+  },
+{
+    "number": 235,
+    "instructions": "White x 1, Dark Gray x 10, Light Gray x 5, Dark Gray x 2, Light Gray x 2, Dark Gray x 2, Black x 4, Dark Gray x 3, Light Gray x 3, Gray x 2, White x 4, Light Gray x 1, Gray x 1",
+    "totalBlocks": 40,
+    "turnText": "Decrease"
+  },
+{
+    "number": 236,
+    "instructions": "Black x 3, Light Gray x 1, White x 3, Light Gray x 1, Gray x 2, Light Gray x 1, Gray x 3, Light Gray x 1, Black x 4, White x 1, Light Gray x 1, Gray x 2, White x 3, Light Gray x 3, Dark Gray x 9, White x 1 ",
+    "totalBlocks": 39,
+    "turnText": "Decrease"
+  },
+{
+    "number": 237,
+    "instructions": "Light Gray x 1, Dark Gray x 7, Gray x 4, White x 6, Gray x 3, Black x 3, Light Gray x 2, Gray x 1, Light Gray x 3, White x 3, Black x 5",
+    "totalBlocks": 38,
+    "turnText": "Decrease"
+  },
+{
+    "number": 238,
+    "instructions": "Black x 6, Gray x 1, Light Gray x 2, Gray x 1, Light Gray x 1, White x 1, Gray x 1, Black x 3, Gray x 1, Dark Gray x 1, Gray x 1, White x 6, Light Gray x 5, Gray x 1, Dark Gray x 6",
+    "totalBlocks": 37,
+    "turnText": "Decrease"
+  },
+{
+    "number": 239,
+    "instructions": "Dark Gray x 5, Light Gray x 6, White x 7, Light Gray x 1, Dark Gray x 1, Black x 4, Gray x 1, White x 1, Light Gray x 1, Gray x 1, Black x 8",
+    "totalBlocks": 36,
+    "turnText": "Decrease"
+  },
+{
+    "number": 240,
+    "instructions": "Gray x 1, Black x 6, Gray x 1, White x 1, Gray x 1, Black x 5, Dark Gray x 1, Light Gray x 1, Gray x 1, White x 5, Light Gray x 8, Dark Gray x 1, Gray, Dark Gray x 2 ",
+    "totalBlocks": 35,
+    "turnText": "Decrease"
+  },
+{
+    "number": 241,
+    "instructions": "Dark Gray x 1, Gray x 1, Light Gray x 7, White x 1, Light Gray x 1, Gray x 2, Light Gray x 1, White x 3, Dark Gray x 1, Light Gray x 1, Dark Gray x 1, Black x 6, White x 3, Light Gray x 3, White x 2 ",
+    "totalBlocks": 34,
+    "turnText": "Decrease"
+  },
+{
+    "number": 242,
+    "instructions": "White x 5, Gray x 1, Black x 7, Dark Gray x 1, Gray x 1, Dark Gray x 1, White x 2, Gray x 1, Dark Gray x 2, Gray x 1, White x 6, Light Gray x 3, White x 1, Dark Gray x 1",
+    "totalBlocks": 33,
+    "turnText": "Decrease"
+  },
+{
+    "number": 243,
+    "instructions": "Light Gray x 1, White x 1, Light Gray x 2, Gray x 1, White x 6, Light Gray x 2, Dark Gray x 1, Black x 1, Light Gray x 1, White x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Black x 9, Dark Gray x 1, White x 2",
+    "totalBlocks": 32,
+    "turnText": "Decrease"
+  },
+{
+    "number": 244,
+    "instructions": "White x 1, Black x 11, Dark Gray x 1, Gray x 1, White x 1, Gray x 1, Dark Gray x 1, Gray x 1, Light Gray x 2, White x 6, Gray x 1, Light Gray x 2, White x 2",
+    "totalBlocks": 31,
+    "turnText": "Decrease"
+  },
+{
+    "number": 245,
+    "instructions": "Light Gray x 2, Gray x 2, Dark Gray x 1, Light Gray x 1, White x 5, Gray x 4, Dark Gray x 1, White x 1, Gray x 1, Black x 11, Gray x 1",
+    "totalBlocks": 30,
+    "turnText": "Decrease"
+  },
+{
+    "number": 246,
+    "instructions": "Black x 11, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, Dark Gray x 1, Black x 3, Gray x 1, White x 1, Light Gray x 1, Dark Gray x 1, Gray x 3, Light Gray x 2",
+    "totalBlocks": 29,
+    "turnText": "Decrease"
+  },
+{
+    "number": 247,
+    "instructions": "Gray x 1, Dark Gray x 1, Black x 11, Dark Gray x 2, Black x 1, Light Gray x 1, Gray x 1, Black x 6, Light Gray x 1, Gray x 1, Black x 2",
+    "totalBlocks": 28,
+    "turnText": "Decrease"
+  },
+{
+    "number": 248,
+    "instructions": "Gray x 1, Light Gray x 1, White x 2, Gray x 1, Black x 4, Light Gray x 2, Black x 1, Dark Gray x 1, Gray x 1, Black x 11, Dark Gray x 1, Light Gray x 1",
+    "totalBlocks": 27,
+    "turnText": "Decrease"
+  },
+{
+    "number": 249,
+    "instructions": "Black x 11, Light Gray x 1, Dark Gray x 1, Black x 3, Light Gray x 1, Black x 4, Dark Gray x 1, White x 4",
+    "totalBlocks": 26,
+    "turnText": "Decrease"
+  },
+{
+    "number": 250,
+    "instructions": "White x 4, Light Gray x 1, Black x 3, Light Gray x 1, Black x 3, Gray x 1, Light Gray x 1, Black x 11",
+    "totalBlocks": 25,
+    "turnText": "Decrease"
+  },
+{
+    "number": 251,
+    "instructions": "Black x 10, Gray x 1, Light Gray x 1, Gray x 1, Black x 3, Dark Gray x 1, Black x 2, Light Gray x 1, White x 4 ",
+    "totalBlocks": 24,
+    "turnText": "Decrease"
+  },
+{
+    "number": 252,
+    "instructions": "White x 4, Dark Gray x 1, Black x 5, Gray x 4, Dark Gray x 1, Black x 8",
+    "totalBlocks": 23,
+    "turnText": "Decrease"
+  },
+{
+    "number": 253,
+    "instructions": "Black x 9, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Black x 4, Gray x 1, White x 4 ",
+    "totalBlocks": 22,
+    "turnText": "Decrease"
+  },
+{
+    "number": 254,
+    "instructions": "White x 4, Black x 4, Dark Gray x 1, Light Gray x 3, Dark Gray x 1, Black x 8",
+    "totalBlocks": 21,
+    "turnText": "Decrease"
+  },
+{
+    "number": 255,
+    "instructions": "Black x 8, Gray x 2, Light Gray x 2, Gray x 1, Black x 3, White x 4 ",
+    "totalBlocks": 20,
+    "turnText": "Decrease"
+  },
+{
+    "number": 256,
+    "instructions": "White x 4, Black x 3, Dark Gray x 2, Light Gray x 1, Gray x 1, Black x 8  ",
+    "totalBlocks": 19,
+    "turnText": "Decrease"
+  },
+{
+    "number": 257,
+    "instructions": "Black x 7, Dark Gray x 1, Light Gray x 2, Black x 4, Light Gray x 1, White x 3 ",
+    "totalBlocks": 18,
+    "turnText": "Decrease"
+  },
+{
+    "number": 258,
+    "instructions": "White x 3, Black x 4, Light Gray x 2, Dark Gray x 1, Black x 7",
+    "totalBlocks": 17,
+    "turnText": "Decrease"
+  },
+{
+    "number": 259,
+    "instructions": "Black x 6, Dark Gray x 1, Black x 1, Light Gray x 1, Dark Gray x 1, Black x 3, White x 3",
+    "totalBlocks": 16,
+    "turnText": "Decrease"
+  },
+{
+    "number": 260,
+    "instructions": "White x 2, Gray x 1, Black x 3, Light Gray x 1, Black x 8",
+    "totalBlocks": 15,
+    "turnText": "Decrease"
+  },
+{
+    "number": 261,
+    "instructions": "Black x 1, Dark Gray x 1, Gray x 2, Black x 4, Light Gray x 1, Black x 3, White x 2",
+    "totalBlocks": 14,
+    "turnText": "Decrease"
+  },
+{
+    "number": 262,
+    "instructions": "White x 2, Black x 2, Gray x 1, Black x 3, Dark Gray x 1, Light Gray x 2, Dark Gray x 1, Black x 1",
+    "totalBlocks": 13,
+    "turnText": "Decrease"
+  },
+{
+    "number": 263,
+    "instructions": "Gray x 1, Light Gray x 1, Gray x 1, White x 1, Gray x 1, Black x 3, Dark Gray x 1, Black x 2, White x 1",
+    "totalBlocks": 12,
+    "turnText": "Decrease"
+  },
+{
+    "number": 264,
+    "instructions": "White x 1, Black x 4, Dark Gray x 1, Light Gray x 1, White x 1, Gray x 1, Light Gray x 1, Dark Gray x 1",
+    "totalBlocks": 11,
+    "turnText": "Decrease"
+  },
+{
+    "number": 265,
+    "instructions": "Dark Gray x 1, Light Gray x 1, Gray x 1, White x 2, Gray x 1, Black x 3, Gray x 1",
+    "totalBlocks": 10,
+    "turnText": "Decrease"
+  },
+{
+    "number": 266,
+    "instructions": " Black x 3, Light Gray x 1, White x 2, Gray x 1, Light Gray x 1, Dark Gray x 1",
+    "totalBlocks": 9,
+    "turnText": "Decrease"
+  },
+{
+    "number": 267,
+    "instructions": "Dark Gray x 1, Gray x 1, White x 3, Black x 3",
+    "totalBlocks": 8,
+    "turnText": "Decrease"
+  },
+{
+    "number": 268,
+    "instructions": "Black x 3, White x 3, Dark Gray x 1",
+    "totalBlocks": 7,
+    "turnText": "Decrease"
+  },
+{
+    "number": 269,
+    "instructions": "Light Gray x 1, White x 2, Gray x 1, Black x 2 ",
+    "totalBlocks": 6,
+    "turnText": "Decrease"
+  },
+{
+    "number": 270,
+    "instructions": "Black x 2, White x 3",
+    "totalBlocks": 5,
+    "turnText": "Decrease"
+  },
+{
+    "number": 271,
+    "instructions": "White x 2, Black x 2 ",
+    "totalBlocks": 4,
+    "turnText": "Decrease"
+  },
+{
+    "number": 272,
+    "instructions": "Black x 1, Gray x 1, White x 1",
+    "totalBlocks": 3,
+    "turnText": "Decrease"
+  },
+{
+    "number": 273,
+    "instructions": "White x 1, Black x 1",
+    "totalBlocks": 2,
+    "turnText": "Decrease"
+  },
+{
+    "number": 274,
+    "instructions": "Black x 1",
+    "totalBlocks": 1,
+    "turnText": "Decrease"
+  },
+]
