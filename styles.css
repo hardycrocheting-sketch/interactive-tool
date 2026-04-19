@@ -559,18 +559,7 @@ body.modal-open {
 }
 
 .graph-highlight.c2c-highlight {
-  border: none;
-  border-radius: 0;
-  box-shadow: none;
-  background:
-    linear-gradient(
-      to top right,
-      transparent var(--graph-band-start),
-      rgba(184, 92, 56, 0.16) var(--graph-band-start),
-      rgba(184, 92, 56, 0.32) calc((var(--graph-band-start) + var(--graph-band-end)) / 2),
-      rgba(184, 92, 56, 0.16) var(--graph-band-end),
-      transparent var(--graph-band-end)
-    );
+  pointer-events: none;
 }
 
 @media (max-width: 640px) {
