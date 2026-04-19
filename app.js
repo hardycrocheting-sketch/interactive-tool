@@ -740,29 +740,84 @@ function updateGraphHighlight() {
   graphHighlight.style.height = `${imageHeight}px`;
 
   if (getPatternType() === "c2c") {
-    const bandThicknessPercent = Math.max(1.2, 140 / totalSteps);
-    const bandCenterPercent =
-      totalSteps <= 1 ? 0 : (currentStep / (totalSteps - 1)) * 100;
-    const bandStart = Math.max(0, bandCenterPercent - bandThicknessPercent / 2);
-    const bandEnd = Math.min(100, bandCenterPercent + bandThicknessPercent / 2);
+    const diagonalPosition =
+      totalSteps <= 1 ? imageWidth + imageHeight : (1 - currentStep / (totalSteps - 1)) * (imageWidth + imageHeight);
+
+    const intersections = [];
+
+    const leftY = diagonalPosition;
+    if (leftY >= 0 && leftY <= imageHeight) {
+      intersections.push({ x: 0, y: leftY });
+    }
+
+    const topX = diagonalPosition;
+    if (topX >= 0 && topX <= imageWidth) {
+      intersections.push({ x: topX, y: 0 });
+    }
+
+    const rightY = diagonalPosition - imageWidth;
+    if (rightY >= 0 && rightY <= imageHeight) {
+      intersections.push({ x: imageWidth, y: rightY });
+    }
+
+    const bottomX = diagonalPosition - imageHeight;
+    if (bottomX >= 0 && bottomX <= imageWidth) {
+      intersections.push({ x: bottomX, y: imageHeight });
+    }
+
+    const uniquePoints = intersections.filter(
+      (point, index, points) =>
+        points.findIndex(
+          (candidate) =>
+            Math.abs(candidate.x - point.x) < 0.5 &&
+            Math.abs(candidate.y - point.y) < 0.5
+        ) === index
+    );
+
+    if (uniquePoints.length < 2) {
+      graphHighlight.style.display = "none";
+      return;
+    }
+
+    const [startPoint, endPoint] = uniquePoints;
+    const bandThickness = Math.max(
+      10,
+      Math.min(24, ((imageWidth + imageHeight) / 2) / totalSteps * 1.75)
+    );
 
     graphHighlight.classList.add("c2c-highlight");
     graphHighlight.style.border = "none";
     graphHighlight.style.boxShadow = "none";
     graphHighlight.style.borderRadius = "0";
-    graphHighlight.style.background = `linear-gradient(
-      to top left,
-      transparent ${bandStart}%,
-      rgba(184, 92, 56, 0.18) ${bandStart}%,
-      rgba(184, 92, 56, 0.42) ${(bandStart + bandEnd) / 2}%,
-      rgba(184, 92, 56, 0.18) ${bandEnd}%,
-      transparent ${bandEnd}%
-    )`;
+    graphHighlight.style.background = "transparent";
+    graphHighlight.innerHTML = `
+      <svg viewBox="0 0 ${imageWidth} ${imageHeight}" preserveAspectRatio="none" aria-hidden="true">
+        <line
+          x1="${startPoint.x}"
+          y1="${startPoint.y}"
+          x2="${endPoint.x}"
+          y2="${endPoint.y}"
+          stroke="rgba(184, 92, 56, 0.22)"
+          stroke-width="${bandThickness}"
+          stroke-linecap="round"
+        />
+        <line
+          x1="${startPoint.x}"
+          y1="${startPoint.y}"
+          x2="${endPoint.x}"
+          y2="${endPoint.y}"
+          stroke="rgba(184, 92, 56, 0.9)"
+          stroke-width="${Math.max(3, bandThickness * 0.22)}"
+          stroke-linecap="round"
+        />
+      </svg>
+    `;
   } else {
     const stepHeight = imageHeight / totalSteps;
     const highlightTop = imageTop + imageHeight - stepHeight * (currentStep + 1);
 
     graphHighlight.classList.remove("c2c-highlight");
+    graphHighlight.innerHTML = "";
     graphHighlight.style.background = "rgba(184, 92, 56, 0.16)";
     graphHighlight.style.border = "2px solid rgba(184, 92, 56, 0.95)";
     graphHighlight.style.boxShadow =
