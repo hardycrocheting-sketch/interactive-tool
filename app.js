@@ -1,4 +1,4 @@
- let mode = "guided";
+let mode = "guided";
 let currentStep = 0;
 let stitchMode = "SC";
 let pattern = null;
@@ -8,8 +8,8 @@ const urlParams = new URLSearchParams(window.location.search);
 const requestedPatternSlug = urlParams.get("pattern");
 const requestedVariantKey = urlParams.get("size") || urlParams.get("variant");
 
-// Replace this with your published Google Sheets CSV link.
-const SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRpfPIFjsakzp0tnbnLfPcppDohelOIeX1Mu0CNIBrJtybPP7ZQ2zRtm0nBzzfdkMv8qEBa5ur13LFZ/pub?gid=0&single=true&output=csv";
+const SHEET_CSV_URL =
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vRpfPIFjsakzp0tnbnLfPcppDohelOIeX1Mu0CNIBrJtybPP7ZQ2zRtm0nBzzfdkMv8qEBa5ur13LFZ/pub?gid=0&single=true&output=csv";
 
 let completedSteps = [];
 
@@ -116,7 +116,8 @@ function getActivePatternData() {
     steps: variant?.steps || variant?.rows || pattern.steps || pattern.rows || [],
     graphImageUrl: variant?.graphImageUrl || pattern.graphImageUrl || "",
     graphImageAlt: variant?.graphImageAlt || pattern.graphImageAlt || "",
-    approxSize: variant?.approxSize || pattern.approxSize || pattern.sheetApproxSize || "",
+    approxSize:
+      variant?.approxSize || pattern.approxSize || pattern.sheetApproxSize || "",
     totalLabel: variant?.totalLabel || pattern.totalLabel || "",
     directionLabel: variant?.directionLabel || pattern.directionLabel || "",
     visualLabel: variant?.visualLabel || pattern.visualLabel || "",
@@ -232,14 +233,14 @@ function parseInstructionBlocks(instructions) {
     .map((part) => part.trim())
     .map((part) => {
       const cleaned = part.replace(/[()]/g, "").trim();
-      const match = cleaned.match(/^([A-Za-z]+)\s+x\s+(\d+)$/i);
+      const match = cleaned.match(/^([A-Za-z ]+)\s+x\s+(\d+)$/i);
 
       if (!match) {
         return null;
       }
 
       return {
-        colorName: match[1],
+        colorName: match[1].trim(),
         count: Number(match[2])
       };
     })
@@ -376,7 +377,7 @@ function syncVariantSelect() {
 
   variantSelectLabel.hidden = false;
   variantSelect.hidden = false;
-  variantSelectLabel.textContent = pattern.variantLabel || "Size:";
+  variantSelectLabel.textContent = "Size:";
 
   variantSelect.innerHTML = "";
   variantKeys.forEach((key) => {
@@ -580,4 +581,297 @@ function renderCurrentRow() {
   const total = document.getElementById("currentRowTotal");
   const direction = document.getElementById("currentRowDirection");
   const chartContainer = document.getElementById("currentRowChart");
-  const badge
+  const badge = document.getElementById("currentRowBadge");
+  const stitchSummary = document.getElementById("currentRowStitchSummary");
+  const chartLabels = document.querySelectorAll(".chart-label strong");
+
+  if (
+    !step ||
+    !title ||
+    !instructions ||
+    !total ||
+    !direction ||
+    !chartContainer ||
+    !badge ||
+    !stitchSummary
+  ) {
+    return;
+  }
+
+  const isCompleted = completedSteps.includes(currentStep);
+  const blocks = getStepVisualBlocks(step);
+
+  title.textContent = getStepTitle(step, currentStep);
+  instructions.innerHTML = `<strong>Instructions:</strong> ${step.instructions || "No instructions added yet."}`;
+  total.innerHTML = `<strong>${getTotalLabel()}:</strong> ${getStepTotalValue(step)}`;
+  direction.innerHTML = `<strong>${getDirectionLabel()}:</strong> ${getTurnText(step)}`;
+
+  badge.textContent = isCompleted ? "Completed" : "In Progress";
+  badge.className = isCompleted ? "current-row-badge completed" : "current-row-badge";
+
+  stitchSummary.textContent = getVisualSummary(blocks.length);
+
+  chartLabels.forEach((label) => {
+    label.textContent = `${getVisualLabel()}:`;
+  });
+
+  chartContainer.innerHTML = "";
+  chartContainer.appendChild(createChart(step));
+}
+
+function goToStep(stepIndex) {
+  currentStep = stepIndex;
+  mode = "guided";
+  render();
+}
+
+function renderPatternList() {
+  const container = document.getElementById("pattern");
+  const patternSection = document.querySelector(".pattern-section");
+  const patternSteps = getPatternSteps();
+
+  if (!container || !patternSection) {
+    return;
+  }
+
+  if (mode === "guided") {
+    patternSection.style.display = "none";
+    container.innerHTML = "";
+    return;
+  }
+
+  patternSection.style.display = "block";
+  container.innerHTML = "";
+
+  patternSteps.forEach((step, index) => {
+    const div = document.createElement("div");
+    div.className = "row";
+    div.style.cursor = "pointer";
+    div.onclick = () => goToStep(index);
+
+    if (index === currentStep) {
+      div.classList.add("active");
+    }
+
+    if (completedSteps.includes(index)) {
+      div.classList.add("completed");
+    }
+
+    const title = document.createElement("h3");
+    title.textContent = getStepTitle(step, index);
+
+    const instructions = document.createElement("p");
+    instructions.innerHTML = `<strong>Instructions:</strong> ${step.instructions || "No instructions added yet."}`;
+
+    const total = document.createElement("p");
+    total.innerHTML = `<strong>${getTotalLabel()}:</strong> ${getStepTotalValue(step)}`;
+
+    const direction = document.createElement("p");
+    direction.innerHTML = `<strong>${getDirectionLabel()}:</strong> ${getTurnText(step)}`;
+
+    const chartLabel = document.createElement("div");
+    chartLabel.className = "chart-label";
+    chartLabel.innerHTML = `<strong>${getVisualLabel()}:</strong>`;
+
+    const stitchSummary = document.createElement("p");
+    stitchSummary.className = "stitch-summary";
+    stitchSummary.textContent = getVisualSummary(getStepVisualBlocks(step).length);
+
+    div.appendChild(title);
+    div.appendChild(instructions);
+    div.appendChild(total);
+    div.appendChild(direction);
+    div.appendChild(chartLabel);
+    div.appendChild(stitchSummary);
+    div.appendChild(createChart(step));
+
+    container.appendChild(div);
+  });
+}
+
+function updateGraphHighlight() {
+  const activePattern = getActivePatternData();
+  const graphImage = document.getElementById("graphImage");
+  const graphHighlight = document.getElementById("graphHighlight");
+  const patternSteps = getPatternSteps();
+
+  if (!graphImage || !graphHighlight || !graphImage.complete || !activePattern.graphImageUrl) {
+    if (graphHighlight) {
+      graphHighlight.style.display = "none";
+    }
+    return;
+  }
+
+  const totalSteps = patternSteps.length;
+  const imageHeight = graphImage.clientHeight;
+  const stepHeight = imageHeight / totalSteps;
+  const highlightTop = imageHeight - stepHeight * (currentStep + 1) + stepHeight / 2;
+
+  graphHighlight.style.top = `${highlightTop}px`;
+  graphHighlight.style.height = `${stepHeight}px`;
+  graphHighlight.style.display = "block";
+}
+
+function openGraphModal() {
+  const modal = document.getElementById("graphModal");
+  if (!modal || !getActivePatternData().graphImageUrl) return;
+
+  modal.classList.remove("hidden");
+  modal.setAttribute("aria-hidden", "false");
+  document.body.classList.add("modal-open");
+  updateGraphHighlight();
+}
+
+function closeGraphModal() {
+  const modal = document.getElementById("graphModal");
+  if (!modal) return;
+
+  modal.classList.add("hidden");
+  modal.setAttribute("aria-hidden", "true");
+  document.body.classList.remove("modal-open");
+}
+
+function render() {
+  const progressText = document.getElementById("progressText");
+  const rowSelect = document.getElementById("rowSelect");
+  const completeButtons = document.querySelectorAll(".complete-button");
+  const graphButtons = document.querySelectorAll("[onclick='openGraphModal()']");
+  const patternSteps = getPatternSteps();
+  const isC2c = getPatternType() === "c2c";
+
+  if (!progressText || !rowSelect) {
+    return;
+  }
+
+  rowSelect.value = String(currentStep);
+  syncStitchModeSelect();
+  syncVariantSelect();
+
+  const completedCount = completedSteps.length;
+  progressText.textContent = isC2c
+    ? `${getUnitLabel()} ${currentStep + 1} of ${patternSteps.length} | ${completedCount} completed`
+    : `${getUnitLabel()} ${currentStep + 1} of ${patternSteps.length} | ${completedCount} completed | ${stitchMode}`;
+
+  graphButtons.forEach((button) => {
+    button.hidden = !getActivePatternData().graphImageUrl;
+  });
+
+  completeButtons.forEach((button) => {
+    button.textContent = completedSteps.includes(currentStep)
+      ? `Mark ${getUnitLabel()} Incomplete`
+      : `Mark ${getUnitLabel()} Complete`;
+  });
+
+  renderNotes();
+  renderLegend();
+  renderCurrentRow();
+  renderPatternList();
+  updateGraphHighlight();
+  saveProgress();
+}
+
+function nextRow() {
+  if (currentStep < getPatternSteps().length - 1) {
+    currentStep += 1;
+    render();
+  }
+}
+
+function prevRow() {
+  if (currentStep > 0) {
+    currentStep -= 1;
+    render();
+  }
+}
+
+function setMode(newMode) {
+  mode = newMode;
+  render();
+}
+
+function jumpToRow() {
+  const rowSelect = document.getElementById("rowSelect");
+  currentStep = Number(rowSelect.value);
+  render();
+}
+
+function changeVariant() {
+  const variantSelect = document.getElementById("variantSelect");
+  if (!variantSelect) return;
+
+  currentVariantKey = variantSelect.value;
+  currentStep = 0;
+  completedSteps = [];
+  mode = "guided";
+
+  const nextUrl = new URL(window.location.href);
+  if (currentVariantKey) {
+    nextUrl.searchParams.set("size", currentVariantKey);
+  } else {
+    nextUrl.searchParams.delete("size");
+  }
+  window.history.replaceState({}, "", nextUrl);
+
+  initializePatternContent();
+  loadProgress();
+  populateRowSelect();
+  render();
+}
+
+function changeStitchMode() {
+  const stitchModeSelect = document.getElementById("stitchModeSelect");
+  if (!stitchModeSelect) return;
+
+  stitchMode = stitchModeSelect.value;
+  render();
+}
+
+function toggleCompleteRow() {
+  if (completedSteps.includes(currentStep)) {
+    completedSteps = completedSteps.filter((stepIndex) => stepIndex !== currentStep);
+  } else {
+    completedSteps.push(currentStep);
+    completedSteps.sort((a, b) => a - b);
+  }
+
+  render();
+}
+
+function resetProgress() {
+  currentStep = 0;
+  completedSteps = [];
+  stitchMode = "SC";
+  localStorage.removeItem(getStorageKey());
+  render();
+}
+
+window.addEventListener("resize", updateGraphHighlight);
+window.addEventListener("keydown", (event) => {
+  if (event.key === "Escape") {
+    closeGraphModal();
+  }
+});
+
+async function startApp() {
+  try {
+    pattern = await loadPatternData();
+
+    const variantKeys = Object.keys(pattern.variants || {});
+    const defaultVariantKey = pattern.defaultVariant || variantKeys[0] || "";
+    currentVariantKey = variantKeys.includes(requestedVariantKey)
+      ? requestedVariantKey
+      : defaultVariantKey;
+
+    initializePatternContent();
+    loadProgress();
+    populateRowSelect();
+    renderLegend();
+    render();
+  } catch (error) {
+    console.error(error);
+    document.body.innerHTML =
+      "<main class='page'><p>Sorry, this pattern could not be loaded.</p></main>";
+  }
+}
+
+startApp();
