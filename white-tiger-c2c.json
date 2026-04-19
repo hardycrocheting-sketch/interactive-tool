@@ -1252,7 +1252,7 @@
 {
           "number": 206,
           "instructions": "Gray x 3, Light Gray x 2, Dark Gray x 1, Black x 8, Gray x 1, Light Gray x 1, Dark Gray x 1, Gray x 1, Light Gray x 4, Dark Gray x 1, Black x 12, Dark Gray x 1",
-          "totalBlocks": 36
+          "totalBlocks": 36,
           "turnText": "Decrease"
         },
 {
@@ -1264,7 +1264,7 @@
 {
           "number": 208,
           "instructions": "White x 2, Light Gray x 1, Gray x 2, Light Gray x 1, Gray x 3, Light Gray x 1, Black x 4, Light Gray x 1, White x 1, Light Gray x 6, Black x 11, White x 1",
-          "totalBlocks": 34
+          "totalBlocks": 34,
           "turnText": "Decrease"
         },
 {
@@ -1464,7 +1464,7 @@
           "instructions": "Light Gray x 1",
           "totalBlocks": 1,
           "turnText": "Decrease"
-        },
+        }
       ]
     },
     "king": {
@@ -1473,7 +1473,6 @@
       "graphImageUrl": "graphImages/white-tiger-c2c-king-graph.png",
       "graphImageAlt": "White Tiger C2C Pattern King graph",
       "steps": [
-        [
   {
     "number": 1,
     "instructions": "Black x 1",
@@ -1654,7 +1653,6 @@
     "totalBlocks": 30,
     "turnText": "Increase"
   },
-[
   {
     "number": 31,
     "instructions": "Light Gray x 1, White x 1, Gray x 1, Light Gray x 2, White x 1, Light Gray x 2, White x 1, Light Gray x 3, Black x 1, Light Gray x 1, Black x 4, Dark Gray x 1, Light Gray x 1, Dark Gray x 1, Light Gray x 2, Gray x 1, Light Gray x 2, White x 3, Black x 2",
@@ -1835,7 +1833,6 @@
     "totalBlocks": 60,
     "turnText": "Increase"
   },
-[
   {
     "number": 61,
     "instructions": "Light Gray x 3, Gray x 1, White x 1, Dark Gray x 1, Black x 2, White x 1, Light Gray x 1, Gray x 1, White x 3, Light Gray x 1, White x 2, Dark Gray x 1, White x 1, Black x 1, White x 1, Light Gray x 1, Black x 1, Dark Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1, Gray x 1, White x 1, Light Gray x 1, Gray x 1, Black x 3, White x 2, Black x 2, White x 1, Black x 2, White x 2, Black x 1, White x 1, Black x 1, White x 1, Black x 10, Gray x 1, Light Gray x 1, Gray x 1, Light Gray x 1",
@@ -1868,7 +1865,6 @@
     "totalBlocks": 65,
     "turnText": "Increase"
   },
-[
   {
     "number": 66,
     "instructions": "Black x 1, White x 1, Dark Gray x 1, Light Gray x 5, Dark Gray x 1, Gray x 1, Black x 3, White x 1, Black x 2, White x 1, Black x 1, White x 1, Black x 1, White x 1, Black x 2, White x 1, Black x 3, White x 2, Black x 2, Dark Gray x 1, Gray x 1, Dark Gray x 1, Light Gray x 2, Gray x 1, Black x 5, White x 4, Dark Gray x 1, Gray x 1, White x 2, Gray x 1, Light Gray x 2, Black x 1, Light Gray x 1, Gray x 1, Black x 1, Dark Gray x 1, Gray x 1, White x 1, Gray x 1, Light Gray x 4, Gray x 1",
@@ -2019,7 +2015,6 @@
     "totalBlocks": 90,
     "turnText": "Increase"
   },
-[
   {
     "number": 91,
     "instructions": "Light Gray x 1, Gray x 1, Black x 1, White x 1, Gray x 1, Light Gray x 1, Gray x 2, White x 1, Gray x 3, Light Gray x 1, Black x 6, White x 5, Black x 4, White x 2, Black x 4, White x 9, Black x 2, White x 2, Black x 9, White x 8, Black x 2, White x 1, Black x 1, White x 2, Black x 4, Dark Gray x 3, Gray x 5, Light Gray x 3, White x 3, Light Gray x 1, Gray x 2",
@@ -2140,7 +2135,6 @@
     "totalBlocks": 110,
     "turnText": "Increase"
   },
-[
   {
     "number": 111,
     "instructions": "White x 7, Black x 5, White x 1, Gray x 1, Black x 12, White x 2, Black x 2, White x 8, Black x 5, White x 6, Black x 2, White x 2, Black x 2, White x 7, Black x 2, White x 6, Black x 11, White x 6, Black x 3, White x 3, Black x 1, White x 2, Black x 14, Dark Gray x 1",
@@ -2261,7 +2255,6 @@
     "totalBlocks": 125,
     "turnText": "Decrease"
   },
-[
   {
     "number": 131,
     "instructions": "White x 1, Light Gray x 1, Gray x 1, White x 1, Black x 1, Dark Gray x 1, Black x 2, Dark Gray x 1, Black x 3, Light Gray x 3, White x 2, Light Gray x 1, Gray x 1, Light Gray x 1, Black x 3, White x 1, Black x 1, White x 2, Black x 11, White x 3, Black x 4, White x 37, Black x 3, White x 4, Black x 2, White x 3, Black x 3, White x 2, Black x 1, White x 1, Black x 3, White x 4, Gray x 5, Black x 2, Dark Gray x 2, Light Gray x 3, Gray x 1, Light Gray x 1, Black x 3",
@@ -3125,5 +3118,8 @@
     "instructions": "Black x 1",
     "totalBlocks": 1,
     "turnText": "Decrease"
-  },
-]
+  }
+      ]
+    }
+  }
+}
