@@ -9,7 +9,7 @@ const requestedPatternSlug = urlParams.get("pattern");
 const requestedVariantKey = urlParams.get("size") || urlParams.get("variant");
 
 // Replace this with your published Google Sheets CSV link.
-const SHEET_CSV_URL = "PASTE_YOUR_PUBLISHED_CSV_URL_HERE";
+const SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRpfPIFjsakzp0tnbnLfPcppDohelOIeX1Mu0CNIBrJtybPP7ZQ2zRtm0nBzzfdkMv8qEBa5ur13LFZ/pub?gid=0&single=true&output=csv";
 
 let completedSteps = [];
 
