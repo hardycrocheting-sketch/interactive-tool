@@ -79,16 +79,30 @@ async function loadPatternData() {
   const selectedRow = matchedRow || fallbackRow;
 
   if (!selectedRow?.dataFile) {
-    throw new Error("Pattern data file not found.");
+    throw new Error(
+      `Pattern data file not found. activeRows=${JSON.stringify(activeRows)}`
+    );
   }
 
-  const response = await fetch(selectedRow.dataFile, { cache: "no-store" });
+  const dataFile = String(selectedRow.dataFile).trim();
+  const response = await fetch(dataFile, { cache: "no-store" });
 
   if (!response.ok) {
-    throw new Error("Could not load pattern data.");
+    throw new Error(
+      `Could not load pattern data. dataFile=${dataFile} status=${response.status} url=${response.url}`
+    );
   }
 
-  const data = await response.json();
+  const rawText = await response.text();
+  let data;
+
+  try {
+    data = JSON.parse(rawText);
+  } catch (error) {
+    throw new Error(
+      `Pattern JSON could not be parsed. dataFile=${dataFile} message=${error.message} preview=${rawText.slice(0, 200)}`
+    );
+  }
 
   data.slug = data.slug || selectedRow.slug;
   data.title = data.title || selectedRow.title;
@@ -691,11 +705,18 @@ function renderPatternList() {
 
 function updateGraphHighlight() {
   const activePattern = getActivePatternData();
+  const graphWrapper = document.getElementById("graphWrapper");
   const graphImage = document.getElementById("graphImage");
   const graphHighlight = document.getElementById("graphHighlight");
   const patternSteps = getPatternSteps();
 
-  if (!graphImage || !graphHighlight || !graphImage.complete || !activePattern.graphImageUrl) {
+  if (
+    !graphWrapper ||
+    !graphImage ||
+    !graphHighlight ||
+    !graphImage.complete ||
+    !activePattern.graphImageUrl
+  ) {
     if (graphHighlight) {
       graphHighlight.style.display = "none";
     }
@@ -703,12 +724,42 @@ function updateGraphHighlight() {
   }
 
   const totalSteps = patternSteps.length;
+  const imageWidth = graphImage.clientWidth;
   const imageHeight = graphImage.clientHeight;
-  const stepHeight = imageHeight / totalSteps;
-  const highlightTop = imageHeight - stepHeight * (currentStep + 1) + stepHeight / 2;
+  const imageLeft = graphImage.offsetLeft;
+  const imageTop = graphImage.offsetTop;
 
-  graphHighlight.style.top = `${highlightTop}px`;
-  graphHighlight.style.height = `${stepHeight}px`;
+  if (!totalSteps || !imageWidth || !imageHeight) {
+    graphHighlight.style.display = "none";
+    return;
+  }
+
+  graphHighlight.style.left = `${imageLeft}px`;
+  graphHighlight.style.top = `${imageTop}px`;
+  graphHighlight.style.width = `${imageWidth}px`;
+  graphHighlight.style.height = `${imageHeight}px`;
+
+  if (getPatternType() === "c2c") {
+    const bandThicknessPercent = Math.max(1.2, 140 / totalSteps);
+    const bandCenterPercent =
+      totalSteps <= 1 ? 0 : (currentStep / (totalSteps - 1)) * 100;
+    const bandStart = Math.max(0, bandCenterPercent - bandThicknessPercent / 2);
+    const bandEnd = Math.min(100, bandCenterPercent + bandThicknessPercent / 2);
+
+    graphHighlight.classList.add("c2c-highlight");
+    graphHighlight.style.setProperty("--graph-band-start", `${bandStart}%`);
+    graphHighlight.style.setProperty("--graph-band-end", `${bandEnd}%`);
+  } else {
+    const stepHeight = imageHeight / totalSteps;
+    const highlightTop = imageTop + imageHeight - stepHeight * (currentStep + 1);
+
+    graphHighlight.classList.remove("c2c-highlight");
+    graphHighlight.style.removeProperty("--graph-band-start");
+    graphHighlight.style.removeProperty("--graph-band-end");
+    graphHighlight.style.top = `${highlightTop}px`;
+    graphHighlight.style.height = `${stepHeight}px`;
+  }
+
   graphHighlight.style.display = "block";
 }
 
@@ -870,11 +921,9 @@ async function startApp() {
   } catch (error) {
     console.error(error);
     const message =
-      error && error.message ? error.message : String(error || "Unknown loading error.");
-    const stack =
-      error && error.stack ? error.stack : "No stack available.";
+      error && error.message ? error.message : "Unknown loading error.";
     document.body.innerHTML =
-      `<main class="page"><p>Sorry, this pattern could not be loaded.</p><p>${message}</p><pre style="white-space: pre-wrap; word-break: break-word;">pattern=${requestedPatternSlug || "(none)"}\nvariant=${requestedVariantKey || "(none)"}\nsheet=${SHEET_CSV_URL}\n\n${stack}</pre></main>`;
+      `<main class="page"><p>Sorry, this pattern could not be loaded.</p><p>${message}</p></main>`;
   }
 }
 
