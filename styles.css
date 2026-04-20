@@ -439,6 +439,10 @@ body {
     padding: 18px;
   }
 
+  .hero h1 {
+    font-size: 2rem;
+  }
+
   .current-row-header {
     flex-direction: column;
     align-items: stretch;
@@ -460,11 +464,36 @@ body {
 
   .tools-panel {
     align-items: stretch;
+    gap: 10px;
   }
 
   .hero-actions,
   .current-row-actions {
     flex-direction: column;
+  }
+
+  .current-row-actions {
+    gap: 10px;
+  }
+
+  .current-row-panel .stitch-chart {
+    padding: 12px;
+  }
+
+  .current-row-panel .stitch-cell {
+    flex: 0 0 12px;
+    width: 12px;
+    height: 12px;
+  }
+
+  .c2c-cell {
+    flex: 0 0 18px;
+    width: 18px;
+    height: 18px;
+  }
+
+  .row {
+    padding: 14px;
   }
 }
 body.modal-open {
@@ -475,13 +504,15 @@ body.modal-open {
   display: none;
 }
 
-.graph-modal {
+.graph-modal,
+.confirm-modal {
   position: fixed;
   inset: 0;
   z-index: 1000;
 }
 
-.graph-modal-backdrop {
+.graph-modal-backdrop,
+.confirm-modal-backdrop {
   position: absolute;
   inset: 0;
   background: rgba(30, 24, 21, 0.72);
@@ -569,6 +600,37 @@ body.modal-open {
   overflow: visible;
 }
 
+.confirm-modal.hidden {
+  display: none;
+}
+
+.confirm-modal-content {
+  position: relative;
+  width: min(460px, calc(100% - 32px));
+  margin: min(18vh, 120px) auto 0;
+  padding: 24px;
+  background: #fffaf4;
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.25);
+}
+
+.confirm-modal-content h2 {
+  margin: 0 0 12px;
+}
+
+.confirm-modal-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.confirm-modal-actions .nav-button,
+.confirm-modal-actions .reset-button {
+  flex: 1 1 180px;
+}
+
 @media (max-width: 640px) {
   .graph-modal-content {
     width: calc(100% - 16px);
@@ -584,5 +646,28 @@ body.modal-open {
 
   .graph-close-button {
     width: 100%;
+  }
+
+  .graph-wrapper {
+    padding: 8px;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .graph-image {
+    width: auto;
+    min-width: 720px;
+    max-width: none;
+  }
+
+  .confirm-modal-content {
+    width: calc(100% - 16px);
+    margin: 20px auto 0;
+    padding: 18px;
+    border-radius: 18px;
+  }
+
+  .confirm-modal-actions {
+    flex-direction: column;
   }
 }
