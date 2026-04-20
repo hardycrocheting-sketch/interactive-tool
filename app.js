@@ -849,6 +849,45 @@ function closeGraphModal() {
   document.body.classList.remove("modal-open");
 }
 
+function openResetModal() {
+  const modal = document.getElementById("resetModal");
+  const text = document.getElementById("resetModalText");
+
+  if (!modal) {
+    return;
+  }
+
+  if (text) {
+    text.textContent =
+      `This will clear your completed ${getUnitLabel(true).toLowerCase()} and return you to the beginning.`;
+  }
+
+  modal.classList.remove("hidden");
+  modal.setAttribute("aria-hidden", "false");
+  document.body.classList.add("modal-open");
+}
+
+function closeResetModal() {
+  const modal = document.getElementById("resetModal");
+
+  if (!modal) {
+    return;
+  }
+
+  modal.classList.add("hidden");
+  modal.setAttribute("aria-hidden", "true");
+  document.body.classList.remove("modal-open");
+}
+
+function confirmResetProgress() {
+  closeResetModal();
+  currentStep = 0;
+  completedSteps = [];
+  stitchMode = "SC";
+  localStorage.removeItem(getStorageKey());
+  render();
+}
+
 function render() {
   const progressText = document.getElementById("progressText");
   const rowSelect = document.getElementById("rowSelect");
@@ -956,17 +995,14 @@ function toggleCompleteRow() {
 }
 
 function resetProgress() {
-  currentStep = 0;
-  completedSteps = [];
-  stitchMode = "SC";
-  localStorage.removeItem(getStorageKey());
-  render();
+  openResetModal();
 }
 
 window.addEventListener("resize", updateGraphHighlight);
 window.addEventListener("keydown", (event) => {
   if (event.key === "Escape") {
     closeGraphModal();
+    closeResetModal();
   }
 });
 
