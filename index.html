@@ -148,6 +148,25 @@
     </div>
   </div>
 
+  <div id="resetModal" class="confirm-modal hidden" aria-hidden="true">
+    <div class="confirm-modal-backdrop" onclick="closeResetModal()"></div>
+    <div class="confirm-modal-content">
+      <p class="current-row-label">Reset Progress</p>
+      <h2 id="resetModalTitle">Are you sure?</h2>
+      <p id="resetModalText" class="graph-modal-copy">
+        This will clear your saved progress and return you to the beginning.
+      </p>
+      <div class="confirm-modal-actions">
+        <button type="button" class="nav-button" onclick="closeResetModal()">
+          Cancel
+        </button>
+        <button type="button" class="reset-button" onclick="confirmResetProgress()">
+          Reset Progress
+        </button>
+      </div>
+    </div>
+  </div>
+
   <script src="app.js"></script>
 </body>
 </html>
