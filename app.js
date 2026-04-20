@@ -862,7 +862,7 @@ function openResetModal() {
       `This will clear your completed ${getUnitLabel(true).toLowerCase()} and return you to the beginning.`;
   }
 
-  modal.classList.remove("hidden");
+  modal.hidden = false;
   modal.setAttribute("aria-hidden", "false");
   document.body.classList.add("modal-open");
 }
@@ -874,7 +874,7 @@ function closeResetModal() {
     return;
   }
 
-  modal.classList.add("hidden");
+  modal.hidden = true;
   modal.setAttribute("aria-hidden", "true");
   document.body.classList.remove("modal-open");
 }
