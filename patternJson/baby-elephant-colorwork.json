@@ -13,8 +13,22 @@
     "Light Gray": "#b0b1b5",
     "Pink": "#f7c2d5",
     "White": "#ffffff",
-    "Orange": "#eeaf21"
+    "Yellow": "#eeaf21"
   },
+  "materials": [
+  {
+    "label": "Hook",
+    "detail": "5.0 mm crochet hook"
+  },
+  {
+    "label": "Yarn - based off a 200 rd skein",
+    "detail": "Blue - 1 skein, Black - 1 skein, Gray - 1 skein, Light Gray - 2 skeins, Pink - 1 skein, White - 1 skein, Yellow - 2 skein"
+  },
+  {
+    "label": "Other",
+    "detail": "Tapestry needle, scissors, stitch markers, bobbins"
+  }
+]
   "steps": [
     {
       "number": 1,
