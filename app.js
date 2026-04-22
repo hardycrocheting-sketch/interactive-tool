@@ -164,6 +164,35 @@ function getLegendItems() {
   }));
 }
 
+function getMaterialsItems() {
+  const activePattern = getActivePatternData();
+  const source = activePattern.materials || pattern?.materials || [];
+
+  if (!Array.isArray(source)) {
+    return [];
+  }
+
+  return source
+    .map((item) => {
+      if (typeof item === "string") {
+        return {
+          label: item,
+          detail: ""
+        };
+      }
+
+      if (item && typeof item === "object") {
+        return {
+          label: item.label || item.name || item.item || "",
+          detail: item.detail || item.value || item.notes || ""
+        };
+      }
+
+      return null;
+    })
+    .filter((item) => item && item.label);
+}
+
 function getUnitLabel(plural = false) {
   const activePattern = getActivePatternData();
 
@@ -418,6 +447,9 @@ function initializePatternContent() {
   const graphModalLabel = document.getElementById("graphModalLabel");
   const graphModalTitle = document.getElementById("graphModalTitle");
   const graphModalCopy = document.getElementById("graphModalCopy");
+  const materialsButton = document.getElementById("materialsButton");
+  const materialsModalTitle = document.getElementById("materialsModalTitle");
+  const materialsList = document.getElementById("materialsList");
   const rowSelectLabel = document.getElementById("rowSelectLabel");
   const currentStepLabel = document.getElementById("currentStepLabel");
   const patternSectionTitle = document.getElementById("patternSectionTitle");
@@ -473,6 +505,37 @@ function initializePatternContent() {
 
   if (graphModalCopy) {
     graphModalCopy.textContent = copy.graphModalCopy;
+  }
+
+  const materials = getMaterialsItems();
+
+  if (materialsButton) {
+    materialsButton.hidden = materials.length === 0;
+  }
+
+  if (materialsModalTitle) {
+    materialsModalTitle.textContent = `${activePattern.title} Materials`;
+  }
+
+  if (materialsList) {
+    materialsList.innerHTML = "";
+
+    materials.forEach((item) => {
+      const materialItem = document.createElement("div");
+      materialItem.className = "materials-item";
+
+      const label = document.createElement("strong");
+      label.textContent = item.label;
+      materialItem.appendChild(label);
+
+      if (item.detail) {
+        const detail = document.createElement("span");
+        detail.textContent = item.detail;
+        materialItem.appendChild(detail);
+      }
+
+      materialsList.appendChild(materialItem);
+    });
   }
 
   if (rowSelectLabel) {
@@ -849,6 +912,30 @@ function closeGraphModal() {
   document.body.classList.remove("modal-open");
 }
 
+function openMaterialsModal() {
+  const modal = document.getElementById("materialsModal");
+
+  if (!modal || getMaterialsItems().length === 0) {
+    return;
+  }
+
+  modal.hidden = false;
+  modal.setAttribute("aria-hidden", "false");
+  document.body.classList.add("modal-open");
+}
+
+function closeMaterialsModal() {
+  const modal = document.getElementById("materialsModal");
+
+  if (!modal) {
+    return;
+  }
+
+  modal.hidden = true;
+  modal.setAttribute("aria-hidden", "true");
+  document.body.classList.remove("modal-open");
+}
+
 function openResetModal() {
   const modal = document.getElementById("resetModal");
   const text = document.getElementById("resetModalText");
@@ -1003,6 +1090,7 @@ window.addEventListener("keydown", (event) => {
   if (event.key === "Escape") {
     closeGraphModal();
     closeResetModal();
+    closeMaterialsModal();
   }
 });
 
