@@ -21,18 +21,21 @@
       "steps": [
            {
   "number": 1,
+  "side": "WS",
   "instructions": "Gray x 1",
   "totalBlocks": 1,
   "turnText": "Increase"
 },
 {
   "number": 2,
+  "side": "WS",
   "instructions": "Dark Gray x 1, Black x 1",
   "totalBlocks": 2,
   "turnText": "Increase"
 },
 {
   "number": 3,
+  "side": "WS",
   "instructions": "Black x 1, Dark Gray x 1, Gray x 1",
   "totalBlocks": 3,
   "turnText": "Increase"
