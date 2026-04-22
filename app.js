@@ -7,6 +7,7 @@ let currentVariantKey = "";
 const urlParams = new URLSearchParams(window.location.search);
 const requestedPatternSlug = urlParams.get("pattern");
 const requestedVariantKey = urlParams.get("size") || urlParams.get("variant");
+const requestedReturnUrl = urlParams.get("returnUrl");
 
 const SHEET_CSV_URL =
   "https://docs.google.com/spreadsheets/d/e/2PACX-1vRpfPIFjsakzp0tnbnLfPcppDohelOIeX1Mu0CNIBrJtybPP7ZQ2zRtm0nBzzfdkMv8qEBa5ur13LFZ/pub?gid=0&single=true&output=csv";
@@ -191,6 +192,29 @@ function getMaterialsItems() {
       return null;
     })
     .filter((item) => item && item.label);
+}
+
+function getSafeReturnUrl() {
+  if (!requestedReturnUrl) {
+    return "";
+  }
+
+  try {
+    const parsedUrl = new URL(requestedReturnUrl);
+    const allowedOrigins = [
+      "https://hardycrocheting.wixsite.com",
+      "https://www.hardycraftstudio.com",
+      "https://hardycraftstudio.com"
+    ];
+
+    if (!allowedOrigins.includes(parsedUrl.origin)) {
+      return "";
+    }
+
+    return parsedUrl.toString();
+  } catch (error) {
+    return "";
+  }
 }
 
 function getUnitLabel(plural = false) {
@@ -447,6 +471,7 @@ function initializePatternContent() {
   const graphModalLabel = document.getElementById("graphModalLabel");
   const graphModalTitle = document.getElementById("graphModalTitle");
   const graphModalCopy = document.getElementById("graphModalCopy");
+  const returnButton = document.getElementById("returnButton");
   const materialsButton = document.getElementById("materialsButton");
   const materialsModalTitle = document.getElementById("materialsModalTitle");
   const materialsList = document.getElementById("materialsList");
@@ -505,6 +530,13 @@ function initializePatternContent() {
 
   if (graphModalCopy) {
     graphModalCopy.textContent = copy.graphModalCopy;
+  }
+
+  const safeReturnUrl = getSafeReturnUrl();
+
+  if (returnButton) {
+    returnButton.hidden = !safeReturnUrl;
+    returnButton.href = safeReturnUrl || "#";
   }
 
   const materials = getMaterialsItems();
