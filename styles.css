@@ -632,6 +632,24 @@ body.modal-open {
   flex: 1 1 180px;
 }
 
+.materials-list {
+  display: grid;
+  gap: 10px;
+}
+
+.materials-item {
+  padding: 12px 14px;
+  background: var(--surface-strong);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  line-height: 1.5;
+}
+
+.materials-item strong {
+  display: block;
+  margin-bottom: 4px;
+}
+
 @media (max-width: 640px) {
   .graph-modal-content {
     width: calc(100% - 16px);
@@ -672,10 +690,9 @@ body.modal-open {
   }
 }
 
-.confirm-modal:not([hidden]) {
+.confirm-modal {
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 16px;
 }
-
