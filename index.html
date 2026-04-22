@@ -24,6 +24,15 @@
         <button type="button" class="mode-button" onclick="setMode('full')">
           Full Pattern
         </button>
+        <button
+          type="button"
+          id="materialsButton"
+          class="mode-button"
+          onclick="openMaterialsModal()"
+          hidden
+        >
+          Materials Needed
+        </button>
         <button type="button" class="mode-button" onclick="openGraphModal()">
           Open Full Graph
         </button>
@@ -162,6 +171,20 @@
         </button>
         <button type="button" class="reset-button" onclick="confirmResetProgress()">
           Reset Progress
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div id="materialsModal" class="confirm-modal" hidden aria-hidden="true">
+    <div class="confirm-modal-backdrop" onclick="closeMaterialsModal()"></div>
+    <div class="confirm-modal-content">
+      <p class="current-row-label">Pattern Materials</p>
+      <h2 id="materialsModalTitle">Materials Needed</h2>
+      <div id="materialsList" class="materials-list"></div>
+      <div class="confirm-modal-actions">
+        <button type="button" class="nav-button" onclick="closeMaterialsModal()">
+          Close
         </button>
       </div>
     </div>
