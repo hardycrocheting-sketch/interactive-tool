@@ -16,13 +16,13 @@
     "Yellow": "#eeaf21"
   },
   "materials": [
-  {
+   {
     "label": "Hook",
     "detail": "5.0 mm crochet hook"
   },
   {
     "label": "Yarn - based off a 200 rd skein",
-    "detail": "Blue - 1 skein, Black - 1 skein, Gray - 1 skein, Light Gray - 2 skeins, Pink - 1 skein, White - 1 skein, Yellow - 2 skein"
+   "detail": "Blue - 1 skein, Black - 1 skein, Gray - 1 skein, Light Gray - 2 skeins, Pink - 1 skein, White - 1 skein, Yellow - 2 skeins"
   },
   {
     "label": "Other",
@@ -111,13 +111,13 @@
     {
       "number": 14,
       "side": "WS",
-      "instructions": "Yellow x 40, Black x 7, Yellow x 17, Black x 2, Pink x 4, Black x 4, Yellow x 36, Black x 4, Gray x 4, Black x 3,           Yellow x 29",
+      "instructions": "Yellow x 40, Black x 7, Yellow x 17, Black x 2, Pink x 4, Black x 4, Yellow x 36, Black x 4, Gray x 4, Black x 3, Yellow x 29",
       "totalStitches": 150
     },
      {
       "number": 15,
       "side": "RS",
-      "instructions": "Yellow x 27, Black x 3, Gray x 9, Black x 4, Yellow x 7, Black x 10, Yellow x 15, Black x 2, Pink x 8, Black x 1, Yellow x 13, Black x 5, Gray) x 5, Black x 3, Yellow x 38",
+      "instructions": "Yellow x 27, Black x 3, Gray x 9, Black x 4, Yellow x 7, Black x 10, Yellow x 15, Black x 2, Pink x 8, Black x 1, Yellow x 13, Black x 5, Gray x 5, Black x 3, Yellow x 38",
       "totalStitches": 150
     },
     {
