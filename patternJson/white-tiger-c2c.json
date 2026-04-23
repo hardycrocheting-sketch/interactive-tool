@@ -18,6 +18,20 @@
       "approxSize": "91 x 91 in",
       "graphImageUrl": "graphImages/white-tiger-c2c-queen-graph.png",
       "graphImageAlt": "White Tiger C2C Pattern Queen graph",
+      "materials": [
+        {
+          "label": "Hook",
+          "detail": "5.0 mm crochet hook"
+        },
+        {
+          "label": "Yarn - based on a 200 yrd skein",
+          "detail": "White - 7 skeins, Black - 7 skeins, Light Gray - 2 skeins, Gray - 2 skeins, Dark Gray - 1 skein, Light Blue - 1 skein"
+        },
+        {
+          "label": "Other",
+          "detail": "Tapestry needle, scissors, stitch markers"
+        }
+      ],      
       "steps": [
            {
   "number": 1,
@@ -1475,6 +1489,20 @@
       "approxSize": "113 x 94 in",
       "graphImageUrl": "graphImages/white-tiger-c2c-king-graph.png",
       "graphImageAlt": "White Tiger C2C Pattern King graph",
+      "materials": [
+        {
+          "label": "Hook",
+          "detail": "5.0 mm crochet hook"
+        },
+        {
+          "label": "Yarn - based on a 200 yrd skein",
+          "detail": "White - 8 skeins, Black - 8 skeins, Light Gray - 2 skeins, Gray - 2 skeins, Dark Gray - 1 skein, Light Blue - 1 skein"
+        },
+        {
+          "label": "Other",
+          "detail": "Tapestry needle, scissors, stitch markers"
+        }
+      ],      
       "steps": [
   {
     "number": 1,
