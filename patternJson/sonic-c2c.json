@@ -33,8 +33,7 @@
           "label": "Other",
           "detail": "Tapestry needle, scissors, stitch markers"
         }
-      ]
-    },
+      ],
       "steps": [
   {
     "number": 1,
@@ -1278,7 +1277,7 @@
     "totalBlocks": 1,
     "turnText": "Finish"
   }
-]
+      ]
     },
     "queen": {
       "label": "Queen",
@@ -3356,7 +3355,6 @@
     "totalBlocks": 100,
     "turnText": "Increase"
   },
-[
   {
     "number": 101,
     "instructions": "Green x 5, Black x 1, Blue x 3, Black x 1, Green x 9, Black x 1, Blue x 6, Black x 1, Green x 6, Black x 1, White x 1, Black x 2, White x 2, Black x 1, White x 10, Black x 1, Red x 7, Black x 2, Blue x 5, Black x 2, White x 4, Black x 1, White x 4, Black x 1, White x 3, Black x 1, Red x 11, Black x 1, Gray x 1, Black x 1, Green x 6",
@@ -4377,4 +4375,7 @@
     "totalBlocks": 1,
     "turnText": "Finish"
   }
-]
+      ]
+    }
+  }
+}
