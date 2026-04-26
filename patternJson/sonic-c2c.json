@@ -35,7 +35,6 @@
         }
       ],
       "steps": [
-[
   {
     "number": 1,
     "instructions": "Green x 1",
@@ -1720,7 +1719,6 @@
     "totalBlocks": 70,
     "turnText": "Increase"
   },
-[
   {
     "number": 71,
     "instructions": "Green x 48, Black x 8, Red x 6, Black x 1, Yellow x 2, Black x 1, Yellow x 1, Black x 1, Gray x 2, Black x 1",
@@ -2758,7 +2756,6 @@
         }
       ],
       "steps": [
-[
   {
     "number": 1,
     "instructions": "Green x 1",
