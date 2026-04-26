@@ -33,7 +33,8 @@
           "label": "Other",
           "detail": "Tapestry needle, scissors, stitch markers"
         }
-      ],
+      ]
+    },
       "steps": [
   {
     "number": 1,
@@ -1277,7 +1278,7 @@
     "totalBlocks": 1,
     "turnText": "Finish"
   }
-      ]
+]
     },
     "queen": {
       "label": "Queen",
