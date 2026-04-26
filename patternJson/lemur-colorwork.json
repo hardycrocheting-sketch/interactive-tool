@@ -13,7 +13,7 @@
     "White": "#ffffff",
     "Black": "#2a272e",
     "Light Gray": "#e1ddde",
-    "Light Green: "##a0e87f"
+    "Light Green": "#ace890"
   },
       "materials": [
         {
@@ -757,3 +757,4 @@
   "totalStitches": 120
 }
 ]
+}
