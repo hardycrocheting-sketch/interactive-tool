@@ -1,0 +1,759 @@
+{
+  "slug": "lemur-colorwork",
+  "title": "Lemur Pixel Art Pattern",
+  "patternType": "row",
+  "approxSize": "36 x 36 in",
+  "graphImageUrl": "graphImages/lemur-colorwork-graph.png",
+  "graphImageAlt": "Lemur Pixel Art Pattern graph",
+  "intro": "Follow the pattern row by row online and track your progress as you crochet.",
+  "colors": {
+    "Light Blue": "#bfe4f4",
+    "Blue": "#51bfee",
+    "Dark Blue": "#5193b6",
+    "White": "#ffffff",
+    "Black": "#2a272e",
+    "Light Gray": "#e1ddde",
+    "Light Green: "#ace890"
+  },
+      "materials": [
+        {
+          "label": "Hook",
+          "detail": "5.0 mm crochet hook"
+        },
+        {
+          "label": "Yarn - based on a 200-yard skein",
+          "detail": "Light Blue - 1 skein, Blue - 2 skeins, Dark Blue - 1 skein, White - 2 skeins, Black - 3 skeins, Light Gray - 1 skein, Light Green - 1 skein"
+        },
+        {
+          "label": "Other",
+          "detail": "Tapestry needle, scissors, stitch markers"
+        }
+      ],
+  "steps": [
+{
+  "number": 1,
+  "side": "RS",
+  "instructions": "Blue x 13, Dark Blue x 10, Black x 1, Light Gray x 8, Black x 1, White x 13, Black x 3, White x 4, Light Gray x 16, Black x 2, White x 18, Light Gray x 8, Black x 23",
+  "totalStitches": 120
+},
+{
+  "number": 2,
+  "side": "WS",
+  "instructions": "Black x 24, Light Gray x 7, White x 18, Black x 2, Light Gray x 15, White x 5, Black x 4, White x 12, Black x 1, Light Gray x 8, Black x 1, Dark Blue x 10, Blue x 13",
+  "totalStitches": 120
+},
+{
+  "number": 3,
+  "side": "RS",
+  "instructions": "Blue x 13, Dark Blue x 10, Black x 1, Light Gray x 8, Black x 1, White x 12, Black x 1, White x 2, Black x 1, White x 5, Light Gray x 15, Black x 3, White x 16, Light Gray x 8, Black x 24",
+  "totalStitches": 120
+},
+{
+  "number": 4,
+  "side": "WS",
+  "instructions": "Black x 24, Light Gray x 8, White x 16, Black x 3, Light Gray x 15, White x 5, Black x 1, White x 2, Black x 1, White x 12, Black x 1, Light Gray x 7, Black x 2, Dark Blue x 11, Blue x 12",
+  "totalStitches": 120
+},
+{
+  "number": 5,
+  "side": "RS",
+  "instructions": "Blue x 12, Dark Blue x 12, Black x 1, Light Gray x 7, Black x 1, White x 11, Black x 2, White x 2, Black x 1, White x 6, Light Gray x 14, Black x 4, White x 15, Light Gray x 8, Black x 24",
+  "totalStitches": 120
+},
+{
+  "number": 6,
+  "side": "WS",
+  "instructions": "Black x 25, Light Gray x 8, White x 14, Black x 3, Light Gray x 14, White x 7, Black x 1, White x 3, Black x 1, White x 11, Black x 1, Light Gray x 7, Black x 1, Dark Blue x 13, Blue x 11",
+  "totalStitches": 120
+},
+{
+  "number": 7,
+  "side": "RS",
+  "instructions": "Blue x 11, Dark Blue x 13, Black x 1, Light Gray x 6, Black x 2, White x 11, Black x 1, White x 4, Black x 1, White x 6, Light Gray x 14, Black x 3, White x 13, Light Gray x 9, Black x 25",
+  "totalStitches": 120
+},
+{
+  "number": 8,
+  "side": "WS",
+  "instructions": "Black x 26, Light Gray x 8, White x 12, Black x 3, Light Gray x 15, White x 6, Black x 1, White x 4, Black x 2, White x 10, Black x 2, Light Gray x 6, Black x 1, Dark Blue x 14, Blue x 10",
+  "totalStitches": 120
+},
+{
+  "number": 9,
+  "side": "RS",
+  "instructions": "Blue x 9, Dark Blue x 14, Black x 1, Light Gray x 6, Black x 2, White x 11, Black x 1, White x 6, Black x 1, White x 5, Light Gray x 16, Black x 3, White x 11, Light Gray x 8, Black x 26",
+  "totalStitches": 120
+},
+{
+  "number": 10,
+  "side": "WS",
+  "instructions": "Black x 27, Light Gray x 7, White x 11, Black x 3, Light Gray x 16, White x 4, Black x 1, White x 7, Black x 1, White x 12, Black x 1, Light Gray x 6, Black x 1, Dark Blue x 14, Blue x 9",
+  "totalStitches": 120
+},
+{
+  "number": 11,
+  "side": "RS",
+  "instructions": "Blue x 9, Dark Blue x 14, Black x 1, Light Gray x 6, Black x 1, White x 12, Black x 1, White x 12, Light Gray x 17, Black x 3, White x 9, Light Gray x 8, Black x 27",
+  "totalStitches": 120
+},
+{
+  "number": 12,
+  "side": "WS",
+  "instructions": "Black x 28, Light Gray x 7, White x 8, Black x 3, Light Gray x 18, White x 12, Black x 1, White x 12, Black x 2, Light Gray x 5, Black x 1, Dark Blue x 14, Blue x 9",
+  "totalStitches": 120
+},
+{
+  "number": 13,
+  "side": "RS",
+  "instructions": "Blue x 8, Dark Blue x 14, Black x 2, Light Gray x 4, Black x 2, White x 13, Black x 1, White x 13, Light Gray x 18, Black x 3, White x 7, Light Gray x 7, Black x 28",
+  "totalStitches": 120
+},
+{
+  "number": 14,
+  "side": "WS",
+  "instructions": "Black x 29, Light Gray x 6, White x 6, Black x 3, Light Gray x 18, White x 13, Black x 2, White x 14, Black x 1, Light Gray x 5, Black x 1, Dark Blue x 14, Blue x 8",
+  "totalStitches": 120
+},
+{
+  "number": 15,
+  "side": "RS",
+  "instructions": "Blue x 8, Dark Blue x 14, Black x 1, Light Gray x 5, Black x 1, White x 15, Black x 1, White x 13, Light Gray x 19, Black x 3, White x 5, Light Gray x 5, Black x 30",
+  "totalStitches": 120
+},
+{
+  "number": 16,
+  "side": "WS",
+  "instructions": "Dark Blue x 1, Black x 30, Light Gray x 4, White x 3, Black x 4, Light Gray x 20, White x 13, Black x 1, White x 14, Black x 2, Light Gray x 5, Black x 1, Dark Blue x 14, Blue x 8",
+  "totalStitches": 120
+},
+{
+  "number": 17,
+  "side": "RS",
+  "instructions": "Blue x 8, Dark Blue x 14, Black x 1, Light Gray x 6, Black x 1, White x 14, Black x 2, White x 12, Light Gray x 22, Black x 3, White x 1, Light Gray x 3, Black x 31, Dark Blue x 2",
+  "totalStitches": 120
+},
+{
+  "number": 18,
+  "side": "WS",
+  "instructions": "Dark Blue x 1, Black x 37, Light Gray x 23, White x 13, Black x 1, White x 14, Black x 3, Light Gray x 5, Black x 1, Dark Blue x 14, Blue x 8",
+  "totalStitches": 120
+},
+{
+  "number": 19,
+  "side": "RS",
+  "instructions": "Blue x 8, Dark Blue x 14, Black x 1, Light Gray x 5, Black x 1, White x 2, Black x 1, White x 13, Black x 1, White x 14, Light Gray x 22, Black x 37, Dark Blue x 1",
+  "totalStitches": 120
+},
+{
+  "number": 20,
+  "side": "WS",
+  "instructions": "Dark Blue x 2, Black x 36, Light Gray x 22, White x 13, Black x 2, White x 12, Black x 2, White x 2, Black x 1, Light Gray x 5, Black x 3, Dark Blue x 12, Blue x 8",
+  "totalStitches": 120
+},
+{
+  "number": 21,
+  "side": "RS",
+  "instructions": "Blue x 8, Dark Blue x 13, Black x 2, Light Gray x 5, Black x 1, White x 3, Black x 2, White x 12, Black x 1, White x 14, Light Gray x 21, Black x 36, Dark Blue x 2",
+  "totalStitches": 120
+},
+{
+  "number": 22,
+  "side": "WS",
+  "instructions": "Dark Blue x 3, Black x 35, Light Gray x 20, White x 15, Black x 1, White x 10, Black x 3, White x 4, Black x 1, Light Gray x 5, Black x 2, Dark Blue x 13, Blue x 8",
+  "totalStitches": 120
+},
+{
+  "number": 23,
+  "side": "RS",
+  "instructions": "Blue x 8, Dark Blue x 13, Black x 2, White x 2, Light Gray x 3, Black x 1, White x 4, Black x 1, White x 2, Black x 1, White x 9, Black x 2, White x 14, Light Gray x 20, Black x 34, Dark Blue x 4",
+  "totalStitches": 120
+},
+{
+  "number": 24,
+  "side": "WS",
+  "instructions": "Dark Blue x 4, Black x 34, Light Gray x 19, White x 15, Black x 1, White x 8, Black x 2, White x 2, Black x 2, White x 4, Black x 1, Light Gray x 3, White x 3, Black x 1, Dark Blue x 13, Blue x 8",
+  "totalStitches": 120
+},
+{
+  "number": 25,
+  "side": "RS",
+  "instructions": "Blue x 8, Dark Blue x 13, Black x 1, White x 4, Light Gray x 2, Black x 1, White x 5, Black x 2, White x 3, Black x 1, White x 7, Black x 1, White x 15, Light Gray x 19, Black x 34, Dark Blue x 4",
+  "totalStitches": 120
+},
+{
+  "number": 26,
+  "side": "WS",
+  "instructions": "Dark Blue x 5, Black x 34, Light Gray x 18, White x 14, Black x 2, White x 6, Black x 1, White x 3, Black x 2, White x 6, Black x 1, White x 1, Light Gray x 1, White x 4, Black x 1, Dark Blue x 13, Blue x 8",
+  "totalStitches": 120
+},
+{
+  "number": 27,
+  "side": "RS",
+  "instructions": "Blue x 8, Dark Blue x 13, Black x 1, White x 4, Light Gray x 1, White x 1, Black x 1, White x 7, Black x 1, White x 4, Black x 1, White x 6, Black x 1, White x 15, Light Gray x 17, Black x 35, Dark Blue x 4",
+  "totalStitches": 120
+},
+{
+  "number": 28,
+  "side": "WS",
+  "instructions": "Dark Blue x 5, Black x 34, Light Gray x 17, White x 15, Black x 1, White x 5, Black x 1, White x 4, Black x 1, White x 6, Black x 1, White x 1, Black x 1, White x 6, Black x 1, Dark Blue x 13, Blue x 8",
+  "totalStitches": 120
+},
+{
+  "number": 29,
+  "side": "RS",
+  "instructions": "Blue x 8, Dark Blue x 11, Black x 1, Dark Blue x 1, Black x 1, White x 6, Black x 1, White x 2, Black x 1, White x 16, Black x 1, White x 16, Light Gray x 16, Black x 33, Dark Blue x 6",
+  "totalStitches": 120
+},
+{
+  "number": 30,
+  "side": "WS",
+  "instructions": "Dark Blue x 7, Black x 32, Light Gray x 16, White x 16, Black x 1, White x 16, Black x 1, White x 2, Black x 1, White x 6, Black x 3, Dark Blue x 11, Blue x 8",
+  "totalStitches": 120
+},
+{
+  "number": 31,
+  "side": "RS",
+  "instructions": "Blue x 8, Dark Blue x 11, Black x 2, White x 7, Black x 1, White x 3, Black x 1, White x 3, Black x 2, White x 10, Black x 2, White x 15, Light Gray x 15, Black x 33, Dark Blue x 6, Blue x 1",
+  "totalStitches": 120
+},
+{
+  "number": 32,
+  "side": "WS",
+  "instructions": "Blue x 4, Dark Blue x 3, Black x 33, Light Gray x 15, White x 15, Black x 1, White x 10, Black x 2, White x 3, Black x 2, White x 3, Black x 1, White x 7, Black x 2, Dark Blue x 11, Blue x 8",
+  "totalStitches": 120
+},
+{
+  "number": 33,
+  "side": "RS",
+  "instructions": "Blue x 8, Dark Blue x 11, Black x 2, White x 7, Black x 1, White x 4, Black x 1, White x 4, Black x 2, White x 9, Black x 2, White x 14, Light Gray x 15, Black x 32, Dark Blue x 2, Blue x 6",
+  "totalStitches": 120
+},
+{
+  "number": 34,
+  "side": "WS",
+  "instructions": "Blue x 8, Dark Blue x 1, Black x 31, Light Gray x 15, White x 14, Black x 1, White x 9, Black x 2, White x 4, Black x 1, White x 5, Black x 1, White x 7, Black x 2, Dark Blue x 11, Blue x 8",
+  "totalStitches": 120
+},
+{
+  "number": 35,
+  "side": "RS",
+  "instructions": "Blue x 9, Dark Blue x 10, Black x 2, White x 7, Black x 1, White x 5, Black x 1, White x 5, Black x 2, White x 8, Black x 1, White x 14, Light Gray x 14, Black x 32, Blue x 9",
+  "totalStitches": 120
+},
+{
+  "number": 36,
+  "side": "WS",
+  "instructions": "Blue x 10, Black x 31, Light Gray x 14, White x 14, Black x 1, White x 7, Black x 2, White x 5, Black x 1, White x 5, Black x 2, White x 7, Black x 2, Dark Blue x 10, Blue x 9",
+  "totalStitches": 120
+},
+{
+  "number": 37,
+  "side": "RS",
+  "instructions": "Blue x 9, Dark Blue x 10, Black x 2, White x 8, Black x 1, White x 6, Black x 1, White x 5, Black x 2, White x 6, Black x 2, White x 13, Light Gray x 14, Black x 30, Blue x 11",
+  "totalStitches": 120
+},
+{
+  "number": 38,
+  "side": "WS",
+  "instructions": "Blue x 11, Black x 30, Light Gray x 14, White x 13, Black x 1, White x 6, Black x 2, White x 3, Black x 1, White x 9, Black x 1, White x 9, Black x 1, Dark Blue x 10, Blue x 9",
+  "totalStitches": 120
+},
+{
+  "number": 39,
+  "side": "RS",
+  "instructions": "Blue x 9, Dark Blue x 10, Black x 1, White x 9, Black x 1, White x 10, Black x 2, White x 9, Black x 1, White x 13, Light Gray x 14, Black x 30, Blue x 11",
+  "totalStitches": 120
+},
+{
+  "number": 40,
+  "side": "WS",
+  "instructions": "Blue x 12, Black x 30, Light Gray x 13, White x 12, Black x 2, White x 8, Black x 2, White x 11, Black x 1, White x 9, Black x 1, Dark Blue x 9, Blue x 10",
+  "totalStitches": 120
+},
+{
+  "number": 41,
+  "side": "RS",
+  "instructions": "Blue x 10, Dark Blue x 9, Black x 2, White x 8, Black x 2, White x 11, Black x 2, White x 8, Black x 2, White x 12, Light Gray x 12, Black x 29, Blue x 13",
+  "totalStitches": 120
+},
+{
+  "number": 42,
+  "side": "WS",
+  "instructions": "Blue x 14, Black x 29, Light Gray x 11, White x 12, Black x 1, White x 4, Black x 1, White x 4, Black x 1, White x 12, Black x 1, White x 9, Black x 1, Dark Blue x 9, Blue x 11",
+  "totalStitches": 120
+},
+{
+  "number": 43,
+  "side": "RS",
+  "instructions": "Blue x 11, Dark Blue x 9, Black x 1, White x 10, Black x 1, White x 12, Black x 1, White x 3, Black x 1, White x 4, Black x 2, White x 11, Light Gray x 11, Black x 29, Blue x 14",
+  "totalStitches": 120
+},
+{
+  "number": 44,
+  "side": "WS",
+  "instructions": "Blue x 15, Black x 29, Light Gray x 10, White x 11, Black x 1, White x 5, Black x 1, White x 2, Black x 4, White x 9, Black x 1, White x 11, Black x 1, Dark Blue x 9, Blue x 11",
+  "totalStitches": 120
+},
+{
+  "number": 45,
+  "side": "RS",
+  "instructions": "Blue x 12, Dark Blue x 8, Black x 2, White x 8, Black x 3, White x 12, Black x 2, White x 2, Black x 1, White x 4, Black x 2, White x 10, Light Gray x 10, Black x 28, Blue x 16",
+  "totalStitches": 120
+},
+{
+  "number": 46,
+  "side": "WS",
+  "instructions": "Blue x 18, Black x 27, Light Gray x 10, White x 8, Black x 2, White x 5, Black x 1, White x 1, Black x 2, White x 13, Black x 1, White x 1, Black x 1, White x 8, Black x 1, Dark Blue x 9, Blue x 12",
+  "totalStitches": 120
+},
+{
+  "number": 47,
+  "side": "RS",
+  "instructions": "Blue x 13, Dark Blue x 7, Black x 2, White x 8, Black x 1, White x 2, Black x 2, White x 6, Black x 1, White x 5, Black x 2, White x 7, Black x 1, White x 8, Light Gray x 10, Black x 27, Blue x 18",
+  "totalStitches": 120
+},
+{
+  "number": 48,
+  "side": "WS",
+  "instructions": "Blue x 19, Black x 27, Light Gray x 9, White x 7, Black x 2, White x 6, Black x 2, White x 5, Black x 1, White x 7, Black x 1, White x 3, Black x 1, White x 7, Black x 2, Dark Blue x 8, Blue x 13",
+  "totalStitches": 120
+},
+{
+  "number": 49,
+  "side": "RS",
+  "instructions": "Blue x 13, Dark Blue x 9, Black x 2, White x 6, Black x 1, White x 3, Black x 3, White x 5, Black x 1, White x 7, Black x 1, White x 6, Black x 2, Light Gray x 15, Black x 26, Blue x 20",
+  "totalStitches": 120
+},
+{
+  "number": 50,
+  "side": "WS",
+  "instructions": "Blue x 22, Black x 25, Light Gray x 14, Black x 1, White x 6, Black x 1, White x 7, Black x 1, White x 5, Black x 2, White x 5, Black x 1, White x 7, Black x 2, Dark Blue x 7, Blue x 14",
+  "totalStitches": 120
+},
+{
+  "number": 51,
+  "side": "RS",
+  "instructions": "Blue x 15, Dark Blue x 7, Black x 3, White x 5, Black x 1, White x 7, Black x 1, White x 5, Black x 1, White x 7, Black x 1, White x 5, Black x 3, Light Gray x 11, Black x 24, Blue x 24",
+  "totalStitches": 120
+},
+{
+  "number": 52,
+  "side": "WS",
+  "instructions": "Blue x 24, Black x 25, Light Gray x 9, Black x 2, White x 7, Black x 1, White x 7, Black x 1, White x 4, Black x 1, White x 8, Black x 1, White x 3, Black x 4, Dark Blue x 8, Blue x 15",
+  "totalStitches": 120
+},
+{
+  "number": 53,
+  "side": "RS",
+  "instructions": "Blue x 15, Dark Blue x 9, Black x 1, Dark Blue x 1, Black x 6, White x 8, Black x 1, White x 3, Black x 2, White x 7, Black x 1, White x 7, Black x 4, Light Gray x 4, Black x 26, Blue x 25",
+  "totalStitches": 120
+},
+{
+  "number": 54,
+  "side": "WS",
+  "instructions": "Blue x 26, Black x 31, White x 8, Black x 1, White x 6, Black x 2, White x 5, Black x 1, White x 8, Black x 1, White x 1, Black x 1, Dark Blue x 13, Blue x 16",
+  "totalStitches": 120
+},
+{
+  "number": 55,
+  "side": "RS",
+  "instructions": "Blue x 16, Dark Blue x 11, Black x 3, White x 1, Black x 2, White x 15, Black x 2, White x 13, Black x 1, White x 1, Black x 27, Blue x 28",
+  "totalStitches": 120
+},
+{
+  "number": 56,
+  "side": "WS",
+  "instructions": "Blue x 28, Black x 27, White x 14, Black x 1, White x 17, Black x 1, White x 4, Black x 1, Dark Blue x 10, Blue x 17",
+  "totalStitches": 120
+},
+{
+  "number": 57,
+  "side": "RS",
+  "instructions": "Blue x 17, Dark Blue x 8, Black x 3, White x 4, Black x 1, White x 34, Black x 25, Blue x 28",
+  "totalStitches": 120
+},
+{
+  "number": 58,
+  "side": "WS",
+  "instructions": "Blue x 30, Black x 22, White x 9, Black x 8, White x 25, Black x 1, Dark Blue x 8, Blue x 17",
+  "totalStitches": 120
+},
+{
+  "number": 59,
+  "side": "RS",
+  "instructions": "Blue x 18, Dark Blue x 5, Black x 3, White x 24, Black x 10, White x 11, Black x 18, Blue x 30, Light Blue x 1",
+  "totalStitches": 120
+},
+{
+  "number": 60,
+  "side": "WS",
+  "instructions": "Light Blue x 4, Blue x 27, Black x 19, White x 8, Black x 14, White x 23, Black x 2, Dark Blue x 5, Blue x 18",
+  "totalStitches": 120
+},
+{
+  "number": 61,
+  "side": "RS",
+  "instructions": "Blue x 19, Dark Blue x 3, Black x 3, White x 22, Black x 16, White x 12, Black x 12, Blue x 28, Light Blue x 5",
+  "totalStitches": 120
+},
+{
+  "number": 62,
+  "side": "WS",
+  "instructions": "Light Blue x 8, Blue x 26, Black x 12, White x 10, Black x 18, White x 22, Black x 2, Dark Blue x 3, Blue x 19",
+  "totalStitches": 120
+},
+{
+  "number": 63,
+  "side": "RS",
+  "instructions": "Blue x 21, Black x 2, White x 9, Black x 2, White x 3, Black x 3, White x 6, Black x 19, White x 4, Black x 4, White x 3, Black x 9, Blue x 25, Light Blue x 10",
+  "totalStitches": 120
+},
+{
+  "number": 64,
+  "side": "WS",
+  "instructions": "Light Blue x 12, Blue x 25, Black x 6, White x 8, Black x 7, Light Gray x 4, Black x 2, Light Gray x 3, Black x 8, White x 3, Black x 2, White x 7, Black x 2, White x 9, Black x 1, Blue x 21",
+  "totalStitches": 120
+},
+{
+  "number": 65,
+  "side": "RS",
+  "instructions": "Blue x 20, Black x 3, White x 7, Black x 2, White x 10, Black x 10, Light Gray x 2, Black x 1, Light Gray x 1, Black x 2, Light Gray x 1, Black x 1, Light Gray x 2, Black x 3, White x 13, Black x 5, Blue x 23, Light Blue x 14",
+  "totalStitches": 120
+},
+{
+  "number": 66,
+  "side": "WS",
+  "instructions": "Light Blue x 16, Blue x 23, Black x 2, White x 6, Black x 3, White x 3, Black x 5, Light Gray x 1, Black x 2, Light Gray x 1, Black x 2, Light Gray x 1, Black x 2, Light Gray x 1, Black x 7, White x 14, Black x 2, White x 8, Black x 1, Blue x 20",
+  "totalStitches": 120
+},
+{
+  "number": 67,
+  "side": "RS",
+  "instructions": "Blue x 19, Black x 2, White x 7, Black x 2, White x 11, Black x 11, Light Gray x 1, Black x 2, Light Gray x 1, Black x 2, Light Gray x 1, Black x 2, Light Gray x 1, Black x 3, White x 2, Black x 3, White x 9, Black x 2, Blue x 21, Light Blue x 18",
+  "totalStitches": 120
+},
+{
+  "number": 68,
+  "side": "WS",
+  "instructions": "Light Blue x 20, Blue x 19, Black x 2, White x 14, Black x 3, Light Gray x 2, Black x 1, Light Gray x 1, Black x 2, Light Gray x 1, Black x 1, Light Gray x 2, Black x 7, White x 4, Black x 4, White x 8, Black x 1, White x 7, Black x 2, Blue x 19",
+  "totalStitches": 120
+},
+{
+  "number": 69,
+  "side": "RS",
+  "instructions": "Blue x 19, Black x 1, White x 7, Black x 2, White x 14, Black x 10, Light Gray x 3, Black x 2, Light Gray x 3, Black x 7, White x 9, Black x 1, White x 2, Black x 1, Blue x 18, Light Blue x 21",
+  "totalStitches": 120
+},
+{
+  "number": 70,
+  "side": "WS",
+  "instructions": "Light Blue x 23, Blue x 15, Black x 2, White x 1, Black x 1, White x 7, Black x 3, White x 3, Black x 20, White x 2, Black x 2, White x 13, Black x 1, White x 7, Black x 1, Blue x 19",
+  "totalStitches": 120
+},
+{
+  "number": 71,
+  "side": "RS",
+  "instructions": "Blue x 19, Black x 1, White x 6, Black x 2, White x 9, Black x 4, White x 5, Black x 18, White x 7, Black x 2, White x 5, Black x 1, White x 2, Black x 1, Blue x 13, Light Blue x 25",
+  "totalStitches": 120
+},
+{
+  "number": 72,
+  "side": "WS",
+  "instructions": "Light Blue x 26, Blue x 11, Black x 2, White x 2, Black x 1, White x 14, Black x 17, White x 20, Black x 1, White x 6, Black x 1, Blue x 19",
+  "totalStitches": 120
+},
+{
+  "number": 73,
+  "side": "RS",
+  "instructions": "Blue x 18, Black x 2, White x 5, Black x 2, White x 21, Black x 15, White x 15, Black x 1, White x 3, Black x 1, Blue x 10, Light Blue x 27",
+  "totalStitches": 120
+},
+{
+  "number": 74,
+  "side": "WS",
+  "instructions": "Light Blue x 28, Blue x 9, Black x 1, White x 2, Black x 2, White x 10, Black x 2, White x 3, Black x 14, White x 4, Black x 4, White x 15, Black x 1, White x 5, Black x 1, Blue x 19",
+  "totalStitches": 120
+},
+{
+  "number": 75,
+  "side": "RS",
+  "instructions": "Blue x 17, Black x 3, White x 5, Black x 1, White x 13, Black x 7, White x 3, Black x 13, White x 3, Black x 5, White x 8, Black x 2, White x 2, Black x 1, Blue x 8, Light Blue x 29",
+  "totalStitches": 120
+},
+{
+  "number": 76,
+  "side": "WS",
+  "instructions": "Light Blue x 30, Blue x 7, Black x 1, White x 2, Black x 2, White x 6, Black x 8, White x 2, Black x 13, White x 2, Black x 10, White x 10, Black x 2, White x 6, Black x 1, Blue x 18",
+  "totalStitches": 120
+},
+{
+  "number": 77,
+  "side": "RS",
+  "instructions": "Blue x 18, Black x 2, White x 5, Black x 2, White x 10, Black x 11, White x 2, Black x 11, White x 2, Black x 10, White x 5, Black x 2, White x 2, Black x 2, Blue x 5, Light Blue x 31",
+  "totalStitches": 120
+},
+{
+  "number": 78,
+  "side": "WS",
+  "instructions": "Light Blue x 32, Blue x 4, Black x 1, White x 3, Black x 2, White x 5, Black x 11, White x 1, Black x 11, White x 1, Black x 13, White x 9, Black x 2, White x 5, Black x 2, Blue x 18",
+  "totalStitches": 120
+},
+{
+  "number": 79,
+  "side": "RS",
+  "instructions": "Blue x 19, Black x 1, White x 5, Black x 2, White x 8, Black x 39, White x 4, Black x 2, White x 3, Black x 1, Blue x 3, Light Blue x 33",
+  "totalStitches": 120
+},
+{
+  "number": 80,
+  "side": "WS",
+  "instructions": "Light Blue x 34, Blue x 2, Black x 1, White x 3, Black x 2, White x 4, Black x 39, White x 8, Black x 2, White x 5, Black x 2, Blue x 18",
+  "totalStitches": 120
+},
+{
+  "number": 81,
+  "side": "RS",
+  "instructions": "Blue x 17, Black x 3, White x 5, Black x 2, White x 7, Black x 5, Light Green x 5, Black x 22, Light Green x 5, Black x 3, White x 4, Black x 2, White x 3, Black x 1, Blue x 1, Light Blue x 35",
+  "totalStitches": 120
+},
+{
+  "number": 82,
+  "side": "WS",
+  "instructions": "Light Blue x 36, Black x 1, White x 3, Black x 2, White x 3, Black x 3, Light Green x 7, Black x 6, White x 1, Black x 14, Light Green x 6, Black x 4, White x 8, Black x 1, White x 4, Black x 2, Blue x 19",
+  "totalStitches": 120
+},
+{
+  "number": 83,
+  "side": "RS",
+  "instructions": "Blue x 18, Black x 5, White x 2, Black x 1, White x 8, Black x 3, Light Green x 3, Black x 3, Light Green x 2, Black x 6, White x 2, Black x 5, White x 2, Black x 5, Light Green x 2, Black x 3, Light Green x 2, Black x 3, White x 3, Black x 2, White x 3, Black x 1, Light Blue x 36",
+  "totalStitches": 120
+},
+{
+  "number": 84,
+  "side": "WS",
+  "instructions": "Light Blue x 36, Black x 2, White x 3, Black x 1, White x 3, Black x 3, Light Green x 1, Black x 5, Light Green x 1, Black x 5, White x 3, Black x 3, White x 3, Black x 6, Light Green x 1, Black x 5, Light Green x 2, Black x 3, White x 8, Black x 2, White x 5, Black x 2, Blue x 17",
+  "totalStitches": 120
+},
+{
+  "number": 85,
+  "side": "RS",
+  "instructions": "Blue x 15, Black x 3, White x 6, Black x 2, White x 8, Black x 3, Light Green x 2, Black x 2, White x 1, Black x 2, Light Green x 1, Black x 6, White x 4, Black x 1, White x 4, Black x 5, Light Green x 1, Black x 2, White x 1, Black x 2, Light Green x 1, Black x 3, White x 3, Black x 1, White x 3, Black x 1, Light Blue x 37",
+  "totalStitches": 120
+},
+{
+  "number": 86,
+  "side": "WS",
+  "instructions": "Light Blue x 37, Black x 1, White x 3, Black x 1, White x 3, Black x 3, Light Green x 2, Black x 3, Light Green x 2, Black x 5, White x 10, Black x 5, Light Green x 2, Black x 3, Light Green x 3, Black x 3, White x 9, Black x 2, White x 7, Black x 3, Blue x 13",
+  "totalStitches": 120
+},
+{
+  "number": 87,
+  "side": "RS",
+  "instructions": "Blue x 13, Black x 1, White x 9, Black x 2, White x 9, Black x 4, Light Green x 6, Black x 5, White x 12, Black x 5, Light Green x 5, Black x 4, White x 3, Black x 1, White x 3, Black x 1, Light Blue x 37",
+  "totalStitches": 120
+},
+{
+  "number": 88,
+  "side": "WS",
+  "instructions": "Light Blue x 36, Black x 2, White x 3, Black x 1, White x 3, Black x 13, White x 14, Black x 14, White x 10, Black x 3, White x 6, Black x 2, Blue x 13",
+  "totalStitches": 120
+},
+{
+  "number": 89,
+  "side": "RS",
+  "instructions": "Blue x 14, Black x 1, White x 5, Black x 5, White x 9, Black x 14, White x 14, Black x 12, White x 4, Black x 1, White x 4, Black x 2, Light Blue x 35",
+  "totalStitches": 120
+},
+{
+  "number": 90,
+  "side": "WS",
+  "instructions": "Light Blue x 35, Black x 1, White x 5, Black x 2, White x 3, Black x 11, White x 16, Black x 12, White x 13, Black x 3, White x 4, Black x 2, Blue x 13",
+  "totalStitches": 120
+},
+{
+  "number": 91,
+  "side": "RS",
+  "instructions": "Blue x 12, Black x 2, White x 2, Black x 8, White x 3, Black x 1, White x 7, Black x 11, White x 18, Black x 9, White x 4, Black x 4, White x 3, Black x 2, Light Blue x 34",
+  "totalStitches": 120
+},
+{
+  "number": 92,
+  "side": "WS",
+  "instructions": "Light Blue x 33, Black x 2, White x 3, Black x 3, White x 7, Black x 7, White x 20, Black x 9, White x 7, Black x 2, White x 6, Black x 4, White x 4, Black x 3, Blue x 10",
+  "totalStitches": 120
+},
+{
+  "number": 93,
+  "side": "RS",
+  "instructions": "Blue x 10, Black x 1, White x 4, Black x 9, White x 3, Black x 2, White x 17, Black x 1, White x 20, Black x 4, White x 9, Black x 3, White x 3, Black x 2, Light Blue x 32",
+  "totalStitches": 120
+},
+{
+  "number": 94,
+  "side": "WS",
+  "instructions": "Light Blue x 31, Black x 2, White x 4, Black x 2, White x 4, Black x 1, White x 30, Black x 2, White x 14, Black x 3, White x 5, Black x 8, White x 3, Black x 2, Blue x 9",
+  "totalStitches": 120
+},
+{
+  "number": 95,
+  "side": "RS",
+  "instructions": "Blue x 7, Black x 3, White x 5, Black x 6, White x 5, Black x 4, White x 12, Black x 3, White x 21, Black x 2, White x 8, Black x 1, White x 2, Black x 4, White x 5, Black x 2, Light Blue x 30",
+  "totalStitches": 120
+},
+{
+  "number": 96,
+  "side": "WS",
+  "instructions": "Light Blue x 30, Black x 1, White x 4, Black x 5, White x 3, Black x 2, White x 6, Black x 1, White x 25, Black x 2, White x 11, Black x 2, White x 6, Black x 8, White x 5, Black x 3, Blue x 6",
+  "totalStitches": 120
+},
+{
+  "number": 97,
+  "side": "RS",
+  "instructions": "Blue x 5, Light Blue x 3, Black x 1, White x 5, Black x 7, White x 3, Black x 2, White x 1, Black x 5, White x 9, Black x 1, White x 27, Black x 1, White x 5, Black x 2, White x 1, Black x 1, White x 2, Black x 5, White x 3, Black x 2, Light Blue x 29",
+  "totalStitches": 120
+},
+{
+  "number": 98,
+  "side": "WS",
+  "instructions": "Light Blue x 27, Black x 3, White x 3, Black x 5, White x 1, Black x 2, White x 2, Black x 3, White x 4, Black x 1, White x 28, Black x 1, White x 6, Black x 5, White x 5, Black x 1, White x 3, Black x 7, White x 4, Black x 2, Light Blue x 7",
+  "totalStitches": 120
+},
+{
+  "number": 99,
+  "side": "RS",
+  "instructions": "Light Blue x 6, Black x 2, White x 5, Black x 8, White x 1, Black x 1, White x 6, Black x 6, White x 38, Black x 4, White x 5, Black x 6, White x 4, Black x 1, Light Blue x 27",
+  "totalStitches": 120
+},
+{
+  "number": 100,
+  "side": "WS",
+  "instructions": "Light Blue x 26, Black x 2, White x 3, Black x 6, White x 2, Black x 1, White x 3, Black x 7, White x 31, Black x 11, White x 1, Black x 1, White x 4, Black x 9, White x 6, Black x 2, Light Blue x 5",
+  "totalStitches": 120
+},
+{
+  "number": 101,
+  "side": "RS",
+  "instructions": "Light Blue x 4, Black x 2, White x 8, Black x 8, White x 3, Black x 1, White x 4, Black x 11, White x 12, Black x 3, White x 13, Black x 8, White x 4, Black x 1, White x 1, Black x 7, White x 3, Black x 3, Light Blue x 24",
+  "totalStitches": 120
+},
+{
+  "number": 102,
+  "side": "WS",
+  "instructions": "Light Blue x 24, Black x 1, White x 6, Black x 7, White x 2, Black x 1, White x 2, Black x 12, White x 7, Black x 7, White x 4, Black x 17, White x 5, Black x 12, White x 8, Black x 2, Light Blue x 3",
+  "totalStitches": 120
+},
+{
+  "number": 103,
+  "side": "RS",
+  "instructions": "Light Blue x 2, Black x 2, White x 9, Black x 10, White x 7, Black x 47, White x 3, Black x 1, White x 2, Black x 7, White x 5, Black x 3, Light Blue x 22",
+  "totalStitches": 120
+},
+{
+  "number": 104,
+  "side": "WS",
+  "instructions": "Light Blue x 23, Black x 1, White x 5, Black x 10, White x 4, Black x 1, White x 1, Black x 45, White x 8, Black x 10, White x 7, Black x 4, Light Blue x 1",
+  "totalStitches": 120
+},
+{
+  "number": 105,
+  "side": "RS",
+  "instructions": "Light Blue x 4, Black x 1, White x 9, Black x 11, White x 6, Black x 44, White x 8, Black x 7, White x 5, Black x 2, Light Blue x 23",
+  "totalStitches": 120
+},
+{
+  "number": 106,
+  "side": "WS",
+  "instructions": "Light Blue x 22, Black x 2, White x 5, Black x 8, White x 8, Black x 44, White x 5, Black x 1, White x 1, Black x 11, White x 7, Black x 2, Light Blue x 4",
+  "totalStitches": 120
+},
+{
+  "number": 107,
+  "side": "RS",
+  "instructions": "Light Blue x 5, Black x 1, White x 6, Black x 12, White x 2, Black x 3, White x 2, Black x 43, White x 3, Black x 1, White x 4, Black x 9, White x 5, Black x 1, Light Blue x 23",
+  "totalStitches": 120
+},
+{
+  "number": 108,
+  "side": "WS",
+  "instructions": "Light Blue x 23, Black x 2, White x 4, Black x 9, White x 4, Black x 1, White x 3, Black x 44, White x 7, Black x 9, White x 8, Black x 1, Light Blue x 5",
+  "totalStitches": 120
+},
+{
+  "number": 109,
+  "side": "RS",
+  "instructions": "Light Blue x 5, Black x 1, White x 9, Black x 7, White x 8, Black x 44, White x 4, Black x 1, White x 3, Black x 9, White x 4, Black x 2, Light Blue x 23",
+  "totalStitches": 120
+},
+{
+  "number": 110,
+  "side": "WS",
+  "instructions": "Light Blue x 24, Black x 1, White x 5, Black x 7, White x 4, Black x 1, White x 4, Black x 44, White x 9, Black x 7, White x 8, Black x 1, Light Blue x 5",
+  "totalStitches": 120
+},
+{
+  "number": 111,
+  "side": "RS",
+  "instructions": "Light Blue x 5, Black x 2, White x 7, Black x 6, White x 9, Black x 45, White x 4, Black x 1, White x 5, Black x 7, White x 4, Black x 1, Light Blue x 24",
+  "totalStitches": 120
+},
+{
+  "number": 112,
+  "side": "WS",
+  "instructions": "Light Blue x 23, Black x 2, White x 5, Black x 5, White x 5, Black x 1, White x 5, Black x 46, White x 10, Black x 6, White x 6, Black x 1, Light Blue x 5",
+  "totalStitches": 120
+},
+{
+  "number": 113,
+  "side": "RS",
+  "instructions": "Light Blue x 4, Black x 2, White x 6, Black x 4, White x 11, Black x 48, White x 5, Black x 1, White x 5, Black x 5, White x 5, Black x 2, Light Blue x 22",
+  "totalStitches": 120
+},
+{
+  "number": 114,
+  "side": "WS",
+  "instructions": "Light Blue x 22, Black x 1, White x 6, Black x 3, White x 6, Black x 1, White x 5, Black x 2, Light Blue x 1, Black x 47, White x 12, Black x 3, White x 6, Black x 1, Light Blue x 4",
+  "totalStitches": 120
+},
+{
+  "number": 115,
+  "side": "RS",
+  "instructions": "Light Blue x 3, Black x 5, White x 17, Black x 48, Light Blue x 2, Black x 2, White x 13, Black x 2, White x 2, Black x 5, Light Blue x 21",
+  "totalStitches": 120
+},
+{
+  "number": 116,
+  "side": "WS",
+  "instructions": "Light Blue x 25, Black x 1, White x 15, Black x 3, Light Blue x 5, Black x 44, Light Blue x 1, Black x 4, White x 13, Black x 2, Light Blue x 7",
+  "totalStitches": 120
+},
+{
+  "number": 117,
+  "side": "RS",
+  "instructions": "Light Blue x 8, Black x 4, White x 6, Black x 1, White x 1, Black x 3, Light Blue x 7, Black x 40, Light Blue x 8, Black x 3, White x 12, Black x 2, Light Blue x 25",
+  "totalStitches": 120
+},
+{
+  "number": 118,
+  "side": "WS",
+  "instructions": "Light Blue x 26, Black x 4, White x 5, Black x 5, Light Blue x 11, Black x 35, Light Blue x 1, Black x 2, Light Blue x 10, Black x 5, White x 2, Black x 3, Light Blue x 11",
+  "totalStitches": 120
+},
+{
+  "number": 119,
+  "side": "RS",
+  "instructions": "Light Blue x 13, Black x 4, Light Blue x 21, Black x 5, Light Blue x 1, Black x 20, Light Blue x 20, Black x 4, White x 2, Black x 1, Light Blue x 2, Black x 1, Light Blue x 26",
+  "totalStitches": 120
+},
+{
+  "number": 120,
+  "side": "WS",
+  "instructions": "Light Blue x 29, Black x 2, White x 1, Black x 1, Light Blue x 24, Black x 2, Light Blue x 1, Black x 14, Light Blue x 31, Black x 1, Light Blue x 14",
+  "totalStitches": 120
+},
+{
+  "number": 121,
+  "side": "RS",
+  "instructions": "Light Blue x 52, Black x 4, Light Blue x 31, Black x 3, Light Blue x 30",
+  "totalStitches": 120
+}
+]

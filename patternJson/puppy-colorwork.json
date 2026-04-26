@@ -1,0 +1,382 @@
+{
+  "slug": "puppy-colorwork",
+  "title": "Puppy Pixel Art Pattern",
+  "patternType": "row",
+  "approxSize": "36 x 33 in",
+  "graphImageUrl": "graphImages/puppy-colorwork-graph.png",
+  "graphImageAlt": "NPuppy Pixel Art Pattern graph",
+  "intro": "Follow the pattern row by row online and track your progress as you crochet.",
+  "colors": {
+    "Navy": "#3f476a",
+    "Black": "#14131b",
+    "White": "#dfdde0",
+    "Coffee": "#583c36",
+    "Warm Brown": "#8a7445",
+    "Hot Red": "#ac1a44",
+    "Pink": "#f89dbe",
+    "Green": "#829165"
+  },
+      "materials": [
+        {
+          "label": "Hook",
+          "detail": "5.0 mm crochet hook"
+        },
+        {
+          "label": "Yarn - based on a 200 yard skein",
+          "detail": "Navy - 1 skein, Black - 1 skein, White - 1 skein, Coffee - 2 skeins, Warm Brown - 2 skeins, Red - 1 skein, Pink - 1 skein, Green - 1 skein, White - 1 skein "
+        },
+        {
+          "label": "Other",
+          "detail": "Tapestry needle, scissors, stitch markers"
+        }
+      ],
+  "steps": [
+{
+  "number": 1,
+  "side": "RS",
+  "instructions": "Soft Navy x 17, White x 16, Black x 1, Coffee x 1, Warm Brown x 2, Coffee x 1, Black x 5, Coffee x 1, Warm Brown x 2, Coffee x 3, Black x 1, Coffee x 11, Black x 2, Coffee x 26, Warm Brown x 6, Coffee x 1, Black x 1, Coffee x 2, Black x 2, Coffee x 1, Warm Brown x 10, Black x 1, Soft Navy x 7",
+  "totalStitches": 120
+},
+{
+  "number": 2,
+  "side": "WS",
+  "instructions": "Soft Navy x 7, Black x 1, Warm Brown x 11, Coffee x 1, Black x 1, Coffee x 4, Warm Brown x 5, Coffee x 28, Black x 1, Coffee x 10, Black x 2, Coffee x 2, Warm Brown x 3, Black x 5, Coffee x 1, Black x 2, Coffee x 1, Black x 2, White x 17, Soft Navy x 16",
+  "totalStitches": 120
+},
+{
+  "number": 3,
+  "side": "RS",
+  "instructions": "Soft Navy x 15, White x 19, Black x 3, Coffee x 2, Black x 5, Warm Brown x 4, Coffee x 2, Black x 1, Coffee x 32, Black x 4, Coffee x 4, Warm Brown x 5, Coffee x 2, Black x 2, Coffee x 1, Warm Brown x 11, Black x 1, Soft Navy x 7",
+  "totalStitches": 120
+},
+{
+  "number": 4,
+  "side": "WS",
+  "instructions": "Soft Navy x 7, Black x 1, Warm Brown x 12, Coffee x 1, Black x 2, Coffee x 1, Warm Brown x 5, Coffee x 3, Black x 2, Hot Red x 2, Black x 2, Coffee x 1, Black x 1, Coffee x 28, Black x 2, Coffee x 2, Warm Brown x 4, Coffee x 1, Black x 5, Coffee x 2, Black x 2, White x 20, Soft Navy x 14",
+  "totalStitches": 120
+},
+{
+  "number": 5,
+  "side": "RS",
+  "instructions": "Soft Navy x 13, White x 22, Black x 1, Coffee x 2, Black x 1, Coffee x 2, Black x 2, Warm Brown x 5, Coffee x 3, Black x 2, Coffee x 1, Black x 9, Coffee x 16, Black x 2, Coffee x 1, Black x 2, Hot Red x 3, Black x 1, Coffee x 4, Warm Brown x 4, Black x 2, Coffee x 1, Warm Brown x 12, Black x 2, Soft Navy x 7",
+  "totalStitches": 120
+},
+{
+  "number": 6,
+  "side": "WS",
+  "instructions": "Soft Navy x 7, Black x 2, Warm Brown x 13, Coffee x 2, Warm Brown x 4, Coffee x 4, Black x 1, Hot Red x 4, Black x 1, Coffee x 1, Black x 2, Coffee x 13, Black x 14, Coffee x 4, Warm Brown x 5, Coffee x 1, Black x 1, Coffee x 1, Black x 2, Coffee x 2, Black x 1, White x 23, Soft Navy x 12",
+  "totalStitches": 120
+},
+{
+  "number": 7,
+  "side": "RS",
+  "instructions": "Soft Navy x 11, White x 24, Black x 1, Coffee x 3, Black x 2, Coffee x 1, Warm Brown x 2, Black x 1, Warm Brown x 3, Coffee x 4, Black x 3, Hot Red x 3, Black x 11, Coffee x 10, Black x 1, Coffee x 2, Black x 1, Hot Red x 4, Black x 1, Coffee x 4, Warm Brown x 18, Black x 2, Soft Navy x 8",
+  "totalStitches": 120
+},
+{
+  "number": 8,
+  "side": "WS",
+  "instructions": "Soft Navy x 8, Black x 3, Warm Brown x 17, Coffee x 4, Black x 2, Hot Red x 3, Black x 2, Coffee x 1, Black x 2, Coffee x 3, Black x 7, Coffee x 9, Black x 2, Hot Red x 3, Black x 3, Coffee x 4, Warm Brown x 2, Black x 2, Warm Brown x 3, Coffee x 3, Black x 2, White x 25, Soft Navy x 10",
+  "totalStitches": 120
+},
+{
+  "number": 9,
+  "side": "RS",
+  "instructions": "Soft Navy x 10, White x 26, Black x 2, Coffee x 1, Warm Brown x 2, Coffee x 1, Black x 2, Warm Brown x 2, Coffee x 5, Black x 2, Hot Red x 2, Black x 3, Coffee x 4, Black x 7, Coffee x 2, Black x 9, Coffee x 1, Black x 2, Hot Red x 3, Black x 2, Coffee x 4, Warm Brown x 16, Black x 3, White x 1, Soft Navy x 8",
+  "totalStitches": 120
+},
+{
+  "number": 10,
+  "side": "WS",
+  "instructions": "Soft Navy x 7, White x 3, Black x 2, Warm Brown x 16, Coffee x 4, Black x 2, Hot Red x 3, Black x 2, Coffee x 1, Black x 7, Coffee x 3, Black x 3, Pretty N' Pink x 4, Black x 3, Coffee x 3, Black x 6, Coffee x 5, Warm Brown x 3, Black x 7, White x 27, Soft Navy x 9",
+  "totalStitches": 120
+},
+{
+  "number": 11,
+  "side": "RS",
+  "instructions": "Soft Navy x 8, White x 27, Black x 2, Coffee x 5, Warm Brown x 4, Coffee x 5, Black x 2, Coffee x 6, Black x 2, Pretty N' Pink x 8, Black x 3, Coffee x 2, Black x 3, Hot Red x 1, Black x 10, Coffee x 4, Warm Brown x 15, Black x 2, White x 4, Soft Navy x 7",
+  "totalStitches": 120
+},
+{
+  "number": 12,
+  "side": "WS",
+  "instructions": "Soft Navy x 6, White x 5, Black x 2, Warm Brown x 15, Coffee x 3, Black x 3, Coffee x 2, Black x 4, Hot Red x 2, Black x 2, Coffee x 4, Black x 2, Pretty N' Pink x 10, Black x 2, Coffee x 6, Black x 2, Coffee x 3, Warm Brown x 9, Coffee x 1, Black x 2, White x 28, Soft Navy x 7",
+  "totalStitches": 120
+},
+{
+  "number": 13,
+  "side": "RS",
+  "instructions": "Soft Navy x 7, White x 28, Black x 2, Warm Brown x 5, Coffee x 2, Black x 1, Coffee x 2, Black x 4, Coffee x 6, Black x 2, Pretty N' Pink x 12, Black x 2, Coffee x 4, Black x 2, Hot Red x 2, Black x 3, Coffee x 8, Warm Brown x 15, Black x 2, White x 6, Soft Navy x 5",
+  "totalStitches": 120
+},
+{
+  "number": 14,
+  "side": "WS",
+  "instructions": "Soft Navy x 5, White x 6, Black x 2, Warm Brown x 16, Coffee x 7, Black x 2, Hot Red x 2, Black x 3, Coffee x 3, Black x 2, Pretty N' Pink x 14, Black x 1, Coffee x 9, Black x 6, Coffee x 1, Warm Brown x 4, Black x 1, White x 30, Soft Navy x 6",
+  "totalStitches": 120
+},
+{
+  "number": 15,
+  "side": "RS",
+  "instructions": "Soft Navy x 5, White x 31, Black x 3, Coffee x 2, Black x 2, Coffee x 2, Black x 2, Coffee x 9, Black x 2, Pretty N' Pink x 7, Black x 1, Pretty N' Pink x 6, Black x 2, Coffee x 5, Black x 3, Hot Red x 1, Black x 2, Coffee x 6, Warm Brown x 16, Black x 2, White x 7, Soft Navy x 4",
+  "totalStitches": 120
+},
+{
+  "number": 16,
+  "side": "WS",
+  "instructions": "Soft Navy x 4, White x 7, Black x 2, Warm Brown x 16, Coffee x 5, Black x 2, Hot Red x 2, Black x 2, Coffee x 5, Black x 2, Pretty N' Pink x 7, Black x 1, Pretty N' Pink x 8, Black x 1, Coffee x 7, Black x 4, Coffee x 3, Black x 6, White x 31, Soft Navy x 5",
+  "totalStitches": 120
+},
+{
+  "number": 17,
+  "side": "RS",
+  "instructions": "Soft Navy x 4, White x 31, Black x 2, Coffee x 2, Black x 2, Coffee x 5, Black x 6, Coffee x 3, Black x 2, Pretty N' Pink x 8, Black x 1, Pretty N' Pink x 7, Black x 2, Coffee x 6, Black x 2, Hot Red x 2, Black x 2, Coffee x 5, Warm Brown x 14, Black x 2, White x 9, Soft Navy x 3",
+  "totalStitches": 120
+},
+{
+  "number": 18,
+  "side": "WS",
+  "instructions": "Soft Navy x 3, White x 10, Black x 2, Warm Brown x 12, Coffee x 6, Black x 1, Hot Red x 3, Black x 1, Coffee x 7, Black x 1, Pretty N' Pink x 8, Black x 1, Pretty N' Pink x 5, Black x 9, Coffee x 3, Black x 2, Coffee x 3, Warm Brown x 1, Coffee x 2, Black x 1, Coffee x 3, Black x 2, White x 30, Soft Navy x 4",
+  "totalStitches": 120
+},
+{
+  "number": 19,
+  "side": "RS",
+  "instructions": "Soft Navy x 3, White x 31, Black x 2, Warm Brown x 1, Coffee x 2, Black x 1, Coffee x 2, Warm Brown x 2, Coffee x 3, Black x 1, Warm Brown x 1, Coffee x 3, Black x 2, Coffee x 4, Black x 4, Pretty N' Pink x 2, Black x 2, Pretty N' Pink x 8, Black x 1, Coffee x 7, Black x 1, Hot Red x 3, Black x 2, Coffee x 6, Warm Brown x 9, Black x 3, White x 12, Soft Navy x 2",
+  "totalStitches": 120
+},
+{
+  "number": 20,
+  "side": "WS",
+  "instructions": "Soft Navy x 2, White x 13, Black x 3, Warm Brown x 8, Coffee x 6, Black x 1, Hot Red x 3, Black x 2, Coffee x 7, Black x 1, Pretty N' Pink x 8, Black x 6, Coffee x 6, Black x 1, Coffee x 3, Warm Brown x 2, Coffee x 4, Warm Brown x 2, Coffee x 1, Black x 2, Coffee x 1, Warm Brown x 2, Coffee x 1, Black x 1, White x 31, Soft Navy x 3",
+  "totalStitches": 120
+},
+{
+  "number": 21,
+  "side": "RS",
+  "instructions": "Soft Navy x 2, White x 31, Black x 2, Coffee x 1, Warm Brown x 2, Coffee x 2, Black x 2, Warm Brown x 3, Coffee x 4, Warm Brown x 2, Coffee x 11, Black x 13, Coffee x 8, Black x 3, Hot Red x 1, Black x 2, Coffee x 6, Warm Brown x 7, Black x 1, White x 16, Soft Navy x 1",
+  "totalStitches": 120
+},
+{
+  "number": 22,
+  "side": "WS",
+  "instructions": "Soft Navy x 1, White x 16, Black x 1, Warm Brown x 7, Coffee x 4, Black x 1, Coffee x 1, Black x 5, Coffee x 7, Black x 14, Coffee x 10, Warm Brown x 4, Coffee x 3, Warm Brown x 3, Coffee x 1, Black x 1, Coffee x 3, Warm Brown x 2, Coffee x 1, Black x 3, White x 30, Soft Navy x 2",
+  "totalStitches": 120
+},
+{
+  "number": 23,
+  "side": "RS",
+  "instructions": "Soft Navy x 1, White x 30, Black x 2, Coffee x 1, Black x 1, Coffee x 1, Warm Brown x 3, Coffee x 2, Black x 2, Coffee x 1, Warm Brown x 3, Coffee x 3, Warm Brown x 5, Coffee x 2, Black x 10, Coffee x 9, Black x 2, Coffee x 7, Black x 7, Coffee x 3, Warm Brown x 7, Black x 1, White x 17",
+  "totalStitches": 120
+},
+{
+  "number": 24,
+  "side": "WS",
+  "instructions": "White x 17, Black x 2, Warm Brown x 6, Coffee x 2, Black x 2, Coffee x 1, Black x 4, Coffee x 2, Black x 7, Coffee x 8, Black x 13, Warm Brown x 6, Coffee x 1, Warm Brown x 5, Black x 2, Coffee x 3, Warm Brown x 3, Black x 2, Coffee x 2, Black x 1, White x 30, Soft Navy x 1",
+  "totalStitches": 120
+},
+{
+  "number": 25,
+  "side": "RS",
+  "instructions": "Soft Navy x 1, White x 30, Black x 1, Warm Brown x 1, Coffee x 2, Black x 1, Warm Brown x 4, Coffee x 2, Warm Brown x 1, Black x 2, Warm Brown x 10, Black x 15, Coffee x 5, Black x 3, Coffee x 5, Black x 2, Coffee x 2, Black x 2, Coffee x 2, Black x 2, Coffee x 2, Warm Brown x 5, Black x 3, White x 17",
+  "totalStitches": 120
+},
+{
+  "number": 26,
+  "side": "WS",
+  "instructions": "White x 18, Black x 2, Warm Brown x 5, Coffee x 2, Black x 2, Warm Brown x 1, Coffee x 1, Black x 3, Coffee x 1, Black x 1, Coffee x 13, Black x 17, Warm Brown x 11, Coffee x 2, Warm Brown x 5, Coffee x 3, Warm Brown x 1, Black x 1, White x 31",
+  "totalStitches": 120
+},
+{
+  "number": 27,
+  "side": "RS",
+  "instructions": "White x 30, Black x 2, Warm Brown x 1, Coffee x 3, Warm Brown x 6, Coffee x 2, Warm Brown x 9, Black x 19, Coffee x 12, Black x 3, Coffee x 3, Warm Brown x 1, Black x 2, Coffee x 2, Warm Brown x 4, Black x 2, White x 19",
+  "totalStitches": 120
+},
+{
+  "number": 28,
+  "side": "WS",
+  "instructions": "White x 19, Black x 2, Warm Brown x 4, Coffee x 2, Black x 2, Warm Brown x 2, Coffee x 3, Black x 3, Coffee x 11, Black x 20, Warm Brown x 7, Coffee x 2, Warm Brown x 6, Coffee x 3, Warm Brown x 2, Black x 3, White x 29",
+  "totalStitches": 120
+},
+{
+  "number": 29,
+  "side": "RS",
+  "instructions": "White x 29, Black x 1, Coffee x 2, Warm Brown x 2, Coffee x 3, Warm Brown x 15, Black x 20, Coffee x 10, Black x 2, Coffee x 4, Warm Brown x 3, Black x 1, Coffee x 3, Warm Brown x 4, Black x 2, White x 19",
+  "totalStitches": 120
+},
+{
+  "number": 30,
+  "side": "WS",
+  "instructions": "White x 19, Black x 2, Warm Brown x 4, Coffee x 3, Black x 1, Coffee x 1, Warm Brown x 3, Coffee x 4, Black x 3, Coffee x 8, Black x 20, Warm Brown x 14, Coffee x 3, Warm Brown x 5, Black x 2, White x 28",
+  "totalStitches": 120
+},
+{
+  "number": 61,
+  "side": "RS",
+  "instructions": "Black x 1, Coffee x 1, Black x 1, Coffee x 1, Warm Brown x 1, Coffee x 1, Black x 1, Coffee x 1, Warm Brown x 1, Coffee x 3, Warm Brown x 1, Black x 1, Warm Brown x 2, Black x 1, Warm Brown x 2, Coffee x 2, Black x 1, Coffee x 1, Warm Brown x 5, Coffee x 1, Black x 1, Coffee x 7, Black x 6, Coffee x 10, Warm Brown x 2, Coffee x 1, Warm Brown x 4, Coffee x 7, Warm Brown x 2, Black x 8, Frosty Green x 2, White x 2, Black x 1, Coffee x 5, Warm Brown x 6, Coffee x 7, Black x 1, Coffee x 1, Warm Brown x 1, Coffee x 1, Black x 1, Coffee x 2, Black x 1, Coffee x 1, Black x 3, White x 8",
+  "totalStitches": 120
+},
+{
+  "number": 62,
+  "side": "WS",
+  "instructions": "White x 8, Black x 3, Coffee x 2, Black x 1, Coffee x 1, Black x 2, Warm Brown x 1, Coffee x 19, Black x 2, White x 1, Frosty Green x 2, Black x 9, Coffee x 9, Warm Brown x 4, Coffee x 1, Warm Brown x 2, Coffee x 22, Black x 2, Warm Brown x 6, Coffee x 1, Black x 1, Coffee x 2, Warm Brown x 2, Black x 1, Warm Brown x 4, Coffee x 3, Warm Brown x 1, Coffee x 1, Black x 1, Warm Brown x 2, Coffee x 1, Black x 1, Coffee x 1, Black x 1",
+  "totalStitches": 120
+},
+{
+  "number": 63,
+  "side": "RS",
+  "instructions": "Black x 1, Coffee x 1, Black x 1, Coffee x 1, Warm Brown x 2, Coffee x 2, Warm Brown x 1, Coffee x 3, Warm Brown x 4, Coffee x 1, Warm Brown x 2, Coffee x 2, Black x 1, Coffee x 1, Warm Brown x 6, Coffee x 1, Black x 1, Coffee x 22, Warm Brown x 1, Coffee x 1, Warm Brown x 4, Coffee x 10, Black x 9, Frosty Green x 2, White x 2, Black x 1, Coffee x 10, Black x 3, Coffee x 5, Warm Brown x 2, Black x 1, Coffee x 2, Black x 1, Coffee x 2, Black x 1, Coffee x 1, Black x 1, White x 8",
+  "totalStitches": 120
+},
+{
+  "number": 64,
+  "side": "WS",
+  "instructions": "White x 7, Black x 2, Coffee x 1, Black x 1, Coffee x 6, Warm Brown x 2, Coffee x 1, Black x 2, Coffee x 4, Black x 3, Coffee x 3, Black x 6, White x 2, Frosty Green x 2, Black x 9, Coffee x 10, Warm Brown x 4, Coffee x 23, Black x 2, Warm Brown x 2, Black x 1, Warm Brown x 4, Coffee x 1, Black x 1, Coffee x 2, Warm Brown x 6, Coffee x 4, Warm Brown x 1, Coffee x 2, Warm Brown x 2, Coffee x 1, Black x 1, Coffee x 1, Black x 1",
+  "totalStitches": 120
+},
+{
+  "number": 65,
+  "side": "RS",
+  "instructions": "Black x 1, Coffee x 1, Black x 1, Coffee x 1, Warm Brown x 5, Coffee x 2, Black x 1, Coffee x 2, Warm Brown x 5, Coffee x 2, Black x 1, Coffee x 1, Warm Brown x 4, Black x 1, Warm Brown x 3, Black x 3, Coffee x 21, Warm Brown x 3, Coffee x 11, Black x 3, White x 2, Black x 4, Frosty Green x 2, White x 1, Black x 3, Coffee x 7, Black x 1, Coffee x 7, Black x 1, Coffee x 1, Warm Brown x 2, Coffee x 5, Black x 2, Coffee x 1, Black x 2, White x 7",
+  "totalStitches": 120
+},
+{
+  "number": 66,
+  "side": "WS",
+  "instructions": "Soft Navy x 1, White x 6, Black x 2, Coffee x 1, Black x 2, Coffee x 5, Warm Brown x 2, Black x 2, Coffee x 1, Warm Brown x 5, Coffee x 10, Black x 2, White x 1, Frosty Green x 3, Black x 3, White x 2, Black x 3, Coffee x 7, Warm Brown x 1, Coffee x 3, Warm Brown x 3, Coffee x 5, Warm Brown x 1, Coffee x 14, Black x 2, Coffee x 2, Warm Brown x 3, Black x 1, Warm Brown x 5, Black x 1, Coffee x 2, Warm Brown x 5, Black x 1, Coffee x 1, Black x 1, Coffee x 2, Warm Brown x 5, Coffee x 1, Black x 1, Coffee x 1, Black x 1",
+  "totalStitches": 120
+},
+{
+  "number": 67,
+  "side": "RS",
+  "instructions": "Black x 1, Coffee x 1, Black x 1, Coffee x 1, Warm Brown x 5, Coffee x 2, Black x 1, Coffee x 1, Black x 1, Warm Brown x 5, Coffee x 2, Black x 1, Warm Brown x 5, Black x 2, Warm Brown x 3, Coffee x 2, Black x 3, Coffee x 11, Warm Brown x 2, Coffee x 5, Warm Brown x 2, Coffee x 4, Warm Brown x 1, Coffee x 8, Black x 6, Frosty Green x 3, White x 1, Black x 2, Coffee x 10, Warm Brown x 7, Coffee x 1, Black x 1, Warm Brown x 2, Coffee x 5, Black x 1, Coffee x 2, Black x 3, White x 5, Soft Navy x 1",
+  "totalStitches": 120
+},
+{
+  "number": 91,
+  "side": "RS",
+  "instructions": "Soft Navy x 25, Black x 2, Coffee x 1, Warm Brown x 6, Coffee x 5, Warm Brown x 28, Coffee x 7, Warm Brown x 6, Black x 2, Coffee x 2, Black x 2, Coffee x 3, Warm Brown x 3, Black x 2, Coffee x 4, Black x 3, Coffee x 3, Warm Brown x 5, Black x 3, Coffee x 2, Warm Brown x 2, Black x 2, Soft Navy x 2",
+  "totalStitches": 120
+},
+{
+  "number": 92,
+  "side": "WS",
+  "instructions": "Soft Navy x 2, Black x 2, Warm Brown x 3, Coffee x 3, Black x 2, Warm Brown x 6, Coffee x 3, Black x 3, Coffee x 2, Black x 2, Warm Brown x 4, Coffee x 7, Black x 1, Warm Brown x 8, Coffee x 3, Warm Brown x 41, Black x 2, Soft Navy x 26",
+  "totalStitches": 120
+},
+{
+  "number": 93,
+  "side": "RS",
+  "instructions": "Soft Navy x 27, Black x 2, Warm Brown x 50, Black x 2, Coffee x 5, Warm Brown x 4, Coffee x 1, Black x 2, Coffee x 8, Warm Brown x 5, Coffee x 1, Black x 2, Coffee x 3, Warm Brown x 3, Black x 2, Soft Navy x 3",
+  "totalStitches": 120
+},
+{
+  "number": 94,
+  "side": "WS",
+  "instructions": "Soft Navy x 3, Black x 2, Coffee x 1, Warm Brown x 3, Coffee x 3, Black x 3, Coffee x 1, Warm Brown x 6, Coffee x 6, Black x 2, Warm Brown x 10, Black x 3, Warm Brown x 38, Coffee x 2, Warm Brown x 7, Black x 2, Soft Navy x 28",
+  "totalStitches": 120
+},
+{
+  "number": 95,
+  "side": "RS",
+  "instructions": "Soft Navy x 29, Black x 2, Coffee x 1, Warm Brown x 2, Coffee x 4, Warm Brown x 25, Black x 2, Warm Brown x 10, Coffee x 1, Black x 2, Warm Brown x 10, Coffee x 1, Black x 2, Coffee x 2, Warm Brown x 8, Coffee x 1, Black x 4, Coffee x 3, Warm Brown x 4, Coffee x 1, Black x 2, Soft Navy x 4",
+  "totalStitches": 120
+},
+{
+  "number": 96,
+  "side": "WS",
+  "instructions": "Soft Navy x 5, Black x 2, Coffee x 1, Warm Brown x 5, Coffee x 4, Black x 4, Warm Brown x 7, Coffee x 2, Black x 2, Coffee x 1, Warm Brown x 10, Black x 4, Coffee x 1, Warm Brown x 5, Black x 3, Warm Brown x 4, Coffee x 1, Warm Brown x 22, Coffee x 3, Black x 4, Soft Navy x 30",
+  "totalStitches": 120
+},
+{
+  "number": 97,
+  "side": "RS",
+  "instructions": "Soft Navy x 32, Black x 3, Coffee x 1, Warm Brown x 23, Coffee x 2, Warm Brown x 5, Black x 9, Coffee x 1, Warm Brown x 9, Coffee x 1, Black x 3, Coffee x 2, Warm Brown x 7, Coffee x 6, Warm Brown x 7, Black x 3, Soft Navy x 6",
+  "totalStitches": 120
+},
+{
+  "number": 98,
+  "side": "WS",
+  "instructions": "Soft Navy x 7, Black x 4, Warm Brown x 20, Coffee x 2, Black x 4, Coffee x 6, Black x 2, Warm Brown x 3, Coffee x 4, Warm Brown x 5, Coffee x 3, Warm Brown x 21, Black x 6, Soft Navy x 33",
+  "totalStitches": 120
+},
+{
+  "number": 99,
+  "side": "RS",
+  "instructions": "Soft Navy x 35, Black x 5, Warm Brown x 21, Coffee x 5, Warm Brown x 10, Black x 9, Coffee x 2, Warm Brown x 14, Coffee x 5, Black x 5, Soft Navy x 9",
+  "totalStitches": 120
+},
+{
+  "number": 100,
+  "side": "WS",
+  "instructions": "Soft Navy x 11, Black x 10, Coffee x 1, Warm Brown x 4, Coffee x 1, Black x 2, Coffee x 1, Warm Brown x 6, Coffee x 1, Black x 2, Coffee x 2, Warm Brown x 38, Black x 3, Soft Navy x 38",
+  "totalStitches": 120
+},
+{
+  "number": 101,
+  "side": "RS",
+  "instructions": "Soft Navy x 40, Black x 3, Coffee x 1, Warm Brown x 38, Coffee x 1, Black x 2, Coffee x 1, Warm Brown x 3, Coffee x 1, Black x 12, Soft Navy x 18",
+  "totalStitches": 120
+},
+{
+  "number": 102,
+  "side": "WS",
+  "instructions": "Soft Navy x 22, Black x 4, Soft Navy x 3, Black x 2, Coffee x 1, Warm Brown x 7, Black x 3, Coffee x 3, Warm Brown x 29, Coffee x 1, Black x 4, Soft Navy x 41",
+  "totalStitches": 120
+},
+{
+  "number": 103,
+  "side": "RS",
+  "instructions": "Soft Navy x 43, Black x 4, Coffee x 1, Warm Brown x 19, Coffee x 7, Black x 8, Coffee x 1, Warm Brown x 3, Coffee x 1, Black x 3, Soft Navy x 30",
+  "totalStitches": 120
+},
+{
+  "number": 104,
+  "side": "WS",
+  "instructions": "Soft Navy x 31, Black x 9, Soft Navy x 2, Black x 17, Coffee x 1, Warm Brown x 9, Coffee x 1, Black x 6, Soft Navy x 44",
+  "totalStitches": 120
+},
+{
+  "number": 105,
+  "side": "RS",
+  "instructions": "Soft Navy x 47, Black x 10, Warm Brown x 3, Black x 7, Soft Navy x 3, Black x 4, Soft Navy x 8, Black x 5, Soft Navy x 33",
+  "totalStitches": 120
+},
+{
+  "number": 106,
+  "side": "WS",
+  "instructions": "Soft Navy x 58, Black x 12, Soft Navy x 50",
+  "totalStitches": 120
+},
+{
+  "number": 107,
+  "side": "RS",
+  "instructions": "Soft Navy x 57, Black x 3, Soft Navy x 60",
+  "totalStitches": 120
+},
+{
+  "number": 108,
+  "side": "WS",
+  "instructions": "Soft Navy x 120",
+  "totalStitches": 120
+},
+{
+  "number": 109,
+  "side": "RS",
+  "instructions": "Soft Navy x 120",
+  "totalStitches": 120
+},
+{
+  "number": 110,
+  "side": "WS",
+  "instructions": "Soft Navy x 120",
+  "totalStitches": 120
+},
+{
+  "number": 111,
+  "side": "RS",
+  "instructions": "Soft Navy x 120",
+  "totalStitches": 120
+}
+]

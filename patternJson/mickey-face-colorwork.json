@@ -1,0 +1,44 @@
+{
+  "slug": "mickey-face-colorwork",
+  "title": "Mickey Mouse Pixel Art Pattern",
+  "patternType": "row",
+  "approxSize": "45 x 40 in",
+  "graphImageUrl": "graphImages/mickey-face-colowork-graph.png",
+  "graphImageAlt": "Mickey Face Pixel Art Pattern graph",
+  "intro": "Follow the pattern row by row online and track your progress as you crochet.",
+  "colors": {
+    "Black": "#070807",
+    "White": "#ffffff",
+    "Tan": "#e8d7b7",
+    "Red": "#f31924",
+    "Dark Red": "#a40b21"
+  },
+      "materials": [
+        {
+          "label": "Hook",
+          "detail": "5.0 mm crochet hook"
+        },
+        {
+          "label": "Yarn - based on a 200-yard skein",
+          "detail": "Black - 3 skeins, White - 1 skein, Tan - 2 skeins, Red - 1 skein, Dark Red - 3 skeins"
+        },
+        {
+          "label": "Other",
+          "detail": "Tapestry needle, scissors, stitch markers"
+        }
+      ],
+  "steps": [
+    {
+      "number": 1,
+      "side": "RS",
+      "instructions": "Color1 x 10",
+      "totalStitches": 10
+    },
+    {
+      "number": 2,
+      "side": "WS",
+      "instructions": "Color2 x 10",
+      "totalStitches": 10
+    }
+  ]
+}
